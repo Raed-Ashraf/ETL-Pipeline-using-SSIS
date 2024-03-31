@@ -1,0 +1,2828 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,STATUS,PRODUCTLINE,PRODUCTCODE,COUNTRY
+10107,30,95.7,Shipped,Motorcycles,S10_1678,USA
+10121,34,81.35,Shipped,Motorcycles,S10_1678,France
+10134,41,94.74,Shipped,Motorcycles,S10_1678,France
+10145,45,83.26,Shipped,Motorcycles,S10_1678,USA
+10159,49,,Shipped,Motorcycles,S10_1678,USA
+10168,36,96.66,Shipped,Motorcycles,S10_1678,USA
+10180,29,86.13,Shipped,Motorcycles,S10_1678,France
+10188,48,100,Shipped,Motorcycles,S10_1678,Norway
+10201,22,98.57,Shipped,Motorcycles,S10_1678,USA
+10211,41,100,Shipped,Motorcycles,S10_1678,France
+10223,37,100,Shipped,Motorcycles,S10_1678,Australia
+10237,23,100,Shipped,Motorcycles,S10_1678,USA
+10251,28,100,Shipped,Motorcycles,S10_1678,USA
+10263,34,100,Shipped,Motorcycles,S10_1678,USA
+10275,45,92.83,Shipped,Motorcycles,S10_1678,France
+10285,36,100,Shipped,Motorcycles,S10_1678,USA
+10299,23,100,Shipped,Motorcycles,S10_1678,Finland
+10309,41,100,Shipped,Motorcycles,S10_1678,Norway
+10318,46,94.74,Shipped,Motorcycles,S10_1678,USA
+10329,42,100,Shipped,Motorcycles,S10_1678,USA
+10341,41,100,Shipped,Motorcycles,S10_1678,Austria
+10361,20,72.55,Shipped,Motorcycles,S10_1678,Australia
+10375,21,34.91,Shipped,Motorcycles,S10_1678,France
+10388,42,76.36,Shipped,Motorcycles,S10_1678,USA
+10403,24,100,Shipped,Motorcycles,S10_1678,UK
+10417,66,100,Disputed,Motorcycles,S10_1678,Spain
+10103,26,100,Shipped,Classic Cars,S10_1949,Norway
+10112,29,100,Shipped,Classic Cars,S10_1949,Sweden
+10126,38,100,Shipped,Classic Cars,S10_1949,Spain
+10140,37,100,Shipped,Classic Cars,S10_1949,USA
+10150,45,100,Shipped,Classic Cars,S10_1949,Singapore
+10163,21,100,Shipped,Classic Cars,S10_1949,USA
+10174,34,100,Shipped,Classic Cars,S10_1949,Australia
+10183,23,100,Shipped,Classic Cars,S10_1949,USA
+10194,42,100,Shipped,Classic Cars,S10_1949,France
+10206,47,100,Shipped,Classic Cars,S10_1949,Canada
+10215,35,100,Shipped,Classic Cars,S10_1949,USA
+10228,29,100,Shipped,Classic Cars,S10_1949,USA
+10245,34,100,Shipped,Classic Cars,S10_1949,USA
+10258,32,100,Shipped,Classic Cars,S10_1949,Japan
+10270,21,100,Shipped,Classic Cars,S10_1949,Australia
+10280,34,100,Shipped,Classic Cars,S10_1949,Italy
+10291,37,100,Shipped,Classic Cars,S10_1949,Sweden
+10304,47,100,Shipped,Classic Cars,S10_1949,France
+10312,48,100,Shipped,Classic Cars,S10_1949,USA
+10322,40,100,Shipped,Classic Cars,S10_1949,USA
+10333,26,100,Shipped,Classic Cars,S10_1949,USA
+10347,30,100,Shipped,Classic Cars,S10_1949,Australia
+10357,32,100,Shipped,Classic Cars,S10_1949,USA
+10369,41,100,Shipped,Classic Cars,S10_1949,USA
+10381,36,100,Shipped,Classic Cars,S10_1949,USA
+10391,24,100,Shipped,Classic Cars,S10_1949,Australia
+10411,23,100,Shipped,Classic Cars,S10_1949,Canada
+10424,50,100,In Process,Classic Cars,S10_1949,Spain
+10107,39,99.91,Shipped,Motorcycles,S10_2016,USA
+10120,29,96.34,Shipped,Motorcycles,S10_2016,Australia
+10134,27,100,Shipped,Motorcycles,S10_2016,France
+10145,37,100,Shipped,Motorcycles,S10_2016,USA
+10159,37,100,Shipped,Motorcycles,S10_2016,USA
+10168,27,100,Shipped,Motorcycles,S10_2016,USA
+10180,42,100,Shipped,Motorcycles,S10_2016,France
+10188,38,96.34,Shipped,Motorcycles,S10_2016,Norway
+10201,24,100,Shipped,Motorcycles,S10_2016,USA
+10210,23,100,Shipped,Motorcycles,S10_2016,Japan
+10223,47,100,Shipped,Motorcycles,S10_2016,Australia
+10236,22,100,Shipped,Motorcycles,S10_2016,USA
+10251,44,100,Shipped,Motorcycles,S10_2016,USA
+10263,40,100,Shipped,Motorcycles,S10_2016,USA
+10275,22,100,Shipped,Motorcycles,S10_2016,France
+10285,47,100,Shipped,Motorcycles,S10_2016,USA
+10298,39,96.34,Shipped,Motorcycles,S10_2016,France
+10308,34,100,Shipped,Motorcycles,S10_2016,USA
+10318,45,100,Shipped,Motorcycles,S10_2016,USA
+10329,20,100,Shipped,Motorcycles,S10_2016,USA
+10339,40,68.92,Shipped,Motorcycles,S10_2016,Japan
+10361,26,51.15,Shipped,Motorcycles,S10_2016,Australia
+10374,39,100,Shipped,Motorcycles,S10_2016,Australia
+10388,50,44.51,Shipped,Motorcycles,S10_2016,USA
+10402,45,100,Shipped,Motorcycles,S10_2016,France
+10417,45,100,Disputed,Motorcycles,S10_2016,Spain
+10107,27,100,Shipped,Motorcycles,S10_4698,USA
+10120,46,100,Shipped,Motorcycles,S10_4698,Australia
+10134,31,100,Shipped,Motorcycles,S10_4698,France
+10145,33,100,Shipped,Motorcycles,S10_4698,USA
+10159,22,100,Shipped,Motorcycles,S10_4698,USA
+10168,20,100,Shipped,Motorcycles,S10_4698,USA
+10180,41,100,Shipped,Motorcycles,S10_4698,France
+10188,45,100,Shipped,Motorcycles,S10_4698,Norway
+10201,49,100,Shipped,Motorcycles,S10_4698,USA
+10210,34,100,Shipped,Motorcycles,S10_4698,Japan
+10223,49,100,Shipped,Motorcycles,S10_4698,Australia
+10237,39,100,Shipped,Motorcycles,S10_4698,USA
+10251,43,100,Shipped,Motorcycles,S10_4698,USA
+10263,41,100,Shipped,Motorcycles,S10_4698,USA
+10275,36,100,Shipped,Motorcycles,S10_4698,France
+10285,27,100,Shipped,Motorcycles,S10_4698,USA
+10299,29,100,Shipped,Motorcycles,S10_4698,Finland
+10308,20,100,Shipped,Motorcycles,S10_4698,USA
+10318,37,100,Shipped,Motorcycles,S10_4698,USA
+10329,26,100,Shipped,Motorcycles,S10_4698,USA
+10339,39,76.67,Shipped,Motorcycles,S10_4698,Japan
+10362,22,100,Shipped,Motorcycles,S10_4698,USA
+10374,22,100,Shipped,Motorcycles,S10_4698,Australia
+10388,21,86.77,Shipped,Motorcycles,S10_4698,USA
+10403,66,100,Shipped,Motorcycles,S10_4698,UK
+10417,56,100,Disputed,Motorcycles,S10_4698,Spain
+10105,50,100,Shipped,Classic Cars,S10_4757,Denmark
+10119,46,100,Shipped,Classic Cars,S10_4757,Austria
+10129,33,100,Shipped,Classic Cars,S10_4757,UK
+10143,49,100,Shipped,Classic Cars,S10_4757,USA
+10155,32,100,Shipped,Classic Cars,S10_4757,Finland
+10167,44,100,Cancelled,Classic Cars,S10_4757,Sweden
+10178,24,100,Shipped,Classic Cars,S10_4757,France
+10186,26,100,Shipped,Classic Cars,S10_4757,UK
+10197,45,100,Shipped,Classic Cars,S10_4757,Spain
+10209,39,100,Shipped,Classic Cars,S10_4757,USA
+10222,49,100,Shipped,Classic Cars,S10_4757,USA
+10248,20,100,Cancelled,Classic Cars,S10_4757,USA
+10261,27,100,Shipped,Classic Cars,S10_4757,Canada
+10273,30,100,Shipped,Classic Cars,S10_4757,Belgium
+10283,25,100,Shipped,Classic Cars,S10_4757,Canada
+10295,24,100,Shipped,Classic Cars,S10_4757,USA
+10307,22,100,Shipped,Classic Cars,S10_4757,USA
+10316,33,100,Shipped,Classic Cars,S10_4757,UK
+10325,47,64.93,Shipped,Classic Cars,S10_4757,Norway
+10337,25,48.05,Shipped,Classic Cars,S10_4757,USA
+10350,26,75.47,Shipped,Classic Cars,S10_4757,Spain
+10359,48,54.68,Shipped,Classic Cars,S10_4757,France
+10373,39,100,Shipped,Classic Cars,S10_4757,Finland
+10384,34,100,Shipped,Classic Cars,S10_4757,USA
+10395,32,100,Shipped,Classic Cars,S10_4757,France
+10400,64,100,Shipped,Classic Cars,S10_4757,USA
+10414,19,100,On Hold,Classic Cars,S10_4757,USA
+10103,42,100,Shipped,Classic Cars,S10_4962,Norway
+10114,31,100,Shipped,Classic Cars,S10_4962,France
+10126,22,100,Shipped,Classic Cars,S10_4962,Spain
+10140,26,100,Shipped,Classic Cars,S10_4962,USA
+10150,20,100,Shipped,Classic Cars,S10_4962,Singapore
+10164,21,100,Resolved,Classic Cars,S10_4962,Austria
+10175,33,100,Shipped,Classic Cars,S10_4962,UK
+10183,28,100,Shipped,Classic Cars,S10_4962,USA
+10194,26,100,Shipped,Classic Cars,S10_4962,France
+10207,31,100,Shipped,Classic Cars,S10_4962,USA
+10217,48,100,Shipped,Classic Cars,S10_4962,Singapore
+10229,50,100,Shipped,Classic Cars,S10_4962,USA
+10245,28,100,Shipped,Classic Cars,S10_4962,USA
+10259,26,100,Shipped,Classic Cars,S10_4962,Singapore
+10270,32,100,Shipped,Classic Cars,S10_4962,Australia
+10281,44,100,Shipped,Classic Cars,S10_4962,USA
+10291,30,100,Shipped,Classic Cars,S10_4962,Sweden
+10305,38,100,Shipped,Classic Cars,S10_4962,USA
+10313,40,100,Shipped,Classic Cars,S10_4962,Canada
+10322,46,61.99,Shipped,Classic Cars,S10_4962,USA
+10334,26,100,On Hold,Classic Cars,S10_4962,Sweden
+10347,27,100,Shipped,Classic Cars,S10_4962,Australia
+10357,43,100,Shipped,Classic Cars,S10_4962,USA
+10370,35,65.63,Shipped,Classic Cars,S10_4962,Australia
+10381,37,100,Shipped,Classic Cars,S10_4962,USA
+10391,37,46.9,Shipped,Classic Cars,S10_4962,Australia
+10411,27,100,Shipped,Classic Cars,S10_4962,Canada
+10425,38,100,In Process,Classic Cars,S10_4962,France
+10108,33,100,Shipped,Classic Cars,S12_1099,Philippines
+10122,42,100,Shipped,Classic Cars,S12_1099,France
+10135,42,100,Shipped,Classic Cars,S12_1099,USA
+10147,48,100,Shipped,Classic Cars,S12_1099,USA
+10159,41,100,Shipped,Classic Cars,S12_1099,USA
+10169,30,100,Shipped,Classic Cars,S12_1099,Australia
+10181,27,100,Shipped,Classic Cars,S12_1099,Norway
+10191,21,100,Shipped,Classic Cars,S12_1099,Germany
+10203,20,100,Shipped,Classic Cars,S12_1099,Spain
+10211,41,100,Shipped,Classic Cars,S12_1099,France
+10225,27,100,Shipped,Classic Cars,S12_1099,Switzerland
+10238,28,100,Shipped,Classic Cars,S12_1099,Denmark
+10253,24,100,Cancelled,Classic Cars,S12_1099,UK
+10266,44,100,Shipped,Classic Cars,S12_1099,Italy
+10276,50,100,Shipped,Classic Cars,S12_1099,USA
+10287,21,100,Shipped,Classic Cars,S12_1099,Switzerland
+10300,33,100,Shipped,Classic Cars,S12_1099,Germany
+10310,33,100,Shipped,Classic Cars,S12_1099,Germany
+10320,31,100,Shipped,Classic Cars,S12_1099,Sweden
+10329,41,71.47,Shipped,Classic Cars,S12_1099,USA
+10341,45,79.65,Shipped,Classic Cars,S12_1099,Austria
+10363,33,85.39,Shipped,Classic Cars,S12_1099,Finland
+10375,45,76,Shipped,Classic Cars,S12_1099,France
+10389,26,99.04,Shipped,Classic Cars,S12_1099,Sweden
+10419,12,100,Shipped,Classic Cars,S12_1099,Austria
+10105,41,100,Shipped,Classic Cars,S12_1108,Denmark
+10117,33,100,Shipped,Classic Cars,S12_1108,Singapore
+10127,46,100,Shipped,Classic Cars,S12_1108,USA
+10142,33,100,Shipped,Classic Cars,S12_1108,USA
+10153,20,100,Shipped,Classic Cars,S12_1108,Spain
+10165,44,100,Shipped,Classic Cars,S12_1108,Singapore
+10176,33,100,Shipped,Classic Cars,S12_1108,Italy
+10185,21,100,Shipped,Classic Cars,S12_1108,USA
+10196,47,100,Shipped,Classic Cars,S12_1108,USA
+10208,46,100,Shipped,Classic Cars,S12_1108,France
+10220,32,100,Shipped,Classic Cars,S12_1108,Ireland
+10231,42,100,Shipped,Classic Cars,S12_1108,Spain
+10247,44,100,Shipped,Classic Cars,S12_1108,Finland
+10272,35,100,Shipped,Classic Cars,S12_1108,USA
+10282,41,100,Shipped,Classic Cars,S12_1108,USA
+10293,46,100,Shipped,Classic Cars,S12_1108,Italy
+10306,31,100,Shipped,Classic Cars,S12_1108,UK
+10314,38,100,Shipped,Classic Cars,S12_1108,Denmark
+10325,42,64,Shipped,Classic Cars,S12_1108,Norway
+10336,33,57.22,Shipped,Classic Cars,S12_1108,France
+10348,48,52.36,Shipped,Classic Cars,S12_1108,Spain
+10359,42,100,Shipped,Classic Cars,S12_1108,France
+10371,32,100,Shipped,Classic Cars,S12_1108,USA
+10382,34,100,Shipped,Classic Cars,S12_1108,USA
+10395,33,69.12,Shipped,Classic Cars,S12_1108,France
+10413,36,100,Shipped,Classic Cars,S12_1108,USA
+10103,27,100,Shipped,Trucks and Buses,S12_1666,Norway
+10113,21,100,Shipped,Trucks and Buses,S12_1666,USA
+10126,21,100,Shipped,Trucks and Buses,S12_1666,Spain
+10140,38,100,Shipped,Trucks and Buses,S12_1666,USA
+10150,30,100,Shipped,Trucks and Buses,S12_1666,Singapore
+10164,49,100,Resolved,Trucks and Buses,S12_1666,Austria
+10174,43,100,Shipped,Trucks and Buses,S12_1666,Australia
+10183,41,100,Shipped,Trucks and Buses,S12_1666,USA
+10194,38,100,Shipped,Trucks and Buses,S12_1666,France
+10206,28,100,Shipped,Trucks and Buses,S12_1666,Canada
+10216,43,100,Shipped,Trucks and Buses,S12_1666,France
+10229,25,100,Shipped,Trucks and Buses,S12_1666,USA
+10245,38,100,Shipped,Trucks and Buses,S12_1666,USA
+10258,41,100,Shipped,Trucks and Buses,S12_1666,Japan
+10270,28,100,Shipped,Trucks and Buses,S12_1666,Australia
+10281,25,100,Shipped,Trucks and Buses,S12_1666,USA
+10291,41,100,Shipped,Trucks and Buses,S12_1666,Sweden
+10304,39,100,Shipped,Trucks and Buses,S12_1666,France
+10313,21,100,Shipped,Trucks and Buses,S12_1666,Canada
+10322,27,100,Shipped,Trucks and Buses,S12_1666,USA
+10333,33,99.21,Shipped,Trucks and Buses,S12_1666,USA
+10347,29,100,Shipped,Trucks and Buses,S12_1666,Australia
+10357,49,100,Shipped,Trucks and Buses,S12_1666,USA
+10370,49,100,Shipped,Trucks and Buses,S12_1666,Australia
+10381,20,100,Shipped,Trucks and Buses,S12_1666,USA
+10391,39,63.2,Shipped,Trucks and Buses,S12_1666,Australia
+10411,40,100,Shipped,Trucks and Buses,S12_1666,Canada
+10424,49,100,In Process,Trucks and Buses,S12_1666,Spain
+10107,21,100,Shipped,Motorcycles,S12_2823,USA
+10121,50,100,Shipped,Motorcycles,S12_2823,France
+10134,20,100,Shipped,Motorcycles,S12_2823,France
+10145,49,100,Shipped,Motorcycles,S12_2823,USA
+10159,38,100,Shipped,Motorcycles,S12_2823,USA
+10169,35,100,Shipped,Motorcycles,S12_2823,Australia
+10180,40,100,Shipped,Motorcycles,S12_2823,France
+10189,28,100,Shipped,Motorcycles,S12_2823,USA
+10201,25,100,Shipped,Motorcycles,S12_2823,USA
+10211,36,100,Shipped,Motorcycles,S12_2823,France
+10224,43,100,Shipped,Motorcycles,S12_2823,France
+10237,32,100,Shipped,Motorcycles,S12_2823,USA
+10251,46,100,Shipped,Motorcycles,S12_2823,USA
+10263,48,100,Shipped,Motorcycles,S12_2823,USA
+10276,43,100,Shipped,Motorcycles,S12_2823,USA
+10285,49,100,Shipped,Motorcycles,S12_2823,USA
+10299,24,100,Shipped,Motorcycles,S12_2823,Finland
+10309,26,100,Shipped,Motorcycles,S12_2823,Norway
+10319,30,100,Shipped,Motorcycles,S12_2823,USA
+10329,24,100,Shipped,Motorcycles,S12_2823,USA
+10341,55,100,Shipped,Motorcycles,S12_2823,Austria
+10362,22,100,Shipped,Motorcycles,S12_2823,USA
+10375,49,78.92,Shipped,Motorcycles,S12_2823,France
+10388,44,100,Shipped,Motorcycles,S12_2823,USA
+10403,66,100,Shipped,Motorcycles,S12_2823,UK
+10417,21,100,Disputed,Motorcycles,S12_2823,Spain
+10104,34,100,Shipped,Classic Cars,S12_3148,Spain
+10117,43,100,Shipped,Classic Cars,S12_3148,Singapore
+10127,46,100,Shipped,Classic Cars,S12_3148,USA
+10142,33,100,Shipped,Classic Cars,S12_3148,USA
+10153,42,100,Shipped,Classic Cars,S12_3148,Spain
+10165,34,100,Shipped,Classic Cars,S12_3148,Singapore
+10176,47,100,Shipped,Classic Cars,S12_3148,Italy
+10185,33,100,Shipped,Classic Cars,S12_3148,USA
+10196,24,100,Shipped,Classic Cars,S12_3148,USA
+10208,26,100,Shipped,Classic Cars,S12_3148,France
+10220,30,100,Shipped,Classic Cars,S12_3148,Ireland
+10230,43,100,Shipped,Classic Cars,S12_3148,Germany
+10247,25,100,Shipped,Classic Cars,S12_3148,Finland
+10272,27,100,Shipped,Classic Cars,S12_3148,USA
+10282,27,100,Shipped,Classic Cars,S12_3148,USA
+10293,24,100,Shipped,Classic Cars,S12_3148,Italy
+10306,34,100,Shipped,Classic Cars,S12_3148,UK
+10314,46,100,Shipped,Classic Cars,S12_3148,Denmark
+10324,27,54.33,Shipped,Classic Cars,S12_3148,USA
+10336,33,100,Shipped,Classic Cars,S12_3148,France
+10348,47,100,Shipped,Classic Cars,S12_3148,Spain
+10358,49,55.34,Shipped,Classic Cars,S12_3148,Spain
+10372,40,100,Shipped,Classic Cars,S12_3148,Japan
+10382,37,100,Shipped,Classic Cars,S12_3148,USA
+10413,47,100,Shipped,Classic Cars,S12_3148,USA
+10108,45,100,Shipped,Classic Cars,S12_3380,Philippines
+10122,37,99.82,Shipped,Classic Cars,S12_3380,France
+10135,48,100,Shipped,Classic Cars,S12_3380,USA
+10147,31,100,Shipped,Classic Cars,S12_3380,USA
+10160,46,100,Shipped,Classic Cars,S12_3380,USA
+10170,47,100,Shipped,Classic Cars,S12_3380,Austria
+10181,28,100,Shipped,Classic Cars,S12_3380,Norway
+10191,40,100,Shipped,Classic Cars,S12_3380,Germany
+10203,20,100,Shipped,Classic Cars,S12_3380,Spain
+10212,39,100,Shipped,Classic Cars,S12_3380,Spain
+10225,25,99.82,Shipped,Classic Cars,S12_3380,Switzerland
+10238,29,100,Shipped,Classic Cars,S12_3380,Denmark
+10253,22,100,Cancelled,Classic Cars,S12_3380,UK
+10266,22,100,Shipped,Classic Cars,S12_3380,Italy
+10276,47,100,Shipped,Classic Cars,S12_3380,USA
+10287,45,100,Shipped,Classic Cars,S12_3380,Switzerland
+10300,29,100,Shipped,Classic Cars,S12_3380,Germany
+10310,24,100,Shipped,Classic Cars,S12_3380,Germany
+10320,35,100,Shipped,Classic Cars,S12_3380,Sweden
+10329,46,83.63,Shipped,Classic Cars,S12_3380,USA
+10341,44,95.93,Shipped,Classic Cars,S12_3380,Austria
+10363,34,96.73,Shipped,Classic Cars,S12_3380,Finland
+10376,35,100,Shipped,Classic Cars,S12_3380,USA
+10389,25,72.38,Shipped,Classic Cars,S12_3380,Sweden
+10419,10,100,Shipped,Classic Cars,S12_3380,Austria
+10105,29,100,Shipped,Classic Cars,S12_3891,Denmark
+10117,39,100,Shipped,Classic Cars,S12_3891,Singapore
+10127,42,100,Shipped,Classic Cars,S12_3891,USA
+10142,46,100,Shipped,Classic Cars,S12_3891,USA
+10153,49,100,Shipped,Classic Cars,S12_3891,Spain
+10165,27,100,Shipped,Classic Cars,S12_3891,Singapore
+10176,50,100,Shipped,Classic Cars,S12_3891,Italy
+10185,43,100,Shipped,Classic Cars,S12_3891,USA
+10196,38,100,Shipped,Classic Cars,S12_3891,USA
+10208,20,100,Shipped,Classic Cars,S12_3891,France
+10220,27,100,Shipped,Classic Cars,S12_3891,Ireland
+10231,49,100,Shipped,Classic Cars,S12_3891,Spain
+10247,27,100,Shipped,Classic Cars,S12_3891,Finland
+10272,39,100,Shipped,Classic Cars,S12_3891,USA
+10282,24,100,Shipped,Classic Cars,S12_3891,USA
+10293,45,100,Shipped,Classic Cars,S12_3891,Italy
+10306,20,100,Shipped,Classic Cars,S12_3891,UK
+10314,36,100,Shipped,Classic Cars,S12_3891,Denmark
+10325,24,100,Shipped,Classic Cars,S12_3891,Norway
+10336,49,63.38,Shipped,Classic Cars,S12_3891,France
+10349,26,100,Shipped,Classic Cars,S12_3891,USA
+10359,49,62.09,Shipped,Classic Cars,S12_3891,France
+10372,34,100,Shipped,Classic Cars,S12_3891,Japan
+10382,34,95.35,Shipped,Classic Cars,S12_3891,USA
+10396,33,100,Shipped,Classic Cars,S12_3891,USA
+10413,22,100,Shipped,Classic Cars,S12_3891,USA
+10108,39,89.38,Shipped,Classic Cars,S12_3990,Philippines
+10122,32,63.84,Shipped,Classic Cars,S12_3990,France
+10135,24,75.01,Shipped,Classic Cars,S12_3990,USA
+10147,21,63.84,Shipped,Classic Cars,S12_3990,USA
+10159,24,73.42,Shipped,Classic Cars,S12_3990,USA
+10169,36,63.84,Shipped,Classic Cars,S12_3990,Australia
+10181,20,81.4,Shipped,Classic Cars,S12_3990,Norway
+10191,30,64.64,Shipped,Classic Cars,S12_3990,Germany
+10203,44,82.99,Shipped,Classic Cars,S12_3990,Spain
+10211,28,92.57,Shipped,Classic Cars,S12_3990,France
+10225,37,77.41,Shipped,Classic Cars,S12_3990,Switzerland
+10238,20,74.21,Shipped,Classic Cars,S12_3990,Denmark
+10253,25,90.17,Cancelled,Classic Cars,S12_3990,UK
+10266,35,76.61,Shipped,Classic Cars,S12_3990,Italy
+10276,38,83.79,Shipped,Classic Cars,S12_3990,USA
+10287,41,69.43,Shipped,Classic Cars,S12_3990,Switzerland
+10300,22,76.61,Shipped,Classic Cars,S12_3990,Germany
+10310,49,81.4,Shipped,Classic Cars,S12_3990,Germany
+10320,38,73.42,Shipped,Classic Cars,S12_3990,Sweden
+10329,33,100,Shipped,Classic Cars,S12_3990,USA
+10341,36,93.56,Shipped,Classic Cars,S12_3990,Austria
+10363,34,81.62,Shipped,Classic Cars,S12_3990,Finland
+10377,24,67.83,Shipped,Classic Cars,S12_3990,Finland
+10389,36,70.26,Shipped,Classic Cars,S12_3990,Sweden
+10419,34,90.17,Shipped,Classic Cars,S12_3990,Austria
+10104,41,100,Shipped,Trucks and Buses,S12_4473,Spain
+10115,46,100,Shipped,Trucks and Buses,S12_4473,USA
+10127,24,100,Shipped,Trucks and Buses,S12_4473,USA
+10141,21,100,Shipped,Trucks and Buses,S12_4473,Finland
+10151,24,100,Shipped,Trucks and Buses,S12_4473,Finland
+10165,48,100,Shipped,Trucks and Buses,S12_4473,Singapore
+10175,26,100,Shipped,Trucks and Buses,S12_4473,UK
+10184,37,100,Shipped,Trucks and Buses,S12_4473,Spain
+10195,49,100,Shipped,Trucks and Buses,S12_4473,USA
+10207,34,99.54,Shipped,Trucks and Buses,S12_4473,USA
+10219,48,100,Shipped,Trucks and Buses,S12_4473,USA
+10229,36,100,Shipped,Trucks and Buses,S12_4473,USA
+10246,46,100,Shipped,Trucks and Buses,S12_4473,Spain
+10259,46,100,Shipped,Trucks and Buses,S12_4473,Singapore
+10271,31,97.17,Shipped,Trucks and Buses,S12_4473,USA
+10281,41,100,Shipped,Trucks and Buses,S12_4473,USA
+10292,21,100,Shipped,Trucks and Buses,S12_4473,USA
+10305,38,100,Shipped,Trucks and Buses,S12_4473,USA
+10314,45,100,Shipped,Trucks and Buses,S12_4473,Denmark
+10324,26,58.38,Shipped,Trucks and Buses,S12_4473,USA
+10336,38,100,Shipped,Trucks and Buses,S12_4473,France
+10349,48,100,Shipped,Trucks and Buses,S12_4473,USA
+10358,42,64.16,Shipped,Trucks and Buses,S12_4473,Spain
+10371,49,35.71,Shipped,Trucks and Buses,S12_4473,USA
+10382,32,66.58,Shipped,Trucks and Buses,S12_4473,USA
+10412,54,100,Shipped,Trucks and Buses,S12_4473,Spain
+10425,33,100,In Process,Trucks and Buses,S12_4473,France
+10108,36,100,Shipped,Classic Cars,S12_4675,Philippines
+10122,20,100,Shipped,Classic Cars,S12_4675,France
+10135,29,97.89,Shipped,Classic Cars,S12_4675,USA
+10147,33,97.89,Shipped,Classic Cars,S12_4675,USA
+10160,50,100,Shipped,Classic Cars,S12_4675,USA
+10170,41,100,Shipped,Classic Cars,S12_4675,Austria
+10181,36,100,Shipped,Classic Cars,S12_4675,Norway
+10192,27,100,Shipped,Classic Cars,S12_4675,USA
+10203,47,100,Shipped,Classic Cars,S12_4675,Spain
+10212,33,100,Shipped,Classic Cars,S12_4675,Spain
+10225,21,100,Shipped,Classic Cars,S12_4675,Switzerland
+10239,21,93.28,Shipped,Classic Cars,S12_4675,Finland
+10253,41,100,Cancelled,Classic Cars,S12_4675,UK
+10266,40,100,Shipped,Classic Cars,S12_4675,Italy
+10277,28,100,Shipped,Classic Cars,S12_4675,Singapore
+10287,23,100,Shipped,Classic Cars,S12_4675,Switzerland
+10300,23,100,Shipped,Classic Cars,S12_4675,Germany
+10310,25,100,Shipped,Classic Cars,S12_4675,Germany
+10321,24,100,Shipped,Classic Cars,S12_4675,USA
+10329,39,64.74,Shipped,Classic Cars,S12_4675,USA
+10341,55,75.2,Shipped,Classic Cars,S12_4675,Austria
+10363,46,88.45,Shipped,Classic Cars,S12_4675,Finland
+10377,50,100,Shipped,Classic Cars,S12_4675,Finland
+10389,47,100,Shipped,Classic Cars,S12_4675,Sweden
+10405,97,93.28,Shipped,Classic Cars,S12_4675,France
+10419,32,100,Shipped,Classic Cars,S12_4675,Austria
+10103,35,100,Shipped,Trucks and Buses,S18_1097,Norway
+10113,49,100,Shipped,Trucks and Buses,S18_1097,USA
+10126,38,100,Shipped,Trucks and Buses,S18_1097,Spain
+10140,32,100,Shipped,Trucks and Buses,S18_1097,USA
+10150,34,100,Shipped,Trucks and Buses,S18_1097,Singapore
+10164,36,99.17,Resolved,Trucks and Buses,S18_1097,Austria
+10174,48,93.34,Shipped,Trucks and Buses,S18_1097,Australia
+10183,21,96.84,Shipped,Trucks and Buses,S18_1097,USA
+10194,21,93.34,Shipped,Trucks and Buses,S18_1097,France
+10206,34,100,Shipped,Trucks and Buses,S18_1097,Canada
+10215,46,100,Shipped,Trucks and Buses,S18_1097,USA
+10228,32,100,Shipped,Trucks and Buses,S18_1097,USA
+10245,29,100,Shipped,Trucks and Buses,S18_1097,USA
+10258,41,100,Shipped,Trucks and Buses,S18_1097,Japan
+10270,43,96.84,Shipped,Trucks and Buses,S18_1097,Australia
+10280,24,100,Shipped,Trucks and Buses,S18_1097,Italy
+10291,41,100,Shipped,Trucks and Buses,S18_1097,Sweden
+10304,46,98,Shipped,Trucks and Buses,S18_1097,France
+10312,32,100,Shipped,Trucks and Buses,S18_1097,USA
+10322,22,100,Shipped,Trucks and Buses,S18_1097,USA
+10333,29,40.25,Shipped,Trucks and Buses,S18_1097,USA
+10347,42,49.6,Shipped,Trucks and Buses,S18_1097,Australia
+10357,39,98,Shipped,Trucks and Buses,S18_1097,USA
+10370,27,100,Shipped,Trucks and Buses,S18_1097,Australia
+10381,48,98,Shipped,Trucks and Buses,S18_1097,USA
+10391,29,85.1,Shipped,Trucks and Buses,S18_1097,Australia
+10411,27,100,Shipped,Trucks and Buses,S18_1097,Canada
+10424,54,100,In Process,Trucks and Buses,S18_1097,Spain
+10109,26,100,Shipped,Classic Cars,S18_1129,USA
+10122,34,100,Shipped,Classic Cars,S18_1129,France
+10136,25,100,Shipped,Classic Cars,S18_1129,France
+10148,23,100,Shipped,Classic Cars,S18_1129,Australia
+10161,28,100,Shipped,Classic Cars,S18_1129,Denmark
+10171,35,100,Shipped,Classic Cars,S18_1129,Canada
+10181,44,100,Shipped,Classic Cars,S18_1129,Norway
+10192,22,100,Shipped,Classic Cars,S18_1129,USA
+10204,42,100,Shipped,Classic Cars,S18_1129,USA
+10212,29,100,Shipped,Classic Cars,S18_1129,Spain
+10225,32,100,Shipped,Classic Cars,S18_1129,Switzerland
+10240,41,100,Shipped,Classic Cars,S18_1129,Japan
+10253,26,100,Cancelled,Classic Cars,S18_1129,UK
+10266,21,100,Shipped,Classic Cars,S18_1129,Italy
+10278,34,100,Shipped,Classic Cars,S18_1129,USA
+10287,41,100,Shipped,Classic Cars,S18_1129,Switzerland
+10301,37,100,Shipped,Classic Cars,S18_1129,Norway
+10310,37,100,Shipped,Classic Cars,S18_1129,Germany
+10321,41,100,Shipped,Classic Cars,S18_1129,USA
+10331,46,100,Shipped,Classic Cars,S18_1129,USA
+10342,40,100,Shipped,Classic Cars,S18_1129,Australia
+10356,43,97.6,Shipped,Classic Cars,S18_1129,France
+10365,30,87.06,Shipped,Classic Cars,S18_1129,USA
+10377,35,100,Shipped,Classic Cars,S18_1129,Finland
+10390,36,,Shipped,Classic Cars,S18_1129,USA
+10406,61,100,Disputed,Classic Cars,S18_1129,Denmark
+10419,38,100,Shipped,Classic Cars,S18_1129,Austria
+10102,39,100,Shipped,Vintage Cars,S18_1342,USA
+10111,33,99.66,Shipped,Vintage Cars,S18_1342,USA
+10125,32,100,Shipped,Vintage Cars,S18_1342,Australia
+10139,31,100,Shipped,Vintage Cars,S18_1342,Australia
+10149,50,100,Shipped,Vintage Cars,S18_1342,USA
+10162,48,91.44,Shipped,Vintage Cars,S18_1342,USA
+10173,43,100,Shipped,Vintage Cars,S18_1342,Italy
+10182,25,87.33,Shipped,Vintage Cars,S18_1342,USA
+10193,28,100,Shipped,Vintage Cars,S18_1342,Australia
+10205,36,100,Shipped,Vintage Cars,S18_1342,Spain
+10215,27,89.38,Shipped,Vintage Cars,S18_1342,USA
+10227,25,100,Shipped,Vintage Cars,S18_1342,France
+10244,40,100,Shipped,Vintage Cars,S18_1342,Spain
+10256,34,95.55,Shipped,Vintage Cars,S18_1342,Denmark
+10280,50,100,Shipped,Vintage Cars,S18_1342,Italy
+10289,38,100,Shipped,Vintage Cars,S18_1342,Norway
+10304,37,95.55,Shipped,Vintage Cars,S18_1342,France
+10312,43,89.38,Shipped,Vintage Cars,S18_1342,USA
+10322,43,86.3,Shipped,Vintage Cars,S18_1342,USA
+10332,46,95.13,Shipped,Vintage Cars,S18_1342,UK
+10346,42,36.11,Shipped,Vintage Cars,S18_1342,USA
+10356,50,50.18,Shipped,Vintage Cars,S18_1342,France
+10369,44,100,Shipped,Vintage Cars,S18_1342,USA
+10380,27,93.16,Shipped,Vintage Cars,S18_1342,Spain
+10391,35,100,Shipped,Vintage Cars,S18_1342,Australia
+10422,51,95.55,In Process,Vintage Cars,S18_1342,USA
+10102,41,50.14,Shipped,Vintage Cars,S18_1367,USA
+10111,48,49.06,Shipped,Vintage Cars,S18_1367,USA
+10126,42,54.99,Shipped,Vintage Cars,S18_1367,Spain
+10139,49,43.13,Shipped,Vintage Cars,S18_1367,Australia
+10149,30,58.22,Shipped,Vintage Cars,S18_1367,USA
+10162,45,51.21,Shipped,Vintage Cars,S18_1367,USA
+10173,48,44.21,Shipped,Vintage Cars,S18_1367,Italy
+10182,32,54.45,Shipped,Vintage Cars,S18_1367,USA
+10193,46,53.37,Shipped,Vintage Cars,S18_1367,Australia
+10205,48,63.61,Shipped,Vintage Cars,S18_1367,Spain
+10215,33,43.13,Shipped,Vintage Cars,S18_1367,USA
+10227,31,48.52,Shipped,Vintage Cars,S18_1367,France
+10244,20,58.22,Shipped,Vintage Cars,S18_1367,Spain
+10256,29,51.75,Shipped,Vintage Cars,S18_1367,Denmark
+10280,27,57.68,Shipped,Vintage Cars,S18_1367,Italy
+10289,24,56.07,Shipped,Vintage Cars,S18_1367,Norway
+10304,37,48.52,Shipped,Vintage Cars,S18_1367,France
+10312,25,44.21,Shipped,Vintage Cars,S18_1367,USA
+10322,41,57.68,Shipped,Vintage Cars,S18_1367,USA
+10332,27,89.89,Shipped,Vintage Cars,S18_1367,UK
+10347,21,58.95,Shipped,Vintage Cars,S18_1367,Australia
+10356,22,72.41,Shipped,Vintage Cars,S18_1367,France
+10369,32,98.63,Shipped,Vintage Cars,S18_1367,USA
+10381,25,52.83,Shipped,Vintage Cars,S18_1367,USA
+10391,42,100,Shipped,Vintage Cars,S18_1367,Australia
+10422,25,51.75,In Process,Vintage Cars,S18_1367,USA
+10110,37,100,Shipped,Classic Cars,S18_1589,UK
+10123,26,100,Shipped,Classic Cars,S18_1589,France
+10137,44,99.55,Shipped,Classic Cars,S18_1589,France
+10148,47,100,Shipped,Classic Cars,S18_1589,Australia
+10161,43,100,Shipped,Classic Cars,S18_1589,Denmark
+10172,42,100,Shipped,Classic Cars,S18_1589,USA
+10181,42,100,Shipped,Classic Cars,S18_1589,Norway
+10192,29,100,Shipped,Classic Cars,S18_1589,USA
+10204,40,100,Shipped,Classic Cars,S18_1589,USA
+10212,38,100,Shipped,Classic Cars,S18_1589,Spain
+10226,38,100,Shipped,Classic Cars,S18_1589,USA
+10241,21,100,Shipped,Classic Cars,S18_1589,France
+10253,24,100,Cancelled,Classic Cars,S18_1589,UK
+10266,36,100,Shipped,Classic Cars,S18_1589,Italy
+10278,23,100,Shipped,Classic Cars,S18_1589,USA
+10288,20,100,Shipped,Classic Cars,S18_1589,Singapore
+10301,32,100,Shipped,Classic Cars,S18_1589,Norway
+10311,29,100,Shipped,Classic Cars,S18_1589,Spain
+10321,44,100,Shipped,Classic Cars,S18_1589,USA
+10331,44,100,Shipped,Classic Cars,S18_1589,USA
+10343,36,100,Shipped,Classic Cars,S18_1589,France
+10367,49,56.3,Resolved,Classic Cars,S18_1589,USA
+10378,34,42.64,Shipped,Classic Cars,S18_1589,Spain
+10407,59,100,On Hold,Classic Cars,S18_1589,USA
+10419,37,100,Shipped,Classic Cars,S18_1589,Austria
+10106,36,100,Shipped,Planes,S18_1662,Italy
+10119,43,,Shipped,Planes,S18_1662,Austria
+10131,21,100,Shipped,Planes,S18_1662,USA
+10143,32,100,Shipped,Planes,S18_1662,USA
+10155,38,100,Shipped,Planes,S18_1662,Finland
+10167,43,100,Cancelled,Planes,S18_1662,Sweden
+10178,42,100,Shipped,Planes,S18_1662,France
+10186,32,100,Shipped,Planes,S18_1662,UK
+10198,42,100,Shipped,Planes,S18_1662,Philippines
+10210,31,100,Shipped,Planes,S18_1662,Japan
+10222,49,100,Shipped,Planes,S18_1662,USA
+10250,45,100,Shipped,Planes,S18_1662,USA
+10262,49,100,Cancelled,Planes,S18_1662,Spain
+10274,41,100,Shipped,Planes,S18_1662,USA
+10284,45,100,Shipped,Planes,S18_1662,Norway
+10296,36,100,Shipped,Planes,S18_1662,Germany
+10307,39,100,Shipped,Planes,S18_1662,USA
+10316,27,100,Shipped,Planes,S18_1662,UK
+10327,25,100,Resolved,Planes,S18_1662,Denmark
+10338,41,100,Shipped,Planes,S18_1662,Belgium
+10351,39,99.52,Shipped,Planes,S18_1662,UK
+10373,28,57.55,Shipped,Planes,S18_1662,Finland
+10386,25,54.57,Resolved,Planes,S18_1662,Spain
+10398,33,100,Shipped,Planes,S18_1662,France
+10400,34,100,Shipped,Planes,S18_1662,USA
+10416,24,100,Shipped,Planes,S18_1662,Italy
+10100,30,100,Shipped,Vintage Cars,S18_1749,USA
+10110,42,100,Shipped,Vintage Cars,S18_1749,UK
+10124,21,100,Shipped,Vintage Cars,S18_1749,USA
+10149,34,100,Shipped,Vintage Cars,S18_1749,USA
+10162,29,100,Shipped,Vintage Cars,S18_1749,USA
+10173,24,100,Shipped,Vintage Cars,S18_1749,Italy
+10182,44,100,Shipped,Vintage Cars,S18_1749,USA
+10193,21,100,Shipped,Vintage Cars,S18_1749,Australia
+10204,33,100,Shipped,Vintage Cars,S18_1749,USA
+10214,30,100,Shipped,Vintage Cars,S18_1749,Spain
+10227,26,100,Shipped,Vintage Cars,S18_1749,France
+10241,41,100,Shipped,Vintage Cars,S18_1749,France
+10280,26,100,Shipped,Vintage Cars,S18_1749,Italy
+10288,32,100,Shipped,Vintage Cars,S18_1749,Singapore
+10302,43,100,Shipped,Vintage Cars,S18_1749,UK
+10312,48,100,Shipped,Vintage Cars,S18_1749,USA
+10331,44,74.04,Shipped,Vintage Cars,S18_1749,USA
+10344,45,100,Shipped,Vintage Cars,S18_1749,France
+10367,37,100,Resolved,Vintage Cars,S18_1749,USA
+10379,39,100,Shipped,Vintage Cars,S18_1749,Spain
+10407,76,100,On Hold,Vintage Cars,S18_1749,USA
+10420,37,100,In Process,Vintage Cars,S18_1749,Australia
+10108,38,82.39,Shipped,Classic Cars,S18_1889,Philippines
+10122,43,72.38,Shipped,Classic Cars,S18_1889,France
+10135,48,79.31,Shipped,Classic Cars,S18_1889,USA
+10147,26,82.39,Shipped,Classic Cars,S18_1889,USA
+10160,38,88.55,Shipped,Classic Cars,S18_1889,USA
+10170,20,63.14,Shipped,Classic Cars,S18_1889,Austria
+10181,22,73.92,Shipped,Classic Cars,S18_1889,Norway
+10192,45,90.86,Shipped,Classic Cars,S18_1889,USA
+10203,45,85.47,Shipped,Classic Cars,S18_1889,Spain
+10212,20,66.99,Shipped,Classic Cars,S18_1889,Spain
+10225,47,64.68,Shipped,Classic Cars,S18_1889,Switzerland
+10239,46,73.92,Shipped,Classic Cars,S18_1889,Finland
+10253,23,83.93,Cancelled,Classic Cars,S18_1889,UK
+10266,33,74.69,Shipped,Classic Cars,S18_1889,Italy
+10278,29,90.86,Shipped,Classic Cars,S18_1889,USA
+10287,44,82.39,Shipped,Classic Cars,S18_1889,Switzerland
+10300,41,92.4,Shipped,Classic Cars,S18_1889,Germany
+10310,20,91.63,Shipped,Classic Cars,S18_1889,Germany
+10321,37,78.54,Shipped,Classic Cars,S18_1889,USA
+10329,29,100,Shipped,Classic Cars,S18_1889,USA
+10342,55,65.45,Shipped,Classic Cars,S18_1889,Australia
+10363,22,100,Shipped,Classic Cars,S18_1889,Finland
+10377,31,67.76,Shipped,Classic Cars,S18_1889,Finland
+10389,49,79.22,Shipped,Classic Cars,S18_1889,Sweden
+10405,61,73.92,Shipped,Classic Cars,S18_1889,France
+10419,39,83.93,Shipped,Classic Cars,S18_1889,Austria
+10109,38,100,Shipped,Classic Cars,S18_1984,USA
+10122,31,100,Shipped,Classic Cars,S18_1984,France
+10136,36,100,Shipped,Classic Cars,S18_1984,France
+10148,25,100,Shipped,Classic Cars,S18_1984,Australia
+10161,48,100,Shipped,Classic Cars,S18_1984,Denmark
+10171,35,100,Shipped,Classic Cars,S18_1984,Canada
+10181,21,100,Shipped,Classic Cars,S18_1984,Norway
+10192,47,100,Shipped,Classic Cars,S18_1984,USA
+10204,38,100,Shipped,Classic Cars,S18_1984,USA
+10212,41,100,Shipped,Classic Cars,S18_1984,Spain
+10226,24,100,Shipped,Classic Cars,S18_1984,USA
+10240,37,100,Shipped,Classic Cars,S18_1984,Japan
+10253,33,100,Cancelled,Classic Cars,S18_1984,UK
+10266,49,100,Shipped,Classic Cars,S18_1984,Italy
+10278,29,100,Shipped,Classic Cars,S18_1984,USA
+10287,24,100,Shipped,Classic Cars,S18_1984,Switzerland
+10301,47,100,Shipped,Classic Cars,S18_1984,Norway
+10310,24,,Shipped,Classic Cars,S18_1984,Germany
+10321,25,100,Shipped,Classic Cars,S18_1984,USA
+10331,30,32.47,Shipped,Classic Cars,S18_1984,USA
+10342,22,100,Shipped,Classic Cars,S18_1984,Australia
+10356,27,64.69,Shipped,Classic Cars,S18_1984,France
+10366,34,100,Shipped,Classic Cars,S18_1984,Belgium
+10377,36,100,Shipped,Classic Cars,S18_1984,Finland
+10390,34,43.05,Shipped,Classic Cars,S18_1984,USA
+10406,48,100,Disputed,Classic Cars,S18_1984,Denmark
+10419,34,100,Shipped,Classic Cars,S18_1984,Austria
+10104,24,100,Shipped,Classic Cars,S18_2238,Spain
+10115,46,100,Shipped,Classic Cars,S18_2238,USA
+10127,45,100,Shipped,Classic Cars,S18_2238,USA
+10141,39,100,Shipped,Classic Cars,S18_2238,Finland
+10151,43,100,Shipped,Classic Cars,S18_2238,Finland
+10151,43,100,Shipped,Classic Cars,S18_2238,Finland
+10165,29,100,Shipped,Classic Cars,S18_2238,Singapore
+10176,20,100,Shipped,Classic Cars,S18_2238,Italy
+10184,46,100,Shipped,Classic Cars,S18_2238,Spain
+10195,27,100,Shipped,Classic Cars,S18_2238,USA
+10207,44,100,Shipped,Classic Cars,S18_2238,USA
+10219,43,100,Shipped,Classic Cars,S18_2238,USA
+10230,49,100,Shipped,Classic Cars,S18_2238,Germany
+10246,40,100,Shipped,Classic Cars,S18_2238,Spain
+10259,30,100,Shipped,Classic Cars,S18_2238,Singapore
+10271,50,100,Shipped,Classic Cars,S18_2238,USA
+10282,23,100,Shipped,Classic Cars,S18_2238,USA
+10292,26,100,Shipped,Classic Cars,S18_2238,USA
+10305,27,100,Shipped,Classic Cars,S18_2238,USA
+10314,42,100,Shipped,Classic Cars,S18_2238,Denmark
+10324,47,100,Shipped,Classic Cars,S18_2238,USA
+10336,49,100,Shipped,Classic Cars,S18_2238,France
+10349,38,100,Shipped,Classic Cars,S18_2238,USA
+10358,20,100,Shipped,Classic Cars,S18_2238,Spain
+10371,25,100,Shipped,Classic Cars,S18_2238,USA
+10382,25,88,Shipped,Classic Cars,S18_2238,USA
+10412,41,100,Shipped,Classic Cars,S18_2238,Spain
+10425,28,,In Process,Classic Cars,S18_2238,France
+10100,50,67.8,Shipped,Vintage Cars,S18_2248,USA
+10110,32,50.25,Shipped,Vintage Cars,S18_2248,UK
+10124,42,53.88,Shipped,Vintage Cars,S18_2248,USA
+10149,24,62.36,Shipped,Vintage Cars,S18_2248,USA
+10162,27,69.62,Shipped,Vintage Cars,S18_2248,USA
+10173,26,57.51,Shipped,Vintage Cars,S18_2248,Italy
+10182,38,61.15,Shipped,Vintage Cars,S18_2248,USA
+10193,42,59.33,Shipped,Vintage Cars,S18_2248,Australia
+10204,23,71.44,Shipped,Vintage Cars,S18_2248,USA
+10214,21,62.96,Shipped,Vintage Cars,S18_2248,Spain
+10227,28,50.85,Shipped,Vintage Cars,S18_2248,France
+10241,33,72.65,Shipped,Vintage Cars,S18_2248,France
+10280,25,62.96,Shipped,Vintage Cars,S18_2248,Italy
+10288,28,61.75,Shipped,Vintage Cars,S18_2248,Singapore
+10303,46,49.04,Shipped,Vintage Cars,S18_2248,Spain
+10312,30,61.15,Shipped,Vintage Cars,S18_2248,USA
+10332,38,84.25,Shipped,Vintage Cars,S18_2248,UK
+10344,40,56.91,Shipped,Vintage Cars,S18_2248,France
+10367,45,100,Resolved,Vintage Cars,S18_2248,USA
+10379,27,49.3,Shipped,Vintage Cars,S18_2248,Spain
+10407,42,72.65,On Hold,Vintage Cars,S18_2248,USA
+10420,36,63.57,In Process,Vintage Cars,S18_2248,Australia
+10104,29,100,Shipped,Trucks and Buses,S18_2319,Spain
+10114,39,100,Shipped,Trucks and Buses,S18_2319,France
+10127,45,100,Shipped,Trucks and Buses,S18_2319,USA
+10141,47,100,Shipped,Trucks and Buses,S18_2319,Finland
+10151,49,100,Shipped,Trucks and Buses,S18_2319,Finland
+10165,46,100,Shipped,Trucks and Buses,S18_2319,Singapore
+10175,48,100,Shipped,Trucks and Buses,S18_2319,UK
+10184,46,100,Shipped,Trucks and Buses,S18_2319,Spain
+10195,35,100,Shipped,Trucks and Buses,S18_2319,USA
+10207,43,100,Shipped,Trucks and Buses,S18_2319,USA
+10229,26,100,Shipped,Trucks and Buses,S18_2319,USA
+10246,22,98.18,Shipped,Trucks and Buses,S18_2319,Spain
+10259,34,99.41,Shipped,Trucks and Buses,S18_2319,Singapore
+10271,50,100,Shipped,Trucks and Buses,S18_2319,USA
+10281,48,100,Shipped,Trucks and Buses,S18_2319,USA
+10292,41,100,Shipped,Trucks and Buses,S18_2319,USA
+10305,36,100,Shipped,Trucks and Buses,S18_2319,USA
+10313,29,100,Shipped,Trucks and Buses,S18_2319,Canada
+10324,33,37.48,Shipped,Trucks and Buses,S18_2319,USA
+10334,46,100,On Hold,Trucks and Buses,S18_2319,Sweden
+10349,38,100,Shipped,Trucks and Buses,S18_2319,USA
+10358,20,36.42,Shipped,Trucks and Buses,S18_2319,Spain
+10370,22,100,Shipped,Trucks and Buses,S18_2319,Australia
+10383,27,100,Shipped,Trucks and Buses,S18_2319,Spain
+10412,56,98.18,Shipped,Trucks and Buses,S18_2319,Spain
+10425,38,99.41,In Process,Trucks and Buses,S18_2319,France
+10101,25,100,Shipped,Vintage Cars,S18_2325,Germany
+10110,33,100,Shipped,Vintage Cars,S18_2325,UK
+10124,42,100,Shipped,Vintage Cars,S18_2325,USA
+10149,33,100,Shipped,Vintage Cars,S18_2325,USA
+10162,38,100,Shipped,Vintage Cars,S18_2325,USA
+10173,31,100,Shipped,Vintage Cars,S18_2325,Italy
+10182,20,100,Shipped,Vintage Cars,S18_2325,USA
+10193,44,100,Shipped,Vintage Cars,S18_2325,Australia
+10204,26,100,Shipped,Vintage Cars,S18_2325,USA
+10214,27,100,Shipped,Vintage Cars,S18_2325,Spain
+10227,46,100,Shipped,Vintage Cars,S18_2325,France
+10243,47,100,Shipped,Vintage Cars,S18_2325,USA
+10280,37,100,Shipped,Vintage Cars,S18_2325,Italy
+10288,31,100,Shipped,Vintage Cars,S18_2325,Singapore
+10304,24,100,Shipped,Vintage Cars,S18_2325,France
+10312,31,100,Shipped,Vintage Cars,S18_2325,USA
+10322,50,100,Shipped,Vintage Cars,S18_2325,USA
+10332,35,64.69,Shipped,Vintage Cars,S18_2325,UK
+10344,30,100,Shipped,Vintage Cars,S18_2325,France
+10356,29,100,Shipped,Vintage Cars,S18_2325,France
+10367,27,100,Resolved,Vintage Cars,S18_2325,USA
+10380,40,100,Shipped,Vintage Cars,S18_2325,Spain
+10390,31,98.99,Shipped,Vintage Cars,S18_2325,USA
+10409,6,100,Shipped,Vintage Cars,S18_2325,Singapore
+10420,45,100,In Process,Vintage Cars,S18_2325,Australia
+10103,22,54.09,Shipped,Trucks and Buses,S18_2432,Norway
+10114,45,68.67,Shipped,Trucks and Buses,S18_2432,France
+10126,43,65.02,Shipped,Trucks and Buses,S18_2432,Spain
+10140,46,61.99,Shipped,Trucks and Buses,S18_2432,USA
+10151,39,69.28,Shipped,Trucks and Buses,S18_2432,Finland
+10165,31,71.1,Shipped,Trucks and Buses,S18_2432,Singapore
+10175,41,69.28,Shipped,Trucks and Buses,S18_2432,UK
+10184,44,60.16,Shipped,Trucks and Buses,S18_2432,Spain
+10194,45,70.49,Shipped,Trucks and Buses,S18_2432,France
+10207,37,69.89,Shipped,Trucks and Buses,S18_2432,USA
+10217,35,61.38,Shipped,Trucks and Buses,S18_2432,Singapore
+10229,28,59.55,Shipped,Trucks and Buses,S18_2432,USA
+10246,30,61.99,Shipped,Trucks and Buses,S18_2432,Spain
+10259,30,49.22,Shipped,Trucks and Buses,S18_2432,Singapore
+10271,25,69.28,Shipped,Trucks and Buses,S18_2432,USA
+10281,29,57.73,Shipped,Trucks and Buses,S18_2432,USA
+10291,26,57.73,Shipped,Trucks and Buses,S18_2432,Sweden
+10305,41,53.48,Shipped,Trucks and Buses,S18_2432,USA
+10313,34,52.87,Shipped,Trucks and Buses,S18_2432,Canada
+10322,35,61.21,Shipped,Trucks and Buses,S18_2432,USA
+10334,34,61.38,On Hold,Trucks and Buses,S18_2432,Sweden
+10347,50,100,Shipped,Trucks and Buses,S18_2432,Australia
+10357,41,61.99,Shipped,Trucks and Buses,S18_2432,USA
+10370,22,96.86,Shipped,Trucks and Buses,S18_2432,Australia
+10381,35,48.62,Shipped,Trucks and Buses,S18_2432,USA
+10391,44,38.5,Shipped,Trucks and Buses,S18_2432,Australia
+10412,47,61.99,Shipped,Trucks and Buses,S18_2432,Spain
+10425,19,49.22,In Process,Trucks and Buses,S18_2432,France
+10106,34,90.39,Shipped,Planes,S18_2581,Italy
+10120,29,71.81,Shipped,Planes,S18_2581,Australia
+10133,49,69.27,Shipped,Planes,S18_2581,Spain
+10145,30,85.32,Shipped,Planes,S18_2581,USA
+10168,21,70.96,Shipped,Planes,S18_2581,USA
+10210,50,76.88,Shipped,Planes,S18_2581,Japan
+10223,47,100,Shipped,Planes,S18_2581,Australia
+10235,24,76.03,Shipped,Planes,S18_2581,Canada
+10250,27,98.84,Shipped,Planes,S18_2581,USA
+10263,33,86.17,Shipped,Planes,S18_2581,USA
+10275,35,90.39,Shipped,Planes,S18_2581,France
+10284,31,71.81,Shipped,Planes,S18_2581,Norway
+10297,25,82.79,Shipped,Planes,S18_2581,Ireland
+10308,27,82.79,Shipped,Planes,S18_2581,USA
+10318,31,100,Shipped,Planes,S18_2581,USA
+10327,45,100,Resolved,Planes,S18_2581,Denmark
+10339,27,100,Shipped,Planes,S18_2581,Japan
+10353,27,100,Shipped,Planes,S18_2581,USA
+10374,42,69.27,Shipped,Planes,S18_2581,Australia
+10386,21,74.77,Resolved,Planes,S18_2581,Spain
+10398,34,76.88,Shipped,Planes,S18_2581,France
+10401,42,76.03,On Hold,Planes,S18_2581,USA
+10416,15,98.84,Shipped,Planes,S18_2581,Italy
+10107,29,70.87,Shipped,Motorcycles,S18_2625,USA
+10120,46,58.15,Shipped,Motorcycles,S18_2625,Australia
+10120,46,58.15,Shipped,Motorcycles,S18_2625,Australia
+10134,30,61.78,Shipped,Motorcycles,S18_2625,France
+10145,30,49.67,Shipped,Motorcycles,S18_2625,USA
+10159,42,51.48,Shipped,Motorcycles,S18_2625,USA
+10168,46,61.18,Shipped,Motorcycles,S18_2625,USA
+10180,25,64.2,Shipped,Motorcycles,S18_2625,France
+10188,32,65.42,Shipped,Motorcycles,S18_2625,Norway
+10201,30,64.81,Shipped,Motorcycles,S18_2625,USA
+10210,40,49.67,Shipped,Motorcycles,S18_2625,Japan
+10223,28,60.57,Shipped,Motorcycles,S18_2625,Australia
+10236,23,55.72,Shipped,Motorcycles,S18_2625,USA
+10251,29,61.18,Shipped,Motorcycles,S18_2625,USA
+10263,34,58.75,Shipped,Motorcycles,S18_2625,USA
+10275,37,63.6,Shipped,Motorcycles,S18_2625,France
+10285,20,49.06,Shipped,Motorcycles,S18_2625,USA
+10298,32,48.46,Shipped,Motorcycles,S18_2625,France
+10308,34,52.09,Shipped,Motorcycles,S18_2625,USA
+10318,42,52.7,Shipped,Motorcycles,S18_2625,USA
+10329,38,100,Shipped,Motorcycles,S18_2625,USA
+10339,30,62.16,Shipped,Motorcycles,S18_2625,Japan
+10362,23,49.67,Shipped,Motorcycles,S18_2625,USA
+10374,22,53.3,Shipped,Motorcycles,S18_2625,Australia
+10389,39,100,Shipped,Motorcycles,S18_2625,Sweden
+10402,55,55.72,Shipped,Motorcycles,S18_2625,France
+10417,36,61.18,Disputed,Motorcycles,S18_2625,Spain
+10101,26,100,Shipped,Vintage Cars,S18_2795,Germany
+10110,31,100,Shipped,Vintage Cars,S18_2795,UK
+10125,34,100,Shipped,Vintage Cars,S18_2795,Australia
+10139,41,100,Shipped,Vintage Cars,S18_2795,Australia
+10149,23,100,Shipped,Vintage Cars,S18_2795,USA
+10162,48,100,Shipped,Vintage Cars,S18_2795,USA
+10173,22,100,Shipped,Vintage Cars,S18_2795,Italy
+10182,21,100,Shipped,Vintage Cars,S18_2795,USA
+10193,22,100,Shipped,Vintage Cars,S18_2795,Australia
+10205,40,100,Shipped,Vintage Cars,S18_2795,Spain
+10214,50,100,Shipped,Vintage Cars,S18_2795,Spain
+10227,29,100,Shipped,Vintage Cars,S18_2795,France
+10244,43,100,Shipped,Vintage Cars,S18_2795,Spain
+10255,24,100,Shipped,Vintage Cars,S18_2795,France
+10280,22,100,Shipped,Vintage Cars,S18_2795,Italy
+10289,43,100,Shipped,Vintage Cars,S18_2795,Norway
+10304,20,100,Shipped,Vintage Cars,S18_2795,France
+10312,25,100,Shipped,Vintage Cars,S18_2795,USA
+10322,36,100,Shipped,Vintage Cars,S18_2795,USA
+10332,24,52.67,Shipped,Vintage Cars,S18_2795,UK
+10347,21,100,Shipped,Vintage Cars,S18_2795,Australia
+10356,30,100,Shipped,Vintage Cars,S18_2795,France
+10367,32,94.79,Resolved,Vintage Cars,S18_2795,USA
+10380,21,47.18,Shipped,Vintage Cars,S18_2795,Spain
+10390,26,78.11,Shipped,Vintage Cars,S18_2795,USA
+10421,35,100,In Process,Vintage Cars,S18_2795,USA
+10109,26,100,Shipped,Classic Cars,S18_2870,USA
+10123,46,100,Shipped,Classic Cars,S18_2870,France
+10137,37,100,Shipped,Classic Cars,S18_2870,France
+10148,27,100,Shipped,Classic Cars,S18_2870,Australia
+10161,23,100,Shipped,Classic Cars,S18_2870,Denmark
+10172,39,100,Shipped,Classic Cars,S18_2870,USA
+10181,27,100,Shipped,Classic Cars,S18_2870,Norway
+10192,38,100,Shipped,Classic Cars,S18_2870,USA
+10204,27,100,Shipped,Classic Cars,S18_2870,USA
+10212,40,100,Shipped,Classic Cars,S18_2870,Spain
+10226,24,100,Shipped,Classic Cars,S18_2870,USA
+10241,44,100,Shipped,Classic Cars,S18_2870,France
+10253,37,100,Cancelled,Classic Cars,S18_2870,UK
+10266,20,100,Shipped,Classic Cars,S18_2870,Italy
+10278,39,100,Shipped,Classic Cars,S18_2870,USA
+10287,44,100,Shipped,Classic Cars,S18_2870,Switzerland
+10301,22,100,Shipped,Classic Cars,S18_2870,Norway
+10311,43,100,Shipped,Classic Cars,S18_2870,Spain
+10321,27,100,Shipped,Classic Cars,S18_2870,USA
+10331,26,64.9,Shipped,Classic Cars,S18_2870,USA
+10343,25,52.32,Shipped,Classic Cars,S18_2870,France
+10366,49,100,Shipped,Classic Cars,S18_2870,Belgium
+10379,29,100,Shipped,Classic Cars,S18_2870,Spain
+10379,29,100,Shipped,Classic Cars,S18_2870,Spain
+10407,41,100,On Hold,Classic Cars,S18_2870,USA
+10419,55,100,Shipped,Classic Cars,S18_2870,Austria
+10103,27,83.07,Shipped,Vintage Cars,S18_2949,Norway
+10112,23,100,Shipped,Vintage Cars,S18_2949,Sweden
+10126,31,90.17,Shipped,Vintage Cars,S18_2949,Spain
+10139,46,100,Shipped,Vintage Cars,S18_2949,Australia
+10150,47,91.18,Shipped,Vintage Cars,S18_2949,Singapore
+10163,31,100,Shipped,Vintage Cars,S18_2949,USA
+10174,46,100,Shipped,Vintage Cars,S18_2949,Australia
+10183,37,89.15,Shipped,Vintage Cars,S18_2949,USA
+10193,28,93.21,Shipped,Vintage Cars,S18_2949,Australia
+10206,37,90.17,Shipped,Vintage Cars,S18_2949,Canada
+10215,49,100,Shipped,Vintage Cars,S18_2949,USA
+10228,24,100,Shipped,Vintage Cars,S18_2949,USA
+10244,30,100,Shipped,Vintage Cars,S18_2949,Spain
+10257,50,88.14,Shipped,Vintage Cars,S18_2949,USA
+10270,31,96.24,Shipped,Vintage Cars,S18_2949,Australia
+10280,46,100,Shipped,Vintage Cars,S18_2949,Italy
+10291,47,100,Shipped,Vintage Cars,S18_2949,Sweden
+10304,46,100,Shipped,Vintage Cars,S18_2949,France
+10312,37,100,Shipped,Vintage Cars,S18_2949,USA
+10322,33,100,Shipped,Vintage Cars,S18_2949,USA
+10333,31,90.17,Shipped,Vintage Cars,S18_2949,USA
+10347,48,100,Shipped,Vintage Cars,S18_2949,Australia
+10357,41,87.13,Shipped,Vintage Cars,S18_2949,USA
+10369,42,100,Shipped,Vintage Cars,S18_2949,USA
+10381,41,100,Shipped,Vintage Cars,S18_2949,USA
+10391,32,45.25,Shipped,Vintage Cars,S18_2949,Australia
+10423,10,88.14,In Process,Vintage Cars,S18_2949,Belgium
+10103,35,57.46,Shipped,Vintage Cars,S18_2957,Norway
+10111,28,64.33,Shipped,Vintage Cars,S18_2957,USA
+10126,46,73.7,Shipped,Vintage Cars,S18_2957,Spain
+10139,20,71.2,Shipped,Vintage Cars,S18_2957,Australia
+10150,30,49.97,Shipped,Vintage Cars,S18_2957,Singapore
+10163,48,69.96,Shipped,Vintage Cars,S18_2957,USA
+10173,28,53.72,Shipped,Vintage Cars,S18_2957,Italy
+10183,39,68.08,Shipped,Vintage Cars,S18_2957,USA
+10193,24,51.84,Shipped,Vintage Cars,S18_2957,Australia
+10206,28,67.46,Shipped,Vintage Cars,S18_2957,Canada
+10215,31,58.71,Shipped,Vintage Cars,S18_2957,USA
+10228,45,63.71,Shipped,Vintage Cars,S18_2957,USA
+10244,24,58.09,Shipped,Vintage Cars,S18_2957,Spain
+10257,49,53.72,Shipped,Vintage Cars,S18_2957,USA
+10269,32,63.08,Shipped,Vintage Cars,S18_2957,Austria
+10280,43,68.71,Shipped,Vintage Cars,S18_2957,Italy
+10291,37,50.59,Shipped,Vintage Cars,S18_2957,Sweden
+10304,24,64.96,Shipped,Vintage Cars,S18_2957,France
+10312,35,53.72,Shipped,Vintage Cars,S18_2957,USA
+10322,41,29.87,Shipped,Vintage Cars,S18_2957,USA
+10332,26,100,Shipped,Vintage Cars,S18_2957,UK
+10347,34,64.96,Shipped,Vintage Cars,S18_2957,Australia
+10357,49,70.58,Shipped,Vintage Cars,S18_2957,USA
+10369,28,44.21,Shipped,Vintage Cars,S18_2957,USA
+10381,40,68.08,Shipped,Vintage Cars,S18_2957,USA
+10392,37,59.96,Shipped,Vintage Cars,S18_2957,Austria
+10423,31,53.72,In Process,Vintage Cars,S18_2957,Belgium
+10106,41,83.44,Shipped,Ships,S18_3029,Italy
+10119,21,89.46,Shipped,Ships,S18_3029,Austria
+10130,40,96.34,Shipped,Ships,S18_3029,USA
+10143,46,74.84,Shipped,Ships,S18_3029,USA
+10155,44,79.14,Shipped,Ships,S18_3029,Finland
+10167,46,73.12,Cancelled,Ships,S18_3029,Sweden
+10178,41,81.72,Shipped,Ships,S18_3029,France
+10186,32,89.46,Shipped,Ships,S18_3029,UK
+10197,46,87.74,Shipped,Ships,S18_3029,Spain
+10209,28,100,Shipped,Ships,S18_3029,USA
+10222,49,94.62,Shipped,Ships,S18_3029,USA
+10248,21,73.98,Cancelled,Ships,S18_3029,USA
+10262,32,84.3,Cancelled,Ships,S18_3029,Spain
+10273,34,98.06,Shipped,Ships,S18_3029,Belgium
+10283,21,98.06,Shipped,Ships,S18_3029,Canada
+10296,21,96.34,Shipped,Ships,S18_3029,Germany
+10307,31,83.44,Shipped,Ships,S18_3029,USA
+10316,21,94.62,Shipped,Ships,S18_3029,UK
+10327,25,45.86,Resolved,Ships,S18_3029,Denmark
+10338,28,82.58,Shipped,Ships,S18_3029,Belgium
+10350,43,64.97,Shipped,Ships,S18_3029,Spain
+10373,22,86.74,Shipped,Ships,S18_3029,Finland
+10386,37,93.01,Resolved,Ships,S18_3029,Spain
+10398,28,72.26,Shipped,Ships,S18_3029,France
+10400,30,74.84,Shipped,Ships,S18_3029,USA
+10414,44,73.98,On Hold,Ships,S18_3029,USA
+10103,25,100,Shipped,Vintage Cars,S18_3136,Norway
+10111,43,100,Shipped,Vintage Cars,S18_3136,USA
+10126,30,97.39,Shipped,Vintage Cars,S18_3136,Spain
+10139,20,90.06,Shipped,Vintage Cars,S18_3136,Australia
+10150,26,100,Shipped,Vintage Cars,S18_3136,Singapore
+10163,40,100,Shipped,Vintage Cars,S18_3136,USA
+10173,31,89.01,Shipped,Vintage Cars,S18_3136,Italy
+10183,22,100,Shipped,Vintage Cars,S18_3136,USA
+10193,23,100,Shipped,Vintage Cars,S18_3136,Australia
+10206,30,100,Shipped,Vintage Cars,S18_3136,Canada
+10215,49,100,Shipped,Vintage Cars,S18_3136,USA
+10228,31,100,Shipped,Vintage Cars,S18_3136,USA
+10244,29,100,Shipped,Vintage Cars,S18_3136,Spain
+10257,37,84.82,Shipped,Vintage Cars,S18_3136,USA
+10270,38,100,Shipped,Vintage Cars,S18_3136,Australia
+10280,29,100,Shipped,Vintage Cars,S18_3136,Italy
+10291,23,100,Shipped,Vintage Cars,S18_3136,Sweden
+10304,26,85.87,Shipped,Vintage Cars,S18_3136,France
+10312,38,100,Shipped,Vintage Cars,S18_3136,USA
+10322,48,47.04,Shipped,Vintage Cars,S18_3136,USA
+10332,40,39.8,Shipped,Vintage Cars,S18_3136,UK
+10347,45,100,Shipped,Vintage Cars,S18_3136,Australia
+10357,44,100,Shipped,Vintage Cars,S18_3136,USA
+10369,21,94.22,Shipped,Vintage Cars,S18_3136,USA
+10381,35,100,Shipped,Vintage Cars,S18_3136,USA
+10392,29,86.92,Shipped,Vintage Cars,S18_3136,Austria
+10423,21,84.82,In Process,Vintage Cars,S18_3136,Belgium
+10105,22,100,Shipped,Vintage Cars,S18_3140,Denmark
+10117,26,100,Shipped,Vintage Cars,S18_3140,Singapore
+10128,41,100,Shipped,Vintage Cars,S18_3140,Spain
+10142,47,100,Shipped,Vintage Cars,S18_3140,USA
+10153,31,100,Shipped,Vintage Cars,S18_3140,Spain
+10166,43,100,Shipped,Vintage Cars,S18_3140,USA
+10177,23,100,Shipped,Vintage Cars,S18_3140,Spain
+10185,28,100,Shipped,Vintage Cars,S18_3140,USA
+10196,49,100,Shipped,Vintage Cars,S18_3140,USA
+10208,24,100,Shipped,Vintage Cars,S18_3140,France
+10221,33,100,Shipped,Vintage Cars,S18_3140,Belgium
+10232,22,100,Shipped,Vintage Cars,S18_3140,UK
+10248,32,100,Cancelled,Vintage Cars,S18_3140,USA
+10273,40,100,Shipped,Vintage Cars,S18_3140,Belgium
+10282,43,100,Shipped,Vintage Cars,S18_3140,USA
+10293,24,100,Shipped,Vintage Cars,S18_3140,Italy
+10306,32,100,Shipped,Vintage Cars,S18_3140,UK
+10314,20,100,Shipped,Vintage Cars,S18_3140,Denmark
+10325,24,69.12,Shipped,Vintage Cars,S18_3140,Norway
+10336,48,100,Shipped,Vintage Cars,S18_3140,France
+10350,44,100,Shipped,Vintage Cars,S18_3140,Spain
+10372,28,100,Shipped,Vintage Cars,S18_3140,Japan
+10383,24,61.52,Shipped,Vintage Cars,S18_3140,Spain
+10396,33,100,Shipped,Vintage Cars,S18_3140,USA
+10414,41,100,On Hold,Vintage Cars,S18_3140,USA
+10104,23,100,Shipped,Classic Cars,S18_3232,Spain
+10109,46,100,Shipped,Classic Cars,S18_3232,USA
+10114,48,100,Shipped,Classic Cars,S18_3232,France
+10122,25,100,Shipped,Classic Cars,S18_3232,France
+10127,22,100,Shipped,Classic Cars,S18_3232,USA
+10136,41,100,Shipped,Classic Cars,S18_3232,France
+10141,34,100,Shipped,Classic Cars,S18_3232,Finland
+10148,32,100,Shipped,Classic Cars,S18_3232,Australia
+10151,21,100,Shipped,Classic Cars,S18_3232,Finland
+10160,20,100,Shipped,Classic Cars,S18_3232,USA
+10165,47,100,Shipped,Classic Cars,S18_3232,Singapore
+10171,39,100,Shipped,Classic Cars,S18_3232,Canada
+10175,29,100,Shipped,Classic Cars,S18_3232,UK
+10181,45,100,Shipped,Classic Cars,S18_3232,Norway
+10184,28,100,Shipped,Classic Cars,S18_3232,Spain
+10192,26,100,Shipped,Classic Cars,S18_3232,USA
+10195,50,100,Shipped,Classic Cars,S18_3232,USA
+10203,48,100,Shipped,Classic Cars,S18_3232,Spain
+10207,25,100,Shipped,Classic Cars,S18_3232,USA
+10212,40,100,Shipped,Classic Cars,S18_3232,Spain
+10225,43,100,Shipped,Classic Cars,S18_3232,Switzerland
+10229,22,100,Shipped,Classic Cars,S18_3232,USA
+10239,47,100,Shipped,Classic Cars,S18_3232,Finland
+10246,36,100,Shipped,Classic Cars,S18_3232,Spain
+10253,40,100,Cancelled,Classic Cars,S18_3232,UK
+10259,27,100,Shipped,Classic Cars,S18_3232,Singapore
+10266,29,100,Shipped,Classic Cars,S18_3232,Italy
+10271,20,100,Shipped,Classic Cars,S18_3232,USA
+10278,42,100,Shipped,Classic Cars,S18_3232,USA
+10281,25,100,Shipped,Classic Cars,S18_3232,USA
+10287,36,100,Shipped,Classic Cars,S18_3232,Switzerland
+10292,21,100,Shipped,Classic Cars,S18_3232,USA
+10301,23,100,Shipped,Classic Cars,S18_3232,Norway
+10305,37,100,Shipped,Classic Cars,S18_3232,USA
+10310,48,100,Shipped,Classic Cars,S18_3232,Germany
+10313,25,100,Shipped,Classic Cars,S18_3232,Canada
+10321,33,100,Shipped,Classic Cars,S18_3232,USA
+10324,27,100,Shipped,Classic Cars,S18_3232,USA
+10331,27,100,Shipped,Classic Cars,S18_3232,USA
+10334,20,100,On Hold,Classic Cars,S18_3232,Sweden
+10342,30,100,Shipped,Classic Cars,S18_3232,Australia
+10349,48,100,Shipped,Classic Cars,S18_3232,USA
+10358,32,93.49,Shipped,Classic Cars,S18_3232,Spain
+10366,34,100,Shipped,Classic Cars,S18_3232,Belgium
+10370,27,56.85,Shipped,Classic Cars,S18_3232,Australia
+10377,39,100,Shipped,Classic Cars,S18_3232,Finland
+10383,47,100,Shipped,Classic Cars,S18_3232,Spain
+10394,22,100,Shipped,Classic Cars,S18_3232,Spain
+10405,55,100,Shipped,Classic Cars,S18_3232,France
+10412,60,100,Shipped,Classic Cars,S18_3232,Spain
+10419,35,100,Shipped,Classic Cars,S18_3232,Austria
+10425,28,100,In Process,Classic Cars,S18_3232,France
+10105,38,100,Shipped,Trains,S18_3259,Denmark
+10117,21,95.8,Shipped,Trains,S18_3259,Singapore
+10128,41,100,Shipped,Trains,S18_3259,Spain
+10142,22,97.81,Shipped,Trains,S18_3259,USA
+10153,29,88.74,Shipped,Trains,S18_3259,Spain
+10165,50,100,Shipped,Trains,S18_3259,Singapore
+10177,29,100,Shipped,Trains,S18_3259,Spain
+10185,49,80.67,Shipped,Trains,S18_3259,USA
+10196,35,100,Shipped,Trains,S18_3259,USA
+10208,48,100,Shipped,Trains,S18_3259,France
+10221,23,80.67,Shipped,Trains,S18_3259,Belgium
+10232,48,95.8,Shipped,Trains,S18_3259,UK
+10248,42,100,Cancelled,Trains,S18_3259,USA
+10273,47,100,Shipped,Trains,S18_3259,Belgium
+10282,36,100,Shipped,Trains,S18_3259,USA
+10293,22,100,Shipped,Trains,S18_3259,Italy
+10306,40,91.76,Shipped,Trains,S18_3259,UK
+10314,23,100,Shipped,Trains,S18_3259,Denmark
+10326,32,100,Shipped,Trains,S18_3259,Sweden
+10336,21,100,Shipped,Trains,S18_3259,France
+10350,41,93.04,Shipped,Trains,S18_3259,Spain
+10372,25,84.71,Shipped,Trains,S18_3259,Japan
+10383,26,100,Shipped,Trains,S18_3259,Spain
+10396,24,89.75,Shipped,Trains,S18_3259,USA
+10414,48,100,On Hold,Trains,S18_3259,USA
+10108,26,68.35,Shipped,Classic Cars,S18_3278,Philippines
+10122,21,73.17,Shipped,Classic Cars,S18_3278,France
+10135,45,78,Shipped,Classic Cars,S18_3278,USA
+10147,36,86.04,Shipped,Classic Cars,S18_3278,USA
+10159,21,81.21,Shipped,Classic Cars,S18_3278,USA
+10169,32,70.76,Shipped,Classic Cars,S18_3278,Australia
+10181,30,82.82,Shipped,Classic Cars,S18_3278,Norway
+10191,36,94.88,Shipped,Classic Cars,S18_3278,Germany
+10203,33,86.04,Shipped,Classic Cars,S18_3278,Spain
+10211,35,78,Shipped,Classic Cars,S18_3278,France
+10225,37,95.69,Shipped,Classic Cars,S18_3278,Switzerland
+10238,41,73.17,Shipped,Classic Cars,S18_3278,Denmark
+10252,20,76.39,Shipped,Classic Cars,S18_3278,France
+10265,45,86.84,Shipped,Classic Cars,S18_3278,Australia
+10276,38,69.96,Shipped,Classic Cars,S18_3278,USA
+10287,43,70.76,Shipped,Classic Cars,S18_3278,Switzerland
+10300,49,78.8,Shipped,Classic Cars,S18_3278,Germany
+10310,27,80.41,Shipped,Classic Cars,S18_3278,Germany
+10319,46,73.98,Shipped,Classic Cars,S18_3278,USA
+10329,38,59.1,Shipped,Classic Cars,S18_3278,USA
+10342,25,66.74,Shipped,Classic Cars,S18_3278,Australia
+10363,46,60.3,Shipped,Classic Cars,S18_3278,Finland
+10378,22,100,Shipped,Classic Cars,S18_3278,Spain
+10390,40,100,Shipped,Classic Cars,S18_3278,USA
+10103,46,100,Shipped,Vintage Cars,S18_3320,Norway
+10111,39,100,Shipped,Vintage Cars,S18_3320,USA
+10126,38,82.34,Shipped,Vintage Cars,S18_3320,Spain
+10139,30,100,Shipped,Vintage Cars,S18_3320,Australia
+10149,42,94.25,Shipped,Vintage Cars,S18_3320,USA
+10163,43,100,Shipped,Vintage Cars,S18_3320,USA
+10173,29,95.24,Shipped,Vintage Cars,S18_3320,Italy
+10182,33,86.31,Shipped,Vintage Cars,S18_3320,USA
+10193,32,79.37,Shipped,Vintage Cars,S18_3320,Australia
+10206,28,87.3,Shipped,Vintage Cars,S18_3320,Canada
+10215,41,100,Shipped,Vintage Cars,S18_3320,USA
+10227,33,100,Shipped,Vintage Cars,S18_3320,France
+10244,36,84.33,Shipped,Vintage Cars,S18_3320,Spain
+10257,26,89.29,Shipped,Vintage Cars,S18_3320,USA
+10280,34,100,Shipped,Vintage Cars,S18_3320,Italy
+10290,26,96.23,Shipped,Vintage Cars,S18_3320,USA
+10304,38,100,Shipped,Vintage Cars,S18_3320,France
+10312,33,100,Shipped,Vintage Cars,S18_3320,USA
+10323,33,91.27,Shipped,Vintage Cars,S18_3320,Germany
+10333,46,100,Shipped,Vintage Cars,S18_3320,USA
+10347,26,100,Shipped,Vintage Cars,S18_3320,Australia
+10357,25,100,Shipped,Vintage Cars,S18_3320,USA
+10369,45,73.08,Shipped,Vintage Cars,S18_3320,USA
+10382,50,100,Shipped,Vintage Cars,S18_3320,USA
+10392,36,100,Shipped,Vintage Cars,S18_3320,Austria
+10423,21,89.29,In Process,Vintage Cars,S18_3320,Belgium
+10108,29,100,Shipped,Classic Cars,S18_3482,Philippines
+10122,21,100,Shipped,Classic Cars,S18_3482,France
+10135,42,100,Shipped,Classic Cars,S18_3482,USA
+10147,37,100,Shipped,Classic Cars,S18_3482,USA
+10159,25,100,Shipped,Classic Cars,S18_3482,USA
+10169,36,100,Shipped,Classic Cars,S18_3482,Australia
+10181,22,100,Shipped,Classic Cars,S18_3482,Norway
+10191,23,100,Shipped,Classic Cars,S18_3482,Germany
+10203,32,100,Shipped,Classic Cars,S18_3482,Spain
+10211,28,100,Shipped,Classic Cars,S18_3482,France
+10225,27,100,Shipped,Classic Cars,S18_3482,Switzerland
+10238,49,100,Shipped,Classic Cars,S18_3482,Denmark
+10252,41,100,Shipped,Classic Cars,S18_3482,France
+10265,49,100,Shipped,Classic Cars,S18_3482,Australia
+10276,30,100,Shipped,Classic Cars,S18_3482,USA
+10287,40,100,Shipped,Classic Cars,S18_3482,Switzerland
+10300,23,100,Shipped,Classic Cars,S18_3482,Germany
+10310,49,100,Shipped,Classic Cars,S18_3482,Germany
+10320,25,100,Shipped,Classic Cars,S18_3482,Sweden
+10330,37,100,Shipped,Classic Cars,S18_3482,Philippines
+10342,55,100,Shipped,Classic Cars,S18_3482,Australia
+10355,23,100,Shipped,Classic Cars,S18_3482,Spain
+10363,24,100,Shipped,Classic Cars,S18_3482,Finland
+10378,43,96.49,Shipped,Classic Cars,S18_3482,Spain
+10390,50,100,Shipped,Classic Cars,S18_3482,USA
+10109,47,100,Shipped,Classic Cars,S18_3685,USA
+10123,34,100,Shipped,Classic Cars,S18_3685,France
+10137,31,100,Shipped,Classic Cars,S18_3685,France
+10148,28,100,Shipped,Classic Cars,S18_3685,Australia
+10161,36,100,Shipped,Classic Cars,S18_3685,Denmark
+10172,48,100,Shipped,Classic Cars,S18_3685,USA
+10181,39,100,Shipped,Classic Cars,S18_3685,Norway
+10192,45,100,Shipped,Classic Cars,S18_3685,USA
+10204,35,100,Shipped,Classic Cars,S18_3685,USA
+10212,45,100,Shipped,Classic Cars,S18_3685,Spain
+10226,46,100,Shipped,Classic Cars,S18_3685,USA
+10240,37,100,Shipped,Classic Cars,S18_3685,Japan
+10253,31,100,Cancelled,Classic Cars,S18_3685,UK
+10266,33,100,Shipped,Classic Cars,S18_3685,Italy
+10278,31,100,Shipped,Classic Cars,S18_3685,USA
+10287,27,100,Shipped,Classic Cars,S18_3685,Switzerland
+10301,39,100,Shipped,Classic Cars,S18_3685,Norway
+10311,32,100,Shipped,Classic Cars,S18_3685,Spain
+10321,28,100,Shipped,Classic Cars,S18_3685,USA
+10331,26,67.91,Shipped,Classic Cars,S18_3685,USA
+10343,44,84.88,Shipped,Classic Cars,S18_3685,France
+10367,46,100,Resolved,Classic Cars,S18_3685,USA
+10379,32,70.83,Shipped,Classic Cars,S18_3685,Spain
+10406,65,100,Disputed,Classic Cars,S18_3685,Denmark
+10419,43,100,Shipped,Classic Cars,S18_3685,Austria
+10108,43,67.77,Shipped,Motorcycles,S18_3782,Philippines
+10122,35,49.74,Shipped,Motorcycles,S18_3782,France
+10135,45,50.36,Shipped,Motorcycles,S18_3782,USA
+10146,47,67.14,Shipped,Motorcycles,S18_3782,USA
+10159,21,64.66,Shipped,Motorcycles,S18_3782,USA
+10169,38,68.39,Shipped,Motorcycles,S18_3782,Australia
+10180,21,50.36,Shipped,Motorcycles,S18_3782,France
+10191,43,72.74,Shipped,Motorcycles,S18_3782,Germany
+10211,46,54.09,Shipped,Motorcycles,S18_3782,France
+10224,38,58.44,Shipped,Motorcycles,S18_3782,France
+10237,26,52.22,Shipped,Motorcycles,S18_3782,USA
+10252,31,52.84,Shipped,Motorcycles,S18_3782,France
+10264,48,54.71,Shipped,Motorcycles,S18_3782,USA
+10276,33,50.36,Shipped,Motorcycles,S18_3782,USA
+10286,38,57.2,Shipped,Motorcycles,S18_3782,France
+10299,39,55.95,Shipped,Motorcycles,S18_3782,Finland
+10310,42,67.14,Shipped,Motorcycles,S18_3782,Germany
+10319,44,59.06,Shipped,Motorcycles,S18_3782,USA
+10330,29,69.63,Shipped,Motorcycles,S18_3782,Philippines
+10342,26,55.95,Shipped,Motorcycles,S18_3782,Australia
+10355,31,53.47,Shipped,Motorcycles,S18_3782,Spain
+10363,32,89.12,Shipped,Motorcycles,S18_3782,Finland
+10378,28,100,Shipped,Motorcycles,S18_3782,Spain
+10390,36,100,Shipped,Motorcycles,S18_3782,USA
+10403,36,52.22,Shipped,Motorcycles,S18_3782,UK
+10106,41,100,Shipped,Vintage Cars,S18_3856,Italy
+10119,27,99.52,Shipped,Vintage Cars,S18_3856,Austria
+10130,33,100,Shipped,Vintage Cars,S18_3856,USA
+10143,34,100,Shipped,Vintage Cars,S18_3856,USA
+10155,29,100,Shipped,Vintage Cars,S18_3856,Finland
+10167,34,100,Cancelled,Vintage Cars,S18_3856,Sweden
+10178,48,100,Shipped,Vintage Cars,S18_3856,France
+10186,46,100,Shipped,Vintage Cars,S18_3856,UK
+10197,22,100,Shipped,Vintage Cars,S18_3856,Spain
+10209,20,100,Shipped,Vintage Cars,S18_3856,USA
+10222,45,85.75,Shipped,Vintage Cars,S18_3856,USA
+10249,46,100,Shipped,Vintage Cars,S18_3856,USA
+10262,34,100,Cancelled,Vintage Cars,S18_3856,Spain
+10273,50,85.75,Shipped,Vintage Cars,S18_3856,Belgium
+10283,46,100,Shipped,Vintage Cars,S18_3856,Canada
+10296,22,84.7,Shipped,Vintage Cars,S18_3856,Germany
+10307,48,86.81,Shipped,Vintage Cars,S18_3856,USA
+10316,47,86.81,Shipped,Vintage Cars,S18_3856,UK
+10328,34,100,Shipped,Vintage Cars,S18_3856,Italy
+10338,45,100,Shipped,Vintage Cars,S18_3856,Belgium
+10351,20,100,Shipped,Vintage Cars,S18_3856,UK
+10373,50,60.49,Shipped,Vintage Cars,S18_3856,Finland
+10386,22,57.55,Resolved,Vintage Cars,S18_3856,Spain
+10398,45,100,Shipped,Vintage Cars,S18_3856,France
+10400,58,100,Shipped,Vintage Cars,S18_3856,USA
+10415,51,100,Disputed,Vintage Cars,S18_3856,Australia
+10104,38,100,Shipped,Classic Cars,S18_4027,Spain
+10117,22,100,Shipped,Classic Cars,S18_4027,Singapore
+10127,25,100,Shipped,Classic Cars,S18_4027,USA
+10142,24,100,Shipped,Classic Cars,S18_4027,USA
+10152,35,100,Shipped,Classic Cars,S18_4027,Australia
+10165,28,100,Shipped,Classic Cars,S18_4027,Singapore
+10176,36,100,Shipped,Classic Cars,S18_4027,Italy
+10185,39,100,Shipped,Classic Cars,S18_4027,USA
+10196,27,100,Shipped,Classic Cars,S18_4027,USA
+10207,40,100,Shipped,Classic Cars,S18_4027,USA
+10220,50,100,Shipped,Classic Cars,S18_4027,Ireland
+10230,42,100,Shipped,Classic Cars,S18_4027,Germany
+10247,48,100,Shipped,Classic Cars,S18_4027,Finland
+10272,25,100,Shipped,Classic Cars,S18_4027,USA
+10282,31,100,Shipped,Classic Cars,S18_4027,USA
+10292,44,100,Shipped,Classic Cars,S18_4027,USA
+10306,23,100,Shipped,Classic Cars,S18_4027,UK
+10314,29,100,Shipped,Classic Cars,S18_4027,Denmark
+10324,49,100,Shipped,Classic Cars,S18_4027,USA
+10337,36,100,Shipped,Classic Cars,S18_4027,USA
+10349,34,100,Shipped,Classic Cars,S18_4027,USA
+10358,25,100,Shipped,Classic Cars,S18_4027,Spain
+10372,48,100,Shipped,Classic Cars,S18_4027,Japan
+10383,38,100,Shipped,Classic Cars,S18_4027,Spain
+10394,37,100,Shipped,Classic Cars,S18_4027,Spain
+10413,49,100,Shipped,Classic Cars,S18_4027,USA
+10100,22,86.51,Shipped,Vintage Cars,S18_4409,USA
+10110,28,89.27,Shipped,Vintage Cars,S18_4409,UK
+10124,36,85.59,Shipped,Vintage Cars,S18_4409,USA
+10148,34,100,Shipped,Vintage Cars,S18_4409,Australia
+10162,39,100,Shipped,Vintage Cars,S18_4409,USA
+10173,21,75.46,Shipped,Vintage Cars,S18_4409,Italy
+10182,36,100,Shipped,Vintage Cars,S18_4409,USA
+10193,24,97.55,Shipped,Vintage Cars,S18_4409,Australia
+10204,29,85.59,Shipped,Vintage Cars,S18_4409,USA
+10213,38,94.79,Shipped,Vintage Cars,S18_4409,UK
+10227,34,100,Shipped,Vintage Cars,S18_4409,France
+10241,42,90.19,Shipped,Vintage Cars,S18_4409,France
+10280,35,100,Shipped,Vintage Cars,S18_4409,Italy
+10288,35,80.99,Shipped,Vintage Cars,S18_4409,Singapore
+10302,38,89.27,Shipped,Vintage Cars,S18_4409,UK
+10311,41,81.91,Shipped,Vintage Cars,S18_4409,Spain
+10332,50,100,Shipped,Vintage Cars,S18_4409,UK
+10344,21,100,Shipped,Vintage Cars,S18_4409,France
+10367,43,62.72,Resolved,Vintage Cars,S18_4409,USA
+10380,32,100,Shipped,Vintage Cars,S18_4409,Spain
+10407,6,90.19,On Hold,Vintage Cars,S18_4409,USA
+10420,66,92.95,In Process,Vintage Cars,S18_4409,Australia
+10105,41,82.5,Shipped,Vintage Cars,S18_4522,Denmark
+10117,23,97.42,Shipped,Vintage Cars,S18_4522,Singapore
+10128,43,92.16,Shipped,Vintage Cars,S18_4522,Spain
+10142,24,70.22,Shipped,Vintage Cars,S18_4522,USA
+10153,22,83.38,Shipped,Vintage Cars,S18_4522,Spain
+10166,26,73.73,Shipped,Vintage Cars,S18_4522,USA
+10177,35,74.6,Shipped,Vintage Cars,S18_4522,Spain
+10185,47,77.24,Shipped,Vintage Cars,S18_4522,USA
+10197,50,100,Shipped,Vintage Cars,S18_4522,Spain
+10208,45,87.77,Shipped,Vintage Cars,S18_4522,France
+10221,39,89.53,Shipped,Vintage Cars,S18_4522,Belgium
+10232,23,89.53,Shipped,Vintage Cars,S18_4522,UK
+10248,42,75.48,Cancelled,Vintage Cars,S18_4522,USA
+10261,20,89.53,Shipped,Vintage Cars,S18_4522,Canada
+10273,33,71.09,Shipped,Vintage Cars,S18_4522,Belgium
+10283,34,100,Shipped,Vintage Cars,S18_4522,Canada
+10293,49,100,Shipped,Vintage Cars,S18_4522,Italy
+10306,39,90.4,Shipped,Vintage Cars,S18_4522,UK
+10315,36,100,Shipped,Vintage Cars,S18_4522,France
+10326,50,86.01,Shipped,Vintage Cars,S18_4522,Sweden
+10337,29,100,Shipped,Vintage Cars,S18_4522,USA
+10350,30,100,Shipped,Vintage Cars,S18_4522,Spain
+10372,41,86.89,Shipped,Vintage Cars,S18_4522,Japan
+10383,28,58.58,Shipped,Vintage Cars,S18_4522,Spain
+10396,45,100,Shipped,Vintage Cars,S18_4522,USA
+10414,16,75.48,On Hold,Vintage Cars,S18_4522,USA
+10103,36,100,Shipped,Trucks and Buses,S18_4600,Norway
+10114,41,100,Shipped,Trucks and Buses,S18_4600,France
+10126,50,100,Shipped,Trucks and Buses,S18_4600,Spain
+10140,40,100,Shipped,Trucks and Buses,S18_4600,USA
+10150,49,100,Shipped,Trucks and Buses,S18_4600,Singapore
+10164,45,100,Resolved,Trucks and Buses,S18_4600,Austria
+10175,47,100,Shipped,Trucks and Buses,S18_4600,UK
+10183,21,100,Shipped,Trucks and Buses,S18_4600,USA
+10194,32,100,Shipped,Trucks and Buses,S18_4600,France
+10207,47,100,Shipped,Trucks and Buses,S18_4600,USA
+10217,38,100,Shipped,Trucks and Buses,S18_4600,Singapore
+10229,41,100,Shipped,Trucks and Buses,S18_4600,USA
+10245,21,100,Shipped,Trucks and Buses,S18_4600,USA
+10259,41,100,Shipped,Trucks and Buses,S18_4600,Singapore
+10270,38,100,Shipped,Trucks and Buses,S18_4600,Australia
+10281,25,99.29,Shipped,Trucks and Buses,S18_4600,USA
+10291,48,100,Shipped,Trucks and Buses,S18_4600,Sweden
+10305,22,99.29,Shipped,Trucks and Buses,S18_4600,USA
+10313,28,100,Shipped,Trucks and Buses,S18_4600,Canada
+10323,47,100,Shipped,Trucks and Buses,S18_4600,Germany
+10334,49,100,On Hold,Trucks and Buses,S18_4600,Sweden
+10347,45,100,Shipped,Trucks and Buses,S18_4600,Australia
+10357,28,100,Shipped,Trucks and Buses,S18_4600,USA
+10370,29,57.53,Shipped,Trucks and Buses,S18_4600,Australia
+10382,39,100,Shipped,Trucks and Buses,S18_4600,USA
+10411,46,100,Shipped,Trucks and Buses,S18_4600,Canada
+10425,38,100,In Process,Trucks and Buses,S18_4600,France
+10103,41,47.29,Shipped,Vintage Cars,S18_4668,Norway
+10113,50,49.81,Shipped,Vintage Cars,S18_4668,USA
+10126,43,53.83,Shipped,Vintage Cars,S18_4668,Spain
+10140,29,43.27,Shipped,Vintage Cars,S18_4668,USA
+10150,30,42.76,Shipped,Vintage Cars,S18_4668,Singapore
+10164,25,53.83,Resolved,Vintage Cars,S18_4668,Austria
+10174,49,44.78,Shipped,Vintage Cars,S18_4668,Australia
+10183,40,49.3,Shipped,Vintage Cars,S18_4668,USA
+10194,41,44.78,Shipped,Vintage Cars,S18_4668,France
+10206,21,53.33,Shipped,Vintage Cars,S18_4668,Canada
+10215,46,45.28,Shipped,Vintage Cars,S18_4668,USA
+10229,39,40.25,Shipped,Vintage Cars,S18_4668,USA
+10245,45,59.87,Shipped,Vintage Cars,S18_4668,USA
+10258,21,59.87,Shipped,Vintage Cars,S18_4668,Japan
+10270,44,58.36,Shipped,Vintage Cars,S18_4668,Australia
+10281,44,59.87,Shipped,Vintage Cars,S18_4668,USA
+10291,29,51.82,Shipped,Vintage Cars,S18_4668,Sweden
+10304,34,49.3,Shipped,Vintage Cars,S18_4668,France
+10312,39,56.85,Shipped,Vintage Cars,S18_4668,USA
+10324,38,100,Shipped,Vintage Cars,S18_4668,USA
+10333,24,79.86,Shipped,Vintage Cars,S18_4668,USA
+10348,29,100,Shipped,Vintage Cars,S18_4668,Spain
+10358,30,100,Shipped,Vintage Cars,S18_4668,Spain
+10370,20,100,Shipped,Vintage Cars,S18_4668,Australia
+10382,39,100,Shipped,Vintage Cars,S18_4668,USA
+10411,35,59.87,Shipped,Vintage Cars,S18_4668,Canada
+10424,26,59.87,In Process,Vintage Cars,S18_4668,Spain
+10108,44,100,Shipped,Classic Cars,S18_4721,Philippines
+10122,28,100,Shipped,Classic Cars,S18_4721,France
+10135,31,100,Shipped,Classic Cars,S18_4721,USA
+10146,29,100,Shipped,Classic Cars,S18_4721,USA
+10159,32,100,Shipped,Classic Cars,S18_4721,USA
+10169,33,100,Shipped,Classic Cars,S18_4721,Australia
+10180,44,100,Shipped,Classic Cars,S18_4721,France
+10191,32,100,Shipped,Classic Cars,S18_4721,Germany
+10211,41,100,Shipped,Classic Cars,S18_4721,France
+10225,35,100,Shipped,Classic Cars,S18_4721,Switzerland
+10238,44,100,Shipped,Classic Cars,S18_4721,Denmark
+10252,26,100,Shipped,Classic Cars,S18_4721,France
+10264,20,100,Shipped,Classic Cars,S18_4721,USA
+10276,48,100,Shipped,Classic Cars,S18_4721,USA
+10287,34,100,Shipped,Classic Cars,S18_4721,Switzerland
+10299,49,100,Shipped,Classic Cars,S18_4721,Finland
+10310,40,100,Shipped,Classic Cars,S18_4721,Germany
+10319,45,100,Shipped,Classic Cars,S18_4721,USA
+10330,50,100,Shipped,Classic Cars,S18_4721,Philippines
+10342,38,100,Shipped,Classic Cars,S18_4721,Australia
+10355,25,100,Shipped,Classic Cars,S18_4721,Spain
+10363,28,58.18,Shipped,Classic Cars,S18_4721,Finland
+10378,49,67.14,Shipped,Classic Cars,S18_4721,Spain
+10390,49,100,Shipped,Classic Cars,S18_4721,USA
+10110,42,61.29,Shipped,Classic Cars,S18_4933,UK
+10124,23,57.73,Shipped,Classic Cars,S18_4933,USA
+10148,29,81.25,Shipped,Classic Cars,S18_4933,Australia
+10161,25,80.54,Shipped,Classic Cars,S18_4933,Denmark
+10173,39,71.98,Shipped,Classic Cars,S18_4933,Italy
+10182,44,69.84,Shipped,Classic Cars,S18_4933,USA
+10193,25,76.26,Shipped,Classic Cars,S18_4933,Australia
+10204,45,76.26,Shipped,Classic Cars,S18_4933,USA
+10213,25,83.39,Shipped,Classic Cars,S18_4933,UK
+10227,37,57.73,Shipped,Classic Cars,S18_4933,France
+10241,30,66.99,Shipped,Classic Cars,S18_4933,France
+10267,36,75.55,Shipped,Classic Cars,S18_4933,USA
+10279,26,60.58,Shipped,Classic Cars,S18_4933,Spain
+10288,23,73.41,Shipped,Classic Cars,S18_4933,Singapore
+10302,23,72.7,Shipped,Classic Cars,S18_4933,UK
+10311,25,66.99,Shipped,Classic Cars,S18_4933,Spain
+10332,21,100,Shipped,Classic Cars,S18_4933,UK
+10344,26,63.43,Shipped,Classic Cars,S18_4933,France
+10367,44,85.25,Resolved,Classic Cars,S18_4933,USA
+10380,24,100,Shipped,Classic Cars,S18_4933,Spain
+10407,66,66.99,On Hold,Classic Cars,S18_4933,USA
+10420,36,57.73,In Process,Classic Cars,S18_4933,Australia
+10110,36,85.25,Shipped,Classic Cars,S24_1046,UK
+10124,22,77.9,Shipped,Classic Cars,S24_1046,USA
+10148,25,60.26,Shipped,Classic Cars,S24_1046,Australia
+10161,37,72.76,Shipped,Classic Cars,S24_1046,Denmark
+10172,32,75.69,Shipped,Classic Cars,S24_1046,USA
+10182,47,74.22,Shipped,Classic Cars,S24_1046,USA
+10192,37,69.82,Shipped,Classic Cars,S24_1046,USA
+10204,20,62.47,Shipped,Classic Cars,S24_1046,USA
+10212,41,82.31,Shipped,Classic Cars,S24_1046,Spain
+10226,21,60.26,Shipped,Classic Cars,S24_1046,USA
+10241,22,76.43,Shipped,Classic Cars,S24_1046,France
+10267,40,80.1,Shipped,Classic Cars,S24_1046,USA
+10279,32,74.96,Shipped,Classic Cars,S24_1046,Spain
+10288,36,66.14,Shipped,Classic Cars,S24_1046,Singapore
+10301,27,72.02,Shipped,Classic Cars,S24_1046,Norway
+10311,26,87.45,Shipped,Classic Cars,S24_1046,Spain
+10321,30,70.55,Shipped,Classic Cars,S24_1046,USA
+10332,23,56.84,Shipped,Classic Cars,S24_1046,UK
+10344,29,59.53,Shipped,Classic Cars,S24_1046,France
+10367,21,60.37,Resolved,Classic Cars,S24_1046,USA
+10380,34,100,Shipped,Classic Cars,S24_1046,Spain
+10407,26,76.43,On Hold,Classic Cars,S24_1046,USA
+10420,60,64.67,In Process,Classic Cars,S24_1046,Australia
+10104,35,55.49,Shipped,Classic Cars,S24_1444,Spain
+10115,47,69.36,Shipped,Classic Cars,S24_1444,USA
+10127,20,60.69,Shipped,Classic Cars,S24_1444,USA
+10141,20,54.33,Shipped,Classic Cars,S24_1444,Finland
+10152,25,65.31,Shipped,Classic Cars,S24_1444,Australia
+10165,25,69.36,Shipped,Classic Cars,S24_1444,Singapore
+10176,27,68.78,Shipped,Classic Cars,S24_1444,Italy
+10184,31,60.11,Shipped,Classic Cars,S24_1444,Spain
+10195,44,66.47,Shipped,Classic Cars,S24_1444,USA
+10207,49,46.82,Shipped,Classic Cars,S24_1444,USA
+10220,26,56.07,Shipped,Classic Cars,S24_1444,Ireland
+10230,36,54.33,Shipped,Classic Cars,S24_1444,Germany
+10246,44,52.6,Shipped,Classic Cars,S24_1444,Spain
+10259,28,46.82,Shipped,Classic Cars,S24_1444,Singapore
+10271,45,64.74,Shipped,Classic Cars,S24_1444,USA
+10282,29,46.82,Shipped,Classic Cars,S24_1444,USA
+10292,40,53.75,Shipped,Classic Cars,S24_1444,USA
+10305,45,61.85,Shipped,Classic Cars,S24_1444,USA
+10314,44,53.18,Shipped,Classic Cars,S24_1444,Denmark
+10324,25,69.16,Shipped,Classic Cars,S24_1444,USA
+10336,45,100,Shipped,Classic Cars,S24_1444,France
+10349,48,47.4,Shipped,Classic Cars,S24_1444,USA
+10358,44,60.76,Shipped,Classic Cars,S24_1444,Spain
+10371,25,97.27,Shipped,Classic Cars,S24_1444,USA
+10383,22,91.76,Shipped,Classic Cars,S24_1444,Spain
+10394,31,50.29,Shipped,Classic Cars,S24_1444,Spain
+10412,21,52.6,Shipped,Classic Cars,S24_1444,Spain
+10425,55,46.82,In Process,Classic Cars,S24_1444,France
+10107,25,100,Shipped,Motorcycles,S24_1578,USA
+10120,35,98.05,Shipped,Motorcycles,S24_1578,Australia
+10134,35,93.54,Shipped,Motorcycles,S24_1578,France
+10145,43,95.8,Shipped,Motorcycles,S24_1578,USA
+10159,44,100,Shipped,Motorcycles,S24_1578,USA
+10168,50,100,Shipped,Motorcycles,S24_1578,USA
+10180,48,100,Shipped,Motorcycles,S24_1578,France
+10188,25,100,Shipped,Motorcycles,S24_1578,Norway
+10201,39,100,Shipped,Motorcycles,S24_1578,USA
+10211,25,90.16,Shipped,Motorcycles,S24_1578,France
+10223,32,91.29,Shipped,Motorcycles,S24_1578,Australia
+10237,20,100,Shipped,Motorcycles,S24_1578,USA
+10251,26,100,Shipped,Motorcycles,S24_1578,USA
+10263,42,100,Shipped,Motorcycles,S24_1578,USA
+10275,21,100,Shipped,Motorcycles,S24_1578,France
+10285,34,100,Shipped,Motorcycles,S24_1578,USA
+10299,47,100,Shipped,Motorcycles,S24_1578,Finland
+10309,21,100,Shipped,Motorcycles,S24_1578,Norway
+10318,48,100,Shipped,Motorcycles,S24_1578,USA
+10329,30,87.78,Shipped,Motorcycles,S24_1578,USA
+10339,27,84.39,Shipped,Motorcycles,S24_1578,Japan
+10362,50,96.92,Shipped,Motorcycles,S24_1578,USA
+10374,38,100,Shipped,Motorcycles,S24_1578,Australia
+10389,45,100,Shipped,Motorcycles,S24_1578,Sweden
+10403,46,100,Shipped,Motorcycles,S24_1578,UK
+10417,35,100,Disputed,Motorcycles,S24_1578,Spain
+10110,29,59.37,Shipped,Classic Cars,S24_1628,UK
+10123,50,59.87,Shipped,Classic Cars,S24_1628,France
+10137,26,49.81,Shipped,Classic Cars,S24_1628,France
+10148,47,56.85,Shipped,Classic Cars,S24_1628,Australia
+10161,23,53.33,Shipped,Classic Cars,S24_1628,Denmark
+10172,34,42.76,Shipped,Classic Cars,S24_1628,USA
+10181,34,53.83,Shipped,Classic Cars,S24_1628,Norway
+10192,47,53.83,Shipped,Classic Cars,S24_1628,USA
+10204,45,49.81,Shipped,Classic Cars,S24_1628,USA
+10212,45,53.33,Shipped,Classic Cars,S24_1628,Spain
+10226,36,43.27,Shipped,Classic Cars,S24_1628,USA
+10241,21,40.25,Shipped,Classic Cars,S24_1628,France
+10266,28,48.3,Shipped,Classic Cars,S24_1628,Italy
+10278,35,45.28,Shipped,Classic Cars,S24_1628,USA
+10288,50,52.32,Shipped,Classic Cars,S24_1628,Singapore
+10301,22,51.32,Shipped,Classic Cars,S24_1628,Norway
+10311,45,49.3,Shipped,Classic Cars,S24_1628,Spain
+10321,48,42.26,Shipped,Classic Cars,S24_1628,USA
+10332,20,87.96,Shipped,Classic Cars,S24_1628,UK
+10343,27,36.21,Shipped,Classic Cars,S24_1628,France
+10367,38,38.5,Resolved,Classic Cars,S24_1628,USA
+10379,32,100,Shipped,Classic Cars,S24_1628,Spain
+10407,64,40.25,On Hold,Classic Cars,S24_1628,USA
+10420,37,60.37,In Process,Classic Cars,S24_1628,Australia
+10106,28,88.63,Shipped,Planes,S24_1785,Italy
+10120,39,100,Shipped,Planes,S24_1785,Australia
+10133,41,94.1,Shipped,Planes,S24_1785,Spain
+10145,40,87.54,Shipped,Planes,S24_1785,USA
+10168,49,100,Shipped,Planes,S24_1785,USA
+10210,27,98.48,Shipped,Planes,S24_1785,Japan
+10223,34,100,Shipped,Planes,S24_1785,Australia
+10235,23,96.29,Shipped,Planes,S24_1785,Canada
+10250,31,88.63,Shipped,Planes,S24_1785,USA
+10262,34,97.38,Cancelled,Planes,S24_1785,Spain
+10275,25,95.2,Shipped,Planes,S24_1785,France
+10284,22,100,Shipped,Planes,S24_1785,Norway
+10297,32,100,Shipped,Planes,S24_1785,Ireland
+10308,31,100,Shipped,Planes,S24_1785,USA
+10316,25,100,Shipped,Planes,S24_1785,UK
+10328,47,87.54,Shipped,Planes,S24_1785,Italy
+10339,21,50.65,Shipped,Planes,S24_1785,Japan
+10353,28,71.73,Shipped,Planes,S24_1785,USA
+10374,46,94.1,Shipped,Planes,S24_1785,Australia
+10386,33,41.71,Resolved,Planes,S24_1785,Spain
+10398,43,100,Shipped,Planes,S24_1785,France
+10401,38,96.29,On Hold,Planes,S24_1785,USA
+10416,47,88.63,Shipped,Planes,S24_1785,Italy
+10101,45,31.2,Shipped,Vintage Cars,S24_1937,Germany
+10110,20,35.51,Shipped,Vintage Cars,S24_1937,UK
+10124,45,37.84,Shipped,Vintage Cars,S24_1937,USA
+10149,36,33.19,Shipped,Vintage Cars,S24_1937,USA
+10162,37,27.22,Shipped,Vintage Cars,S24_1937,USA
+10173,31,31.53,Shipped,Vintage Cars,S24_1937,Italy
+10182,39,36.84,Shipped,Vintage Cars,S24_1937,USA
+10193,26,29.21,Shipped,Vintage Cars,S24_1937,Australia
+10205,32,37.17,Shipped,Vintage Cars,S24_1937,Spain
+10214,20,34.19,Shipped,Vintage Cars,S24_1937,Spain
+10227,42,29.21,Shipped,Vintage Cars,S24_1937,France
+10243,33,29.54,Shipped,Vintage Cars,S24_1937,USA
+10280,20,28.88,Shipped,Vintage Cars,S24_1937,Italy
+10288,29,38.17,Shipped,Vintage Cars,S24_1937,Singapore
+10304,23,30.2,Shipped,Vintage Cars,S24_1937,France
+10312,39,29.54,Shipped,Vintage Cars,S24_1937,USA
+10322,20,100,Shipped,Vintage Cars,S24_1937,USA
+10332,45,81.91,Shipped,Vintage Cars,S24_1937,UK
+10344,20,35.18,Shipped,Vintage Cars,S24_1937,France
+10356,48,100,Shipped,Vintage Cars,S24_1937,France
+10367,23,36.29,Resolved,Vintage Cars,S24_1937,USA
+10380,32,70.56,Shipped,Vintage Cars,S24_1937,Spain
+10391,33,100,Shipped,Vintage Cars,S24_1937,Australia
+10409,61,29.54,Shipped,Vintage Cars,S24_1937,Singapore
+10420,45,26.88,In Process,Vintage Cars,S24_1937,Australia
+10107,38,83.03,Shipped,Motorcycles,S24_2000,USA
+10120,34,83.79,Shipped,Motorcycles,S24_2000,Australia
+10134,43,83.03,Shipped,Motorcycles,S24_2000,France
+10145,47,83.03,Shipped,Motorcycles,S24_2000,USA
+10158,22,67.03,Shipped,Motorcycles,S24_2000,Norway
+10168,29,75.41,Shipped,Motorcycles,S24_2000,USA
+10180,28,68.55,Shipped,Motorcycles,S24_2000,France
+10188,40,91.4,Shipped,Motorcycles,S24_2000,Norway
+10201,25,73.88,Shipped,Motorcycles,S24_2000,USA
+10210,30,61.7,Shipped,Motorcycles,S24_2000,Japan
+10223,38,69.31,Shipped,Motorcycles,S24_2000,Australia
+10236,36,87.6,Shipped,Motorcycles,S24_2000,USA
+10250,32,87.6,Shipped,Motorcycles,S24_2000,USA
+10263,37,62.46,Shipped,Motorcycles,S24_2000,USA
+10275,30,79.98,Shipped,Motorcycles,S24_2000,France
+10285,39,70.08,Shipped,Motorcycles,S24_2000,USA
+10297,32,65.51,Shipped,Motorcycles,S24_2000,Ireland
+10308,47,63.22,Shipped,Motorcycles,S24_2000,USA
+10318,26,86.83,Shipped,Motorcycles,S24_2000,USA
+10329,37,94.43,Shipped,Motorcycles,S24_2000,USA
+10340,55,79.98,Shipped,Motorcycles,S24_2000,Spain
+10363,21,100,Shipped,Motorcycles,S24_2000,Finland
+10375,23,100,Shipped,Motorcycles,S24_2000,France
+10389,49,81.4,Shipped,Motorcycles,S24_2000,Sweden
+10402,59,87.6,Shipped,Motorcycles,S24_2000,France
+10416,32,87.6,Shipped,Motorcycles,S24_2000,Italy
+10105,43,100,Shipped,Ships,S24_2011,Denmark
+10117,41,100,Shipped,Ships,S24_2011,Singapore
+10129,45,100,Shipped,Ships,S24_2011,UK
+10142,33,100,Shipped,Ships,S24_2011,USA
+10153,40,100,Shipped,Ships,S24_2011,Spain
+10167,33,100,Cancelled,Ships,S24_2011,Sweden
+10177,50,100,Shipped,Ships,S24_2011,Spain
+10185,30,100,Shipped,Ships,S24_2011,USA
+10197,41,100,Shipped,Ships,S24_2011,Spain
+10208,35,100,Shipped,Ships,S24_2011,France
+10221,49,100,Shipped,Ships,S24_2011,Belgium
+10232,46,100,Shipped,Ships,S24_2011,UK
+10248,48,100,Cancelled,Ships,S24_2011,USA
+10261,36,100,Shipped,Ships,S24_2011,Canada
+10273,22,100,Shipped,Ships,S24_2011,Belgium
+10283,42,100,Shipped,Ships,S24_2011,Canada
+10293,21,100,Shipped,Ships,S24_2011,Italy
+10306,29,100,Shipped,Ships,S24_2011,UK
+10315,35,100,Shipped,Ships,S24_2011,France
+10326,41,100,Shipped,Ships,S24_2011,Sweden
+10337,29,71.97,Shipped,Ships,S24_2011,USA
+10350,34,50.33,Shipped,Ships,S24_2011,Spain
+10372,37,100,Shipped,Ships,S24_2011,Japan
+10384,28,80.54,Shipped,Ships,S24_2011,USA
+10396,49,100,Shipped,Ships,S24_2011,USA
+10414,23,100,On Hold,Ships,S24_2011,USA
+10101,46,53.76,Shipped,Vintage Cars,S24_2022,Germany
+10110,39,44.35,Shipped,Vintage Cars,S24_2022,UK
+10124,22,45.25,Shipped,Vintage Cars,S24_2022,USA
+10149,49,49.28,Shipped,Vintage Cars,S24_2022,USA
+10162,43,36.29,Shipped,Vintage Cars,S24_2022,USA
+10173,27,41.22,Shipped,Vintage Cars,S24_2022,Italy
+10182,31,36.74,Shipped,Vintage Cars,S24_2022,USA
+10193,20,50.62,Shipped,Vintage Cars,S24_2022,Australia
+10205,24,38.08,Shipped,Vintage Cars,S24_2022,Spain
+10214,49,47.94,Shipped,Vintage Cars,S24_2022,Spain
+10227,24,48.38,Shipped,Vintage Cars,S24_2022,France
+10244,39,45.25,Shipped,Vintage Cars,S24_2022,Spain
+10255,37,45.7,Shipped,Vintage Cars,S24_2022,France
+10280,45,47.49,Shipped,Vintage Cars,S24_2022,Italy
+10289,45,48.38,Shipped,Vintage Cars,S24_2022,Norway
+10304,44,39.42,Shipped,Vintage Cars,S24_2022,France
+10312,23,37.63,Shipped,Vintage Cars,S24_2022,USA
+10322,30,100,Shipped,Vintage Cars,S24_2022,USA
+10332,26,85.52,Shipped,Vintage Cars,S24_2022,UK
+10345,43,53.76,Shipped,Vintage Cars,S24_2022,France
+10356,26,31.86,Shipped,Vintage Cars,S24_2022,France
+10367,28,30.59,Resolved,Vintage Cars,S24_2022,USA
+10380,27,68.35,Shipped,Vintage Cars,S24_2022,Spain
+10391,24,100,Shipped,Vintage Cars,S24_2022,Australia
+10421,40,45.7,In Process,Vintage Cars,S24_2022,USA
+10103,36,100,Shipped,Trucks and Buses,S24_2300,Norway
+10114,21,100,Shipped,Trucks and Buses,S24_2300,France
+10126,27,100,Shipped,Trucks and Buses,S24_2300,Spain
+10140,47,100,Shipped,Trucks and Buses,S24_2300,USA
+10151,42,100,Shipped,Trucks and Buses,S24_2300,Finland
+10165,32,100,Shipped,Trucks and Buses,S24_2300,Singapore
+10175,28,100,Shipped,Trucks and Buses,S24_2300,UK
+10184,24,100,Shipped,Trucks and Buses,S24_2300,Spain
+10194,49,100,Shipped,Trucks and Buses,S24_2300,France
+10207,46,100,Shipped,Trucks and Buses,S24_2300,USA
+10217,28,100,Shipped,Trucks and Buses,S24_2300,Singapore
+10229,48,100,Shipped,Trucks and Buses,S24_2300,USA
+10246,29,100,Shipped,Trucks and Buses,S24_2300,Spain
+10259,47,100,Shipped,Trucks and Buses,S24_2300,Singapore
+10271,43,100,Shipped,Trucks and Buses,S24_2300,USA
+10281,25,100,Shipped,Trucks and Buses,S24_2300,USA
+10291,48,100,Shipped,Trucks and Buses,S24_2300,Sweden
+10305,24,100,Shipped,Trucks and Buses,S24_2300,USA
+10313,42,100,Shipped,Trucks and Buses,S24_2300,Canada
+10324,31,100,Shipped,Trucks and Buses,S24_2300,USA
+10334,42,100,On Hold,Trucks and Buses,S24_2300,Sweden
+10348,37,100,Shipped,Trucks and Buses,S24_2300,Spain
+10358,41,100,Shipped,Trucks and Buses,S24_2300,Spain
+10371,20,100,Shipped,Trucks and Buses,S24_2300,USA
+10382,20,100,Shipped,Trucks and Buses,S24_2300,USA
+10412,70,100,Shipped,Trucks and Buses,S24_2300,Spain
+10425,49,100,In Process,Trucks and Buses,S24_2300,France
+10108,35,58.87,Shipped,Motorcycles,S24_2360,Philippines
+10121,32,76.88,Shipped,Motorcycles,S24_2360,France
+10135,29,61.64,Shipped,Motorcycles,S24_2360,USA
+10145,27,60.95,Shipped,Motorcycles,S24_2360,USA
+10159,27,80.34,Shipped,Motorcycles,S24_2360,USA
+10169,38,74.11,Shipped,Motorcycles,S24_2360,Australia
+10180,35,72.03,Shipped,Motorcycles,S24_2360,France
+10190,42,76.19,Shipped,Motorcycles,S24_2360,Spain
+10211,21,63.72,Shipped,Motorcycles,S24_2360,France
+10224,37,80.34,Shipped,Motorcycles,S24_2360,France
+10237,26,79.65,Shipped,Motorcycles,S24_2360,USA
+10252,47,65.8,Shipped,Motorcycles,S24_2360,France
+10264,37,65.1,Shipped,Motorcycles,S24_2360,USA
+10276,46,75.49,Shipped,Motorcycles,S24_2360,USA
+10285,38,59.56,Shipped,Motorcycles,S24_2360,USA
+10299,33,66.49,Shipped,Motorcycles,S24_2360,Finland
+10309,24,56.1,Shipped,Motorcycles,S24_2360,Norway
+10319,31,81.73,Shipped,Motorcycles,S24_2360,USA
+10330,42,81.03,Shipped,Motorcycles,S24_2360,Philippines
+10341,32,100,Shipped,Motorcycles,S24_2360,Austria
+10355,41,70.65,Shipped,Motorcycles,S24_2360,Spain
+10363,43,61.23,Shipped,Motorcycles,S24_2360,Finland
+10375,20,100,Shipped,Motorcycles,S24_2360,France
+10390,35,65.13,Shipped,Motorcycles,S24_2360,USA
+10403,27,79.65,Shipped,Motorcycles,S24_2360,UK
+10110,43,78.15,Shipped,Classic Cars,S24_2766,UK
+10124,32,72.7,Shipped,Classic Cars,S24_2766,USA
+10148,21,73.6,Shipped,Classic Cars,S24_2766,Australia
+10161,20,100,Shipped,Classic Cars,S24_2766,Denmark
+10172,22,74.51,Shipped,Classic Cars,S24_2766,USA
+10182,36,73.6,Shipped,Classic Cars,S24_2766,USA
+10192,46,83.6,Shipped,Classic Cars,S24_2766,USA
+10204,47,96.32,Shipped,Classic Cars,S24_2766,USA
+10212,45,88.14,Shipped,Classic Cars,S24_2766,Spain
+10227,47,88.14,Shipped,Classic Cars,S24_2766,France
+10241,47,94.5,Shipped,Classic Cars,S24_2766,France
+10267,38,87.24,Shipped,Classic Cars,S24_2766,USA
+10279,49,79.97,Shipped,Classic Cars,S24_2766,Spain
+10288,35,80.87,Shipped,Classic Cars,S24_2766,Singapore
+10302,49,100,Shipped,Classic Cars,S24_2766,UK
+10311,28,93.6,Shipped,Classic Cars,S24_2766,Spain
+10321,30,72.7,Shipped,Classic Cars,S24_2766,USA
+10332,39,86.72,Shipped,Classic Cars,S24_2766,UK
+10321,30,72.7,Shipped,Classic Cars,S24_2766,USA
+10346,25,100,Shipped,Classic Cars,S24_2766,USA
+10368,40,100,Shipped,Classic Cars,S24_2766,USA
+10380,36,37.5,Shipped,Classic Cars,S24_2766,Spain
+10407,76,94.5,On Hold,Classic Cars,S24_2766,USA
+10420,39,100,In Process,Classic Cars,S24_2766,Australia
+10104,44,39.6,Shipped,Classic Cars,S24_2840,Spain
+10114,24,30.06,Shipped,Classic Cars,S24_2840,France
+10127,39,38.19,Shipped,Classic Cars,S24_2840,USA
+10141,21,42.43,Shipped,Classic Cars,S24_2840,Finland
+10151,30,40.31,Shipped,Classic Cars,S24_2840,Finland
+10165,27,31.82,Shipped,Classic Cars,S24_2840,Singapore
+10175,37,31.12,Shipped,Classic Cars,S24_2840,UK
+10184,42,31.82,Shipped,Classic Cars,S24_2840,Spain
+10195,32,28.29,Shipped,Classic Cars,S24_2840,USA
+10207,42,29.7,Shipped,Classic Cars,S24_2840,USA
+10219,21,40.31,Shipped,Classic Cars,S24_2840,USA
+10229,33,32.88,Shipped,Classic Cars,S24_2840,USA
+10246,49,36.07,Shipped,Classic Cars,S24_2840,Spain
+10259,31,33.24,Delivered,Classic Cars,S24_2840,Singapore
+10271,38,41.72,Shipped,Classic Cars,S24_2840,USA
+10281,20,40.66,Shipped,Classic Cars,S24_2840,USA
+10292,39,30.06,Shipped,Classic Cars,S24_2840,USA
+10305,48,31.47,Shipped,Classic Cars,S24_2840,USA
+10314,39,37.13,Shipped,Classic Cars,S24_2840,Denmark
+10324,30,100,Shipped,Classic Cars,S24_2840,USA
+10335,33,37.13,Shipped,Classic Cars,S24_2840,USA
+10349,36,37.13,Shipped,Classic Cars,S24_2840,USA
+10358,36,82.94,Shipped,Classic Cars,S24_2840,Spain
+10371,45,100,Shipped,Classic Cars,S24_2840,USA
+10383,40,100,Shipped,Classic Cars,S24_2840,Spain
+10394,46,38.9,Shipped,Classic Cars,S24_2840,Spain
+10412,30,36.07,Shipped,Classic Cars,S24_2840,Spain
+10425,31,33.24,In Process,Classic Cars,S24_2840,France
+10106,49,74.68,Shipped,Planes,S24_2841,Italy
+10119,41,59.6,Shipped,Planes,S24_2841,Austria
+10131,35,67.14,Shipped,Planes,S24_2841,USA
+10143,27,60.97,Shipped,Planes,S24_2841,USA
+10155,23,72.62,Shipped,Planes,S24_2841,Finland
+10167,21,69.88,Cancelled,Planes,S24_2841,Sweden
+10178,34,80.84,Shipped,Planes,S24_2841,France
+10186,22,69.2,Shipped,Planes,S24_2841,UK
+10198,48,67.82,Shipped,Planes,S24_2841,Philippines
+10209,43,82.21,Shipped,Planes,S24_2841,USA
+10222,32,81.53,Shipped,Planes,S24_2841,USA
+10249,20,67.82,Shipped,Planes,S24_2841,USA
+10262,24,67.14,Cancelled,Planes,S24_2841,Spain
+10274,40,65.08,Shipped,Planes,S24_2841,USA
+10284,30,73.99,Shipped,Planes,S24_2841,Norway
+10296,21,71.25,Shipped,Planes,S24_2841,Germany
+10307,25,75.36,Shipped,Planes,S24_2841,USA
+10316,34,63.71,Shipped,Planes,S24_2841,UK
+10328,48,58.92,Shipped,Planes,S24_2841,Italy
+10339,55,100,Shipped,Planes,S24_2841,Japan
+10351,25,74.68,Shipped,Planes,S24_2841,UK
+10373,38,70.44,Shipped,Planes,S24_2841,Finland
+10386,39,55.96,Resolved,Planes,S24_2841,Spain
+10398,28,57.55,Shipped,Planes,S24_2841,France
+10400,24,61.66,Shipped,Planes,S24_2841,USA
+10415,21,67.82,Disputed,Planes,S24_2841,Australia
+10110,46,100,Shipped,Classic Cars,S24_2887,UK
+10124,25,93.95,Shipped,Classic Cars,S24_2887,USA
+10148,34,100,Shipped,Classic Cars,S24_2887,Australia
+10161,25,100,Shipped,Classic Cars,S24_2887,Denmark
+10173,23,100,Shipped,Classic Cars,S24_2887,Italy
+10182,20,100,Shipped,Classic Cars,S24_2887,USA
+10192,23,100,Shipped,Classic Cars,S24_2887,USA
+10204,42,100,Shipped,Classic Cars,S24_2887,USA
+10213,27,100,Shipped,Classic Cars,S24_2887,UK
+10227,33,100,Shipped,Classic Cars,S24_2887,France
+10241,28,98.65,Shipped,Classic Cars,S24_2887,France
+10267,43,100,Shipped,Classic Cars,S24_2887,USA
+10279,48,100,Shipped,Classic Cars,S24_2887,Spain
+10288,48,100,Shipped,Classic Cars,S24_2887,Singapore
+10302,45,100,Shipped,Classic Cars,S24_2887,UK
+10311,43,100,Shipped,Classic Cars,S24_2887,Spain
+10332,44,42.26,Shipped,Classic Cars,S24_2887,UK
+10346,24,87.24,Shipped,Classic Cars,S24_2887,USA
+10368,31,100,Shipped,Classic Cars,S24_2887,USA
+10380,44,36.29,Shipped,Classic Cars,S24_2887,Spain
+10407,59,98.65,On Hold,Classic Cars,S24_2887,USA
+10420,55,96.3,In Process,Classic Cars,S24_2887,Australia
+10109,29,32.1,Shipped,Classic Cars,S24_2972,USA
+10122,39,30.96,Shipped,Classic Cars,S24_2972,France
+10135,20,35.87,Shipped,Classic Cars,S24_2972,USA
+10147,25,42.67,Shipped,Classic Cars,S24_2972,USA
+10160,42,37,Shipped,Classic Cars,S24_2972,USA
+10171,36,35.49,Shipped,Classic Cars,S24_2972,Canada
+10181,37,42.67,Shipped,Classic Cars,S24_2972,Norway
+10192,30,30.59,Shipped,Classic Cars,S24_2972,USA
+10203,21,37,Shipped,Classic Cars,S24_2972,Spain
+10212,34,43.42,Shipped,Classic Cars,S24_2972,Spain
+10225,42,36.63,Shipped,Classic Cars,S24_2972,Switzerland
+10239,20,44.56,Shipped,Classic Cars,S24_2972,Finland
+10253,40,42.67,Cancelled,Classic Cars,S24_2972,UK
+10266,34,40.4,Shipped,Classic Cars,S24_2972,Italy
+10278,31,38.89,Shipped,Classic Cars,S24_2972,USA
+10287,36,39.65,Shipped,Classic Cars,S24_2972,Switzerland
+10301,48,34.36,Shipped,Classic Cars,S24_2972,Norway
+10310,33,41.91,Shipped,Classic Cars,S24_2972,Germany
+10321,37,33.23,Shipped,Classic Cars,S24_2972,USA
+10331,27,42.24,Shipped,Classic Cars,S24_2972,USA
+10342,39,40.4,Shipped,Classic Cars,S24_2972,Australia
+10355,36,38.52,Shipped,Classic Cars,S24_2972,Spain
+10367,36,100,Resolved,Classic Cars,S24_2972,USA
+10378,41,100,Shipped,Classic Cars,S24_2972,Spain
+10390,37,100,Shipped,Classic Cars,S24_2972,USA
+10405,47,44.56,Shipped,Classic Cars,S24_2972,France
+10419,15,42.67,Shipped,Classic Cars,S24_2972,Austria
+10105,44,72.58,Shipped,Vintage Cars,S24_3151,Denmark
+10119,35,87.62,Shipped,Vintage Cars,S24_3151,Austria
+10129,41,94.71,Shipped,Vintage Cars,S24_3151,UK
+10142,49,98.25,Shipped,Vintage Cars,S24_3151,USA
+10154,31,91.17,Shipped,Vintage Cars,S24_3151,USA
+10167,20,79.66,Cancelled,Vintage Cars,S24_3151,Sweden
+10177,45,72.58,Shipped,Vintage Cars,S24_3151,Spain
+10185,33,74.35,Shipped,Vintage Cars,S24_3151,USA
+10197,47,83.2,Shipped,Vintage Cars,S24_3151,Spain
+10208,20,89.4,Shipped,Vintage Cars,S24_3151,France
+10222,47,70.81,Shipped,Vintage Cars,S24_3151,USA
+10233,40,94.71,Shipped,Vintage Cars,S24_3151,USA
+10248,30,100,Cancelled,Vintage Cars,S24_3151,USA
+10261,22,91.17,Shipped,Vintage Cars,S24_3151,Canada
+10273,27,100,Shipped,Vintage Cars,S24_3151,Belgium
+10283,34,92.94,Shipped,Vintage Cars,S24_3151,Canada
+10295,46,84.97,Shipped,Vintage Cars,S24_3151,USA
+10306,31,84.08,Shipped,Vintage Cars,S24_3151,UK
+10315,24,86.74,Shipped,Vintage Cars,S24_3151,France
+10326,41,85.85,Shipped,Vintage Cars,S24_3151,Sweden
+10339,55,100,Shipped,Vintage Cars,S24_3151,Japan
+10350,30,100,Shipped,Vintage Cars,S24_3151,Spain
+10373,33,57.32,Shipped,Vintage Cars,S24_3151,Finland
+10384,43,97.87,Shipped,Vintage Cars,S24_3151,USA
+10396,27,83.2,Shipped,Vintage Cars,S24_3151,USA
+10414,60,100,On Hold,Vintage Cars,S24_3151,USA
+10110,27,73.62,Shipped,Classic Cars,S24_3191,UK
+10124,49,83.04,Shipped,Classic Cars,S24_3191,USA
+10148,31,73.62,Shipped,Classic Cars,S24_3191,Australia
+10161,20,77.05,Shipped,Classic Cars,S24_3191,Denmark
+10172,24,81.33,Shipped,Classic Cars,S24_3191,USA
+10182,33,94.17,Shipped,Classic Cars,S24_3191,USA
+10192,32,72.77,Shipped,Classic Cars,S24_3191,USA
+10204,40,79.62,Shipped,Classic Cars,S24_3191,USA
+10212,27,79.62,Shipped,Classic Cars,S24_3191,Spain
+10227,40,79.62,Shipped,Classic Cars,S24_3191,France
+10241,26,81.33,Shipped,Classic Cars,S24_3191,France
+10267,44,96.74,Delivered,Classic Cars,S24_3191,USA
+10279,33,71.06,Shipped,Classic Cars,S24_3191,Spain
+10288,34,68.49,Shipped,Classic Cars,S24_3191,Singapore
+10302,48,74.48,Shipped,Classic Cars,S24_3191,UK
+10311,25,83.04,Shipped,Classic Cars,S24_3191,Spain
+10321,39,84.75,Shipped,Classic Cars,S24_3191,USA
+10332,45,34.19,Shipped,Classic Cars,S24_3191,UK
+10346,24,100,Shipped,Classic Cars,S24_3191,USA
+10368,46,79.62,Shipped,Classic Cars,S24_3191,USA
+10380,44,79.06,Shipped,Classic Cars,S24_3191,Spain
+10407,13,81.33,On Hold,Classic Cars,S24_3191,USA
+10420,35,96.74,In Process,Classic Cars,S24_3191,Australia
+10108,30,63.07,Shipped,Classic Cars,S24_3371,Philippines
+10122,34,50.21,Shipped,Classic Cars,S24_3371,France
+10135,27,66.13,Shipped,Classic Cars,S24_3371,USA
+10147,30,68.58,Shipped,Classic Cars,S24_3371,USA
+10159,50,69.8,Shipped,Classic Cars,S24_3371,USA
+10169,34,50.21,Shipped,Classic Cars,S24_3371,Australia
+10181,23,65.52,Shipped,Classic Cars,S24_3371,Norway
+10191,48,60.01,Shipped,Classic Cars,S24_3371,Germany
+10203,34,64.9,Shipped,Classic Cars,S24_3371,Spain
+10211,48,48.98,Shipped,Classic Cars,S24_3371,France
+10225,24,50.21,Shipped,Classic Cars,S24_3371,Switzerland
+10238,47,62.45,Shipped,Classic Cars,S24_3371,Denmark
+10253,24,52.66,Cancelled,Classic Cars,S24_3371,UK
+10266,47,62.45,Shipped,Classic Cars,S24_3371,Italy
+10276,20,61.23,Shipped,Classic Cars,S24_3371,USA
+10287,20,67.97,Shipped,Classic Cars,S24_3371,Switzerland
+10300,31,58.78,Shipped,Classic Cars,S24_3371,Germany
+10310,38,56.94,Shipped,Classic Cars,S24_3371,Germany
+10320,26,61.23,Shipped,Classic Cars,S24_3371,Sweden
+10331,25,100,Shipped,Classic Cars,S24_3371,USA
+10342,48,62.45,Shipped,Classic Cars,S24_3371,Australia
+10355,44,62.45,Shipped,Classic Cars,S24_3371,Spain
+10363,21,100,Shipped,Classic Cars,S24_3371,Finland
+10378,46,41.54,Shipped,Classic Cars,S24_3371,Spain
+10390,46,52.84,Shipped,Classic Cars,S24_3371,USA
+10419,55,52.66,Shipped,Classic Cars,S24_3371,Austria
+10106,31,52.6,Shipped,Vintage Cars,S24_3420,Italy
+10119,20,72.98,Shipped,Vintage Cars,S24_3420,Austria
+10131,29,59.18,Shipped,Vintage Cars,S24_3420,USA
+10143,33,77.59,Shipped,Vintage Cars,S24_3420,USA
+10155,34,55.89,Shipped,Vintage Cars,S24_3420,Finland
+10167,32,63.12,Cancelled,Vintage Cars,S24_3420,Sweden
+10178,27,73.64,Shipped,Vintage Cars,S24_3420,France
+10186,21,69.04,Shipped,Vintage Cars,S24_3420,UK
+10198,27,71.67,Shipped,Vintage Cars,S24_3420,Philippines
+10209,36,77.59,Shipped,Vintage Cars,S24_3420,USA
+10222,43,70.35,Shipped,Vintage Cars,S24_3420,USA
+10249,25,69.7,Shipped,Vintage Cars,S24_3420,USA
+10262,46,70.35,Cancelled,Vintage Cars,S24_3420,Spain
+10274,24,72.33,Shipped,Vintage Cars,S24_3420,USA
+10284,39,71.67,Shipped,Vintage Cars,S24_3420,Norway
+10296,31,53.92,Shipped,Vintage Cars,S24_3420,Germany
+10307,22,71.67,Shipped,Vintage Cars,S24_3420,USA
+10316,47,76.93,Shipped,Vintage Cars,S24_3420,UK
+10328,20,72.98,Shipped,Vintage Cars,S24_3420,Italy
+10339,29,99.69,Shipped,Vintage Cars,S24_3420,Japan
+10351,38,68.38,Shipped,Vintage Cars,S24_3420,UK
+10361,34,100,Shipped,Vintage Cars,S24_3420,Australia
+10373,46,66,Shipped,Vintage Cars,S24_3420,Finland
+10386,35,63.76,Resolved,Vintage Cars,S24_3420,Spain
+10398,34,71.67,Shipped,Vintage Cars,S24_3420,France
+10400,38,57.2,Shipped,Vintage Cars,S24_3420,USA
+10415,18,69.7,Disputed,Vintage Cars,S24_3420,Australia
+10110,37,100,Shipped,Classic Cars,S24_3432,UK
+10124,43,100,Shipped,Classic Cars,S24_3432,USA
+10148,27,100,Shipped,Classic Cars,S24_3432,Australia
+10161,30,100,Shipped,Classic Cars,S24_3432,Denmark
+10172,22,98.51,Shipped,Classic Cars,S24_3432,USA
+10182,49,100,Shipped,Classic Cars,S24_3432,USA
+10192,46,100,Shipped,Classic Cars,S24_3432,USA
+10204,48,91.02,Shipped,Classic Cars,S24_3432,USA
+10212,46,87.81,Shipped,Classic Cars,S24_3432,Spain
+10226,48,92.09,Shipped,Classic Cars,S24_3432,USA
+10241,27,86.73,Shipped,Classic Cars,S24_3432,France
+10267,43,100,Shipped,Classic Cars,S24_3432,USA
+10279,48,100,Shipped,Classic Cars,S24_3432,Spain
+10288,41,100,Shipped,Classic Cars,S24_3432,Singapore
+10301,22,96.37,Shipped,Classic Cars,S24_3432,Norway
+10311,46,92.09,Shipped,Classic Cars,S24_3432,Spain
+10321,21,89.95,Shipped,Classic Cars,S24_3432,USA
+10332,31,37.18,Shipped,Classic Cars,S24_3432,UK
+10346,26,95.88,Shipped,Classic Cars,S24_3432,USA
+10368,20,99.58,Shipped,Classic Cars,S24_3432,USA
+10380,34,100,Shipped,Classic Cars,S24_3432,Spain
+10407,43,86.73,On Hold,Classic Cars,S24_3432,USA
+10420,26,100,In Process,Classic Cars,S24_3432,Australia
+10105,50,79.67,Shipped,Vintage Cars,S24_3816,Denmark
+10119,35,90.57,Shipped,Vintage Cars,S24_3816,Austria
+10129,50,77.99,Shipped,Vintage Cars,S24_3816,UK
+10143,23,80.51,Shipped,Vintage Cars,S24_3816,USA
+10155,37,67.93,Shipped,Vintage Cars,S24_3816,Finland
+10167,29,83.86,Cancelled,Vintage Cars,S24_3816,Sweden
+10178,21,72.12,Shipped,Vintage Cars,S24_3816,France
+10186,36,85.54,Shipped,Vintage Cars,S24_3816,UK
+10197,22,86.38,Shipped,Vintage Cars,S24_3816,Spain
+10209,22,89.73,Shipped,Vintage Cars,S24_3816,USA
+10222,46,80.51,Shipped,Vintage Cars,S24_3816,USA
+10248,23,76.31,Cancelled,Vintage Cars,S24_3816,USA
+10262,49,87.21,Cancelled,Vintage Cars,S24_3816,Spain
+10273,48,83.02,Shipped,Vintage Cars,S24_3816,Belgium
+10283,33,72.96,Shipped,Vintage Cars,S24_3816,Canada
+10296,22,77.15,Shipped,Vintage Cars,S24_3816,Germany
+10307,22,91.41,Shipped,Vintage Cars,S24_3816,USA
+10316,25,92.25,Shipped,Vintage Cars,S24_3816,UK
+10326,20,92.25,Shipped,Vintage Cars,S24_3816,Sweden
+10339,42,59.36,Shipped,Vintage Cars,S24_3816,Japan
+10350,25,60.34,Shipped,Vintage Cars,S24_3816,Spain
+10373,23,100,Shipped,Vintage Cars,S24_3816,Finland
+10385,37,85.54,Shipped,Vintage Cars,S24_3816,USA
+10396,37,90.57,Shipped,Vintage Cars,S24_3816,USA
+10400,42,72.96,Shipped,Vintage Cars,S24_3816,USA
+10414,51,76.31,On Hold,Vintage Cars,S24_3816,USA
+10108,40,100,Shipped,Classic Cars,S24_3856,Philippines
+10122,43,100,Shipped,Classic Cars,S24_3856,France
+10135,47,100,Shipped,Classic Cars,S24_3856,USA
+10147,23,100,Shipped,Classic Cars,S24_3856,USA
+10160,35,100,Shipped,Classic Cars,S24_3856,USA
+10170,34,100,Shipped,Classic Cars,S24_3856,Austria
+10181,25,100,Shipped,Classic Cars,S24_3856,Norway
+10192,45,100,Shipped,Classic Cars,S24_3856,USA
+10203,47,100,Shipped,Classic Cars,S24_3856,Spain
+10212,49,100,Shipped,Classic Cars,S24_3856,Spain
+10225,40,100,Shipped,Classic Cars,S24_3856,Switzerland
+10239,29,100,Shipped,Classic Cars,S24_3856,Finland
+10253,39,100,Cancelled,Classic Cars,S24_3856,UK
+10266,24,100,Shipped,Classic Cars,S24_3856,Italy
+10278,25,100,Shipped,Classic Cars,S24_3856,USA
+10287,36,100,Shipped,Classic Cars,S24_3856,Switzerland
+10301,50,100,Shipped,Classic Cars,S24_3856,Norway
+10310,45,100,Shipped,Classic Cars,S24_3856,Germany
+10321,26,100,Shipped,Classic Cars,S24_3856,USA
+10331,21,100,Shipped,Classic Cars,S24_3856,USA
+10342,42,100,Shipped,Classic Cars,S24_3856,Australia
+10355,32,100,Shipped,Classic Cars,S24_3856,Spain
+10363,31,94.58,Shipped,Classic Cars,S24_3856,Finland
+10378,33,53.27,Shipped,Classic Cars,S24_3856,Spain
+10390,45,100,Shipped,Classic Cars,S24_3856,USA
+10405,76,100,Shipped,Classic Cars,S24_3856,France
+10419,70,100,Shipped,Classic Cars,S24_3856,Austria
+10106,50,64.83,Shipped,Planes,S24_3949,Italy
+10119,28,70.29,Shipped,Planes,S24_3949,Austria
+10131,50,81.89,Shipped,Planes,S24_3949,USA
+10143,28,66.19,Shipped,Planes,S24_3949,USA
+10155,44,77.11,Shipped,Planes,S24_3949,Finland
+10168,27,73.02,Shipped,Planes,S24_3949,USA
+10178,30,72.33,Shipped,Planes,S24_3949,France
+10198,43,66.19,Shipped,Planes,S24_3949,Philippines
+10210,29,69.6,Shipped,Planes,S24_3949,Japan
+10222,48,56.64,Shipped,Planes,S24_3949,USA
+10235,33,60.05,Shipped,Planes,S24_3949,Canada
+10250,40,75.06,Shipped,Planes,S24_3949,USA
+10262,48,61.42,Cancelled,Planes,S24_3949,Spain
+10275,41,81.89,Shipped,Planes,S24_3949,France
+10284,21,55.96,Shipped,Planes,S24_3949,Norway
+10296,32,71.65,Shipped,Planes,S24_3949,Germany
+10308,43,76.43,Shipped,Planes,S24_3949,USA
+10316,30,77.79,Shipped,Planes,S24_3949,UK
+10328,35,76.43,Shipped,Planes,S24_3949,Italy
+10339,45,96.92,Shipped,Planes,S24_3949,Japan
+10351,34,59.37,Shipped,Planes,S24_3949,UK
+10361,26,100,Shipped,Planes,S24_3949,Australia
+10373,39,73,Shipped,Planes,S24_3949,Finland
+10386,41,73.32,Resolved,Planes,S24_3949,Spain
+10398,41,68.24,Shipped,Planes,S24_3949,France
+10401,64,60.05,On Hold,Planes,S24_3949,USA
+10416,18,75.06,Shipped,Planes,S24_3949,Italy
+10100,49,34.47,Shipped,Vintage Cars,S24_3969,USA
+10110,48,34.47,Shipped,Vintage Cars,S24_3969,UK
+10124,46,33.23,Shipped,Vintage Cars,S24_3969,USA
+10149,26,38.98,Shipped,Vintage Cars,S24_3969,USA
+10162,37,38.98,Shipped,Vintage Cars,S24_3969,USA
+10173,35,33.23,Shipped,Vintage Cars,S24_3969,Italy
+10182,23,42.26,Shipped,Vintage Cars,S24_3969,USA
+10193,22,41.03,Shipped,Vintage Cars,S24_3969,Australia
+10204,39,33.23,Shipped,Vintage Cars,S24_3969,USA
+10214,44,34.88,Shipped,Vintage Cars,S24_3969,Spain
+10227,27,43.9,Shipped,Vintage Cars,S24_3969,France
+10242,46,36.93,Shipped,Vintage Cars,S24_3969,USA
+10280,33,41.85,spedito,Vintage Cars,S24_3969,Italy
+10288,33,40.62,Shipped,Vintage Cars,S24_3969,Singapore
+10303,24,40.21,Shipped,Vintage Cars,S24_3969,Spain
+10312,31,35.29,Shipped,Vintage Cars,S24_3969,USA
+10332,41,77.24,Shipped,Vintage Cars,S24_3969,UK
+10346,22,97.44,Shipped,Vintage Cars,S24_3969,USA
+10368,46,37.34,Shipped,Vintage Cars,S24_3969,USA
+10380,43,95.03,Shipped,Vintage Cars,S24_3969,Spain
+10408,15,36.93,Shipped,Vintage Cars,S24_3969,Japan
+10420,15,43.49,In Process,Vintage Cars,S24_3969,Australia
+10104,26,100,Shipped,Classic Cars,S24_4048,Spain
+10115,44,100,Shipped,Classic Cars,S24_4048,USA
+10127,20,96.99,Shipped,Classic Cars,S24_4048,USA
+10141,40,94.62,Shipped,Classic Cars,S24_4048,Finland
+10152,23,100,Shipped,Classic Cars,S24_4048,Australia
+10165,24,99.36,Shipped,Classic Cars,S24_4048,Singapore
+10176,29,100,Shipped,Classic Cars,S24_4048,Italy
+10184,49,100,Shipped,Classic Cars,S24_4048,Spain
+10195,34,100,Shipped,Classic Cars,S24_4048,USA
+10207,28,100,Shipped,Classic Cars,S24_4048,USA
+10220,37,100,Shipped,Classic Cars,S24_4048,Ireland
+10230,45,100,Shipped,Classic Cars,S24_4048,Germany
+10246,46,100,Shipped,Classic Cars,S24_4048,Spain
+10271,22,100,Shipped,Classic Cars,S24_4048,USA
+10282,39,100,Shipped,Classic Cars,S24_4048,USA
+10292,27,100,Shipped,Classic Cars,S24_4048,USA
+10305,36,100,Shipped,Classic Cars,S24_4048,USA
+10314,38,100,Shipped,Classic Cars,S24_4048,Denmark
+10325,44,100,Shipped,Classic Cars,S24_4048,Norway
+10336,31,100,Shipped,Classic Cars,S24_4048,France
+10349,23,100,Shipped,Classic Cars,S24_4048,USA
+10359,22,100,Shipped,Classic Cars,S24_4048,France
+10371,28,50.32,Shipped,Classic Cars,S24_4048,USA
+10383,21,93.91,Shipped,Classic Cars,S24_4048,Spain
+10394,37,100,Shipped,Classic Cars,S24_4048,Spain
+10412,31,100,Shipped,Classic Cars,S24_4048,Spain
+10103,25,100,Shipped,Vintage Cars,S24_4258,Norway
+10111,26,86.68,Shipped,Vintage Cars,S24_4258,USA
+10126,34,100,Shipped,Vintage Cars,S24_4258,Spain
+10139,29,100,Shipped,Vintage Cars,S24_4258,Australia
+10149,20,90.57,Shipped,Vintage Cars,S24_4258,USA
+10163,42,91.55,Shipped,Vintage Cars,S24_4258,USA
+10173,22,100,Shipped,Vintage Cars,S24_4258,Italy
+10183,47,100,Shipped,Vintage Cars,S24_4258,USA
+10193,20,100,Shipped,Vintage Cars,S24_4258,Australia
+10206,33,97.39,Shipped,Vintage Cars,S24_4258,Canada
+10215,39,90.57,Shipped,Vintage Cars,S24_4258,USA
+10228,33,100,Shipped,Vintage Cars,S24_4258,USA
+10244,40,86.68,Shipped,Vintage Cars,S24_4258,Spain
+10257,46,78.89,Shipped,Vintage Cars,S24_4258,USA
+10269,48,97.39,Shipped,Vintage Cars,S24_4258,Austria
+10280,21,78.89,Shipped,Vintage Cars,S24_4258,Italy
+10290,45,100,Shipped,Vintage Cars,S24_4258,USA
+10304,33,100,Shipped,Vintage Cars,S24_4258,France
+10312,44,100,Shipped,Vintage Cars,S24_4258,USA
+10324,33,100,Shipped,Vintage Cars,S24_4258,USA
+10333,39,100,Shipped,Vintage Cars,S24_4258,USA
+10348,39,50.31,Shipped,Vintage Cars,S24_4258,Spain
+10358,41,100,Shipped,Vintage Cars,S24_4258,Spain
+10369,40,86.92,Shipped,Vintage Cars,S24_4258,USA
+10382,33,100,Shipped,Vintage Cars,S24_4258,USA
+10423,28,78.89,In Process,Vintage Cars,S24_4258,Belgium
+10106,26,63.76,Shipped,Planes,S24_4278,Italy
+10120,29,85.49,Shipped,Planes,S24_4278,Australia
+10133,46,77.52,Shipped,Planes,S24_4278,Spain
+10145,33,84.77,Shipped,Planes,S24_4278,USA
+10168,48,78.25,Shipped,Planes,S24_4278,USA
+10210,40,71,Shipped,Planes,S24_4278,Japan
+10223,23,74.62,Shipped,Planes,S24_4278,Australia
+10235,40,81.14,Shipped,Planes,S24_4278,Canada
+10250,37,74.62,Shipped,Planes,S24_4278,USA
+10263,24,75.35,Shipped,Planes,S24_4278,USA
+10275,27,62.31,Shipped,Planes,S24_4278,France
+10284,21,71,Shipped,Planes,S24_4278,Norway
+10297,23,72.45,Shipped,Planes,S24_4278,Ireland
+10308,44,83.32,Shipped,Planes,S24_4278,USA
+10317,35,83.32,Shipped,Planes,S24_4278,USA
+10328,43,60.86,spedito,Planes,S24_4278,Italy
+10340,40,84.77,Shipped,Planes,S24_4278,Spain
+10353,35,89.9,Shipped,Planes,S24_4278,USA
+10361,25,62.46,Shipped,Planes,S24_4278,Australia
+10375,43,100,Shipped,Planes,S24_4278,France
+10386,50,63.34,Resolved,Planes,S24_4278,Spain
+10398,45,78.25,Shipped,Planes,S24_4278,France
+10401,52,81.14,On Hold,Planes,S24_4278,USA
+10416,48,74.62,spedito,Planes,S24_4278,Italy
+10108,31,68.71,Shipped,Classic Cars,S24_4620,Philippines
+10122,29,71.14,Shipped,Classic Cars,S24_4620,France
+10135,23,87.31,Shipped,Classic Cars,S24_4620,USA
+10147,31,64.67,Shipped,Classic Cars,S24_4620,USA
+10159,23,67.1,Shipped,Classic Cars,S24_4620,USA
+10169,24,94.58,Shipped,Classic Cars,S24_4620,Australia
+10180,28,71.14,Shipped,Classic Cars,S24_4620,France
+10191,44,66.29,Shipped,Classic Cars,S24_4620,Germany
+10211,22,92.16,Shipped,Classic Cars,S24_4620,France
+10225,46,70.33,Shipped,Classic Cars,S24_4620,Switzerland
+10238,22,93.77,Shipped,Classic Cars,S24_4620,Denmark
+10252,38,87.31,Shipped,Classic Cars,S24_4620,France
+10264,47,83.27,Shipped,Classic Cars,S24_4620,USA
+10276,48,75.18,Shipped,Classic Cars,S24_4620,USA
+10287,40,88.12,Shipped,Classic Cars,S24_4620,Switzerland
+10299,32,80.84,Shipped,Classic Cars,S24_4620,Finland
+10310,49,97.01,Shipped,Classic Cars,S24_4620,Germany
+10319,43,85.69,Shipped,Classic Cars,S24_4620,USA
+10331,41,100,Shipped,Classic Cars,S24_4620,USA
+10343,30,100,Shipped,Classic Cars,S24_4620,France
+10355,28,95.39,Shipped,Classic Cars,S24_4620,Spain
+10363,43,100,Shipped,Classic Cars,S24_4620,Finland
+10378,41,100,Shipped,Classic Cars,S24_4620,Spain
+10390,30,82.42,Shipped,Classic Cars,S24_4620,USA
+10103,31,100,Shipped,Trucks and Buses,S32_1268,Norway
+10114,32,100,Shipped,Trucks and Buses,S32_1268,France
+10126,43,96.31,Shipped,Trucks and Buses,S32_1268,Spain
+10140,26,100,Shipped,Trucks and Buses,S32_1268,USA
+10151,27,100,Shipped,Trucks and Buses,S32_1268,Finland
+10164,24,100,Resolved,Trucks and Buses,S32_1268,Austria
+10175,22,100,Shipped,Trucks and Buses,S32_1268,UK
+10184,46,100,Shipped,Trucks and Buses,S32_1268,Spain
+10194,37,97.27,Shipped,Trucks and Buses,S32_1268,France
+10207,49,80.9,Shipped,Trucks and Buses,S32_1268,USA
+10217,21,100,Shipped,Trucks and Buses,S32_1268,Singapore
+10229,25,100,Shipped,Trucks and Buses,S32_1268,USA
+10245,37,100,Shipped,Trucks and Buses,S32_1268,USA
+10259,45,86.68,Shipped,Trucks and Buses,S32_1268,Singapore
+10270,32,85.72,Shipped,Trucks and Buses,S32_1268,Australia
+10281,29,82.83,Shipped,Trucks and Buses,S32_1268,USA
+10291,26,83.79,Shipped,Trucks and Buses,S32_1268,Sweden
+10305,28,100,Shipped,Trucks and Buses,S32_1268,USA
+10313,27,87.64,Shipped,Trucks and Buses,S32_1268,Canada
+10324,20,98.18,Shipped,Trucks and Buses,S32_1268,USA
+10335,44,100,Shipped,Trucks and Buses,S32_1268,USA
+10348,42,100,Shipped,Trucks and Buses,S32_1268,Spain
+10358,41,100,Shipped,Trucks and Buses,S32_1268,Spain
+10371,26,100,Shipped,Trucks and Buses,S32_1268,USA
+10382,26,100,Shipped,Trucks and Buses,S32_1268,USA
+10411,26,100,Shipped,Trucks and Buses,S32_1268,Canada
+10425,41,86.68,In Process,Trucks and Buses,S32_1268,France
+10107,20,92.9,Shipped,Motorcycles,S32_1374,USA
+10120,22,100,Shipped,Motorcycles,S32_1374,Australia
+10133,23,100,Shipped,Motorcycles,S32_1374,Spain
+10145,33,93.9,Shipped,Motorcycles,S32_1374,USA
+10168,28,100,Shipped,Motorcycles,S32_1374,USA
+10188,44,98.89,Shipped,Motorcycles,S32_1374,Norway
+10210,46,79.91,Shipped,Motorcycles,S32_1374,Japan
+10223,21,100,Shipped,Motorcycles,S32_1374,Australia
+10235,41,100,Shipped,Motorcycles,S32_1374,Canada
+10250,31,100,Shipped,Motorcycles,S32_1374,USA
+10263,31,79.91,Shipped,Motorcycles,S32_1374,USA
+10275,23,81.91,Shipped,Motorcycles,S32_1374,France
+10285,37,98.89,Shipped,Motorcycles,S32_1374,USA
+10297,26,100,Shipped,Motorcycles,S32_1374,Ireland
+10308,24,79.91,Shipped,Motorcycles,S32_1374,USA
+10318,47,100,Shipped,Motorcycles,S32_1374,USA
+10329,45,63.91,Shipped,Motorcycles,S32_1374,USA
+10340,55,100,Shipped,Motorcycles,S32_1374,Spain
+10353,46,81.17,Shipped,Motorcycles,S32_1374,USA
+10363,50,100,Shipped,Motorcycles,S32_1374,Finland
+10375,37,100,Shipped,Motorcycles,S32_1374,France
+10387,44,94.9,Shipped,Motorcycles,S32_1374,Singapore
+10401,49,100,On Hold,Motorcycles,S32_1374,USA
+10416,45,100,Shipped,Motorcycles,S32_1374,Italy
+10108,27,43.45,Shipped,Motorcycles,S32_2206,Philippines
+10122,31,44.66,Shipped,Motorcycles,S32_2206,France
+10135,33,40.23,Shipped,Motorcycles,S32_2206,USA
+10145,31,35.8,Shipped,Motorcycles,S32_2206,USA
+10159,35,35.4,Shipped,Motorcycles,S32_2206,USA
+10169,26,39.83,Shipped,Motorcycles,S32_2206,Australia
+10180,34,45.46,Shipped,Motorcycles,S32_2206,France
+10190,46,32.99,Shipped,Motorcycles,S32_2206,Spain
+10211,41,42.24,Shipped,Motorcycles,S32_2206,France
+10224,43,39.43,Shipped,Motorcycles,S32_2206,France
+10237,26,40.23,Shipped,Motorcycles,S32_2206,USA
+10252,36,48.28,Shipped,Motorcycles,S32_2206,France
+10264,20,32.59,Shipped,Motorcycles,S32_2206,USA
+10276,27,36.61,Shipped,Motorcycles,S32_2206,USA
+10285,37,41.03,Shipped,Motorcycles,S32_2206,USA
+10299,24,42.24,Shipped,Motorcycles,S32_2206,Finland
+10310,36,43.05,Shipped,Motorcycles,S32_2206,Germany
+10319,29,38.22,Shipped,Motorcycles,S32_2206,USA
+10331,28,100,Shipped,Motorcycles,S32_2206,USA
+10343,29,100,Shipped,Motorcycles,S32_2206,France
+10355,38,39.83,Shipped,Motorcycles,S32_2206,Spain
+10364,48,48.28,Shipped,Motorcycles,S32_2206,France
+10378,40,82.46,Shipped,Motorcycles,S32_2206,Spain
+10390,41,44.56,Shipped,Motorcycles,S32_2206,USA
+10403,30,40.23,Shipped,Motorcycles,S32_2206,UK
+10104,35,47.62,Shipped,Trucks and Buses,S32_2509,Spain
+10114,28,55.73,Shipped,Trucks and Buses,S32_2509,France
+10127,45,51.95,Shipped,Trucks and Buses,S32_2509,USA
+10141,24,45.99,Shipped,Trucks and Buses,S32_2509,Finland
+10151,41,63.85,Shipped,Trucks and Buses,S32_2509,Finland
+10165,48,45.99,Shipped,Trucks and Buses,S32_2509,Singapore
+10175,50,63.31,Shipped,Trucks and Buses,S32_2509,UK
+10184,33,62.77,Shipped,Trucks and Buses,S32_2509,Spain
+10195,32,43.29,Shipped,Trucks and Buses,S32_2509,USA
+10207,27,60.06,Shipped,Trucks and Buses,S32_2509,USA
+10219,35,55.19,Shipped,Trucks and Buses,S32_2509,USA
+10229,23,54.11,Shipped,Trucks and Buses,S32_2509,USA
+10246,35,48.7,Shipped,Trucks and Buses,S32_2509,Spain
+10259,40,43.83,Shipped,Trucks and Buses,S32_2509,Singapore
+10271,35,47.62,Shipped,Trucks and Buses,S32_2509,USA
+10281,31,55.19,Shipped,Trucks and Buses,S32_2509,USA
+10292,50,46.53,Shipped,Trucks and Buses,S32_2509,USA
+10305,40,57.9,Shipped,Trucks and Buses,S32_2509,USA
+10313,38,45.45,Shipped,Trucks and Buses,S32_2509,Canada
+10325,38,100,Shipped,Trucks and Buses,S32_2509,Norway
+10335,40,60.6,Shipped,Trucks and Buses,S32_2509,USA
+10349,33,46.53,Shipped,Trucks and Buses,S32_2509,USA
+10359,36,100,Shipped,Trucks and Buses,S32_2509,France
+10371,20,66.47,Shipped,Trucks and Buses,S32_2509,USA
+10383,32,53.18,Shipped,Trucks and Buses,S32_2509,Spain
+10394,36,62.77,Shipped,Trucks and Buses,S32_2509,Spain
+10412,19,48.7,Shipped,Trucks and Buses,S32_2509,Spain
+10425,11,43.83,In Process,Trucks and Buses,S32_2509,France
+10104,49,65.87,Shipped,Trains,S32_3207,Spain
+10116,27,63.38,Shipped,Trains,S32_3207,Belgium
+10127,29,70.84,Shipped,Trains,S32_3207,USA
+10142,42,74.57,Shipped,Trains,S32_3207,USA
+10152,33,50.95,Shipped,Trains,S32_3207,Australia
+10165,44,53.44,Shipped,Trains,S32_3207,Singapore
+10176,22,64,Shipped,Trains,S32_3207,Italy
+10184,48,50.95,Shipped,Trains,S32_3207,Spain
+10195,33,54.68,Shipped,Trains,S32_3207,USA
+10207,45,56.55,Shipped,Trains,S32_3207,USA
+10220,20,52.82,Shipped,Trains,S32_3207,Ireland
+10230,46,60.9,Shipped,Trains,S32_3207,Germany
+10247,40,49.71,Shipped,Trains,S32_3207,Finland
+10272,45,64.63,Shipped,Trains,S32_3207,USA
+10282,36,59.65,Shipped,Trains,S32_3207,USA
+10292,31,67.73,Shipped,Trains,S32_3207,USA
+10306,46,50.33,Shipped,Trains,S32_3207,UK
+10314,35,66.49,Shipped,Trains,S32_3207,Denmark
+10325,28,100,Shipped,Trains,S32_3207,Norway
+10336,31,84.71,Shipped,Trains,S32_3207,France
+10350,27,100,Shipped,Trains,S32_3207,Spain
+10359,22,100,Shipped,Trains,S32_3207,France
+10371,30,99.55,Shipped,Trains,S32_3207,USA
+10383,44,36.07,Shipped,Trains,S32_3207,Spain
+10394,30,60.28,Shipped,Trains,S32_3207,Spain
+10413,24,49.71,Shipped,Trains,S32_3207,USA
+10103,45,75.63,Shipped,Trucks and Buses,S32_3522,Norway
+10113,23,68.52,Shipped,Trucks and Buses,S32_3522,USA
+10126,26,62.7,Shipped,Trucks and Buses,S32_3522,Spain
+10140,28,60.76,Shipped,Trucks and Buses,S32_3522,USA
+10150,49,58.18,Shipped,Trucks and Buses,S32_3522,Singapore
+10164,49,54.94,Resolved,Trucks and Buses,S32_3522,Austria
+10175,29,74.98,Shipped,Trucks and Buses,S32_3522,UK
+10183,49,64.64,Shipped,Trucks and Buses,S32_3522,USA
+10194,39,54.94,Shipped,Trucks and Buses,S32_3522,France
+10206,36,58.82,Shipped,Trucks and Buses,S32_3522,Canada
+10217,39,62.05,Shipped,Trucks and Buses,S32_3522,Singapore
+10229,30,73.04,Shipped,Trucks and Buses,S32_3522,USA
+10245,44,69.16,Shipped,Trucks and Buses,S32_3522,USA
+10258,20,61.41,Shipped,Trucks and Buses,S32_3522,Japan
+10270,21,63.35,Shipped,Trucks and Buses,S32_3522,Australia
+10281,36,77.57,Shipped,Trucks and Buses,S32_3522,USA
+10291,32,71.75,Shipped,Trucks and Buses,S32_3522,Sweden
+10304,36,73.04,Shipped,Trucks and Buses,S32_3522,France
+10313,34,56.24,Shipped,Trucks and Buses,S32_3522,Canada
+10324,48,100,Shipped,Trucks and Buses,S32_3522,USA
+10333,33,73.69,Shipped,Trucks and Buses,S32_3522,USA
+10348,31,100,Shipped,Trucks and Buses,S32_3522,Spain
+10358,36,100,Shipped,Trucks and Buses,S32_3522,Spain
+10370,25,100,Shipped,Trucks and Buses,S32_3522,Australia
+10382,48,100,Shipped,Trucks and Buses,S32_3522,USA
+10411,27,69.16,Shipped,Trucks and Buses,S32_3522,Canada
+10424,44,61.41,In Process,Trucks and Buses,S32_3522,Spain
+10106,33,72.92,Shipped,Vintage Cars,S32_4289,Italy
+10120,29,72.23,Shipped,Vintage Cars,S32_4289,Australia
+10133,49,57.1,Shipped,Vintage Cars,S32_4289,Spain
+10144,20,81.86,Shipped,Vintage Cars,S32_4289,Belgium
+10168,31,73.61,Shipped,Vintage Cars,S32_4289,USA
+10210,39,59.16,Shipped,Vintage Cars,S32_4289,Japan
+10223,20,66.04,Shipped,Vintage Cars,S32_4289,Australia
+10235,34,77.73,Shipped,Vintage Cars,S32_4289,Canada
+10250,50,61.22,Shipped,Vintage Cars,S32_4289,USA
+10262,40,79.11,Cancelled,Vintage Cars,S32_4289,Spain
+10275,28,63.97,Shipped,Vintage Cars,S32_4289,France
+10284,50,81.86,Shipped,Vintage Cars,S32_4289,Norway
+10297,28,79.8,Shipped,Vintage Cars,S32_4289,Ireland
+10308,46,66.04,Shipped,Vintage Cars,S32_4289,USA
+10316,24,59.16,Shipped,Vintage Cars,S32_4289,UK
+10328,24,81.17,Shipped,Vintage Cars,S32_4289,Italy
+10340,39,59.16,Shipped,Vintage Cars,S32_4289,Spain
+10353,40,44.51,Shipped,Vintage Cars,S32_4289,USA
+10361,49,72.33,Shipped,Vintage Cars,S32_4289,Australia
+10375,44,82.26,Shipped,Vintage Cars,S32_4289,France
+10388,35,100,Shipped,Vintage Cars,S32_4289,USA
+10398,22,67.41,Shipped,Vintage Cars,S32_4289,France
+10401,62,77.73,On Hold,Vintage Cars,S32_4289,USA
+10416,26,61.22,Shipped,Vintage Cars,S32_4289,Italy
+10108,31,100,Shipped,Motorcycles,S32_4485,Philippines
+10121,25,86.74,Shipped,Motorcycles,S32_4485,France
+10135,30,89.8,Shipped,Motorcycles,S32_4485,USA
+10145,27,100,Shipped,Motorcycles,S32_4485,USA
+10159,23,100,Shipped,Motorcycles,S32_4485,USA
+10169,34,100,Shipped,Motorcycles,S32_4485,Australia
+10180,22,100,Shipped,Motorcycles,S32_4485,France
+10190,42,85.72,Shipped,Motorcycles,S32_4485,Spain
+10211,37,100,Shipped,Motorcycles,S32_4485,France
+10224,30,100,Shipped,Motorcycles,S32_4485,France
+10237,27,100,Shipped,Motorcycles,S32_4485,USA
+10252,25,100,Shipped,Motorcycles,S32_4485,France
+10264,34,97.97,Shipped,Motorcycles,S32_4485,USA
+10276,38,100,Shipped,Motorcycles,S32_4485,USA
+10285,26,100,Shipped,Motorcycles,S32_4485,USA
+10299,38,100,Shipped,Motorcycles,S32_4485,Finland
+10309,50,84.7,Shipped,Motorcycles,S32_4485,Norway
+10319,22,100,Shipped,Motorcycles,S32_4485,USA
+10331,32,100,Shipped,Motorcycles,S32_4485,USA
+10341,31,71.02,Shipped,Motorcycles,S32_4485,Austria
+10355,40,100,Shipped,Motorcycles,S32_4485,Spain
+10365,22,100,Shipped,Motorcycles,S32_4485,USA
+10375,41,100,Shipped,Motorcycles,S32_4485,France
+10390,45,48.98,Shipped,Motorcycles,S32_4485,USA
+10403,45,100,Shipped,Motorcycles,S32_4485,UK
+10106,39,40.15,Shipped,Vintage Cars,S50_1341,Italy
+10120,49,50.62,Shipped,Vintage Cars,S50_1341,Australia
+10133,27,50.19,Shipped,Vintage Cars,S50_1341,Spain
+10143,34,36.66,Shipped,Vintage Cars,S50_1341,USA
+10156,20,41.02,Shipped,Vintage Cars,S50_1341,Spain
+10168,48,51.93,Shipped,Vintage Cars,S50_1341,USA
+10199,29,38.4,Shipped,Vintage Cars,S50_1341,USA
+10210,43,41.02,Shipped,Vintage Cars,S50_1341,Japan
+10223,41,46.26,Shipped,Vintage Cars,S50_1341,Australia
+10235,41,35.35,Shipped,Vintage Cars,S50_1341,Canada
+10250,36,51.93,Shipped,Vintage Cars,S50_1341,USA
+10262,49,37.97,Cancelled,Vintage Cars,S50_1341,Spain
+10275,38,45.39,Shipped,Vintage Cars,S50_1341,France
+10284,33,51.93,Shipped,Vintage Cars,S50_1341,Norway
+10296,26,48.44,Shipped,Vintage Cars,S50_1341,Germany
+10308,47,43.64,Shipped,Vintage Cars,S50_1341,USA
+10316,34,47.57,Shipped,Vintage Cars,S50_1341,UK
+10328,34,51.93,Shipped,Vintage Cars,S50_1341,Italy
+10340,40,50.62,Shipped,Vintage Cars,S50_1341,Spain
+10353,40,82.21,Shipped,Vintage Cars,S50_1341,USA
+10361,33,82.59,Shipped,Vintage Cars,S50_1341,Australia
+10375,49,65.8,Shipped,Vintage Cars,S50_1341,France
+10388,27,100,Shipped,Vintage Cars,S50_1341,USA
+10398,49,36.66,Shipped,Vintage Cars,S50_1341,France
+10401,56,35.35,On Hold,Vintage Cars,S50_1341,USA
+10416,37,51.93,Shipped,Vintage Cars,S50_1341,Italy
+10104,33,100,Shipped,Trucks and Buses,S50_1392,Spain
+10115,27,100,Shipped,Trucks and Buses,S50_1392,USA
+10127,46,100,Shipped,Trucks and Buses,S50_1392,USA
+10141,44,100,Shipped,Trucks and Buses,S50_1392,Finland
+10151,26,100,Shipped,Trucks and Buses,S50_1392,Finland
+10165,48,94.92,Shipped,Trucks and Buses,S50_1392,Singapore
+10176,23,100,Shipped,Trucks and Buses,S50_1392,Italy
+10184,45,100,Shipped,Trucks and Buses,S50_1392,Spain
+10195,49,100,Shipped,Trucks and Buses,S50_1392,USA
+10207,28,94.92,Shipped,Trucks and Buses,S50_1392,USA
+10220,37,100,Shipped,Trucks and Buses,S50_1392,Ireland
+10230,34,100,Shipped,Trucks and Buses,S50_1392,Germany
+10246,22,100,Shipped,Trucks and Buses,S50_1392,Spain
+10259,29,100,Shipped,Trucks and Buses,S50_1392,Singapore
+10271,34,98.39,Shipped,Trucks and Buses,S50_1392,USA
+10282,38,100,Shipped,Trucks and Buses,S50_1392,USA
+10292,41,100,Shipped,Trucks and Buses,S50_1392,USA
+10305,42,100,Shipped,Trucks and Buses,S50_1392,USA
+10314,28,100,Shipped,Trucks and Buses,S50_1392,Denmark
+10325,38,100,Shipped,Trucks and Buses,S50_1392,Norway
+10336,23,100,Shipped,Trucks and Buses,S50_1392,France
+10350,31,71.4,Shipped,Trucks and Buses,S50_1392,Spain
+10359,46,100,Shipped,Trucks and Buses,S50_1392,France
+10371,48,56.55,Shipped,Trucks and Buses,S50_1392,USA
+10383,29,100,Shipped,Trucks and Buses,S50_1392,Spain
+10395,46,100,Shipped,Trucks and Buses,S50_1392,France
+10412,26,100,Shipped,Trucks and Buses,S50_1392,Spain
+10425,18,100,In Process,Trucks and Buses,S50_1392,France
+10104,32,53.31,Shipped,Trains,S50_1514,Spain
+10117,21,49.21,Shipped,Trains,S50_1514,Singapore
+10127,46,69.12,Shipped,Trains,S50_1514,USA
+10142,42,49.79,Shipped,Trains,S50_1514,USA
+10153,31,57.41,Shipped,Trains,S50_1514,Spain
+10165,38,66.78,Shipped,Trains,S50_1514,Singapore
+10176,38,64.44,Shipped,Trains,S50_1514,Italy
+10185,20,48.62,Shipped,Trains,S50_1514,USA
+10196,46,62.09,Shipped,Trains,S50_1514,USA
+10208,30,65.61,Shipped,Trains,S50_1514,France
+10220,30,68.54,Shipped,Trains,S50_1514,Ireland
+10230,43,52.14,Shipped,Trains,S50_1514,Germany
+10247,49,63.85,Shipped,Trains,S50_1514,Finland
+10272,43,56.82,Shipped,Trains,S50_1514,USA
+10282,37,66.78,Shipped,Trains,S50_1514,USA
+10292,35,55.07,Shipped,Trains,S50_1514,USA
+10306,34,60.34,Shipped,Trains,S50_1514,UK
+10314,38,61.51,Shipped,Trains,S50_1514,Denmark
+10325,44,100,Shipped,Trains,S50_1514,Norway
+10337,21,100,Shipped,Trains,S50_1514,USA
+10350,44,100,Shipped,Trains,S50_1514,Spain
+10359,25,64.93,Shipped,Trains,S50_1514,France
+10372,24,58.58,Shipped,Trains,S50_1514,Japan
+10383,38,60.06,Shipped,Trains,S50_1514,Spain
+10395,45,100,Shipped,Trains,S50_1514,France
+10413,51,63.85,Shipped,Trains,S50_1514,USA
+10108,34,82.99,Shipped,Motorcycles,S50_4713,Philippines
+10121,44,74.85,Shipped,Motorcycles,S50_4713,France
+10135,44,96,Shipped,Motorcycles,S50_4713,USA
+10145,38,81.36,Shipped,Motorcycles,S50_4713,USA
+10159,31,71.6,Shipped,Motorcycles,S50_4713,USA
+10169,48,80.55,Shipped,Motorcycles,S50_4713,Australia
+10180,21,93.56,Shipped,Motorcycles,S50_4713,France
+10190,40,66.72,Shipped,Motorcycles,S50_4713,Spain
+10211,40,80.55,Shipped,Motorcycles,S50_4713,France
+10224,50,77.29,Shipped,Motorcycles,S50_4713,France
+10237,20,68.34,Shipped,Motorcycles,S50_4713,USA
+10252,48,72.41,Shipped,Motorcycles,S50_4713,France
+10264,47,89.5,Shipped,Motorcycles,S50_4713,USA
+10276,21,70.78,Shipped,Motorcycles,S50_4713,USA
+10285,39,78.92,Shipped,Motorcycles,S50_4713,USA
+10299,44,80.55,Shipped,Motorcycles,S50_4713,Finland
+10309,28,88.68,Shipped,Motorcycles,S50_4713,Norway
+10319,45,77.29,Shipped,Motorcycles,S50_4713,USA
+10331,20,100,Shipped,Motorcycles,S50_4713,USA
+10341,38,100,Shipped,Motorcycles,S50_4713,Austria
+10356,26,100,Shipped,Motorcycles,S50_4713,France
+10365,44,100,Shipped,Motorcycles,S50_4713,USA
+10375,49,100,Shipped,Motorcycles,S50_4713,France
+10390,22,100,Shipped,Motorcycles,S50_4713,USA
+10403,31,68.34,Shipped,Motorcycles,S50_4713,UK
+10105,41,70.67,Shipped,Ships,S700_1138,Denmark
+10119,25,76.67,Shipped,Ships,S700_1138,Austria
+10129,31,60,Shipped,Ships,S700_1138,UK
+10142,41,64,Shipped,Ships,S700_1138,USA
+10153,43,64.67,Shipped,Ships,S700_1138,Spain
+10167,43,75.34,Cancelled,Ships,S700_1138,Sweden
+10177,24,76,Shipped,Ships,S700_1138,Spain
+10185,21,54,Shipped,Ships,S700_1138,USA
+10197,23,64.67,Shipped,Ships,S700_1138,Spain
+10208,38,74.67,Shipped,Ships,S700_1138,France
+10222,31,62.67,Shipped,Ships,S700_1138,USA
+10233,36,70.67,Shipped,Ships,S700_1138,USA
+10248,36,71.34,Cancelled,Ships,S700_1138,USA
+10261,34,62,Shipped,Ships,S700_1138,Canada
+10273,21,65.34,Shipped,Ships,S700_1138,Belgium
+10283,45,78.67,Shipped,Ships,S700_1138,Canada
+10295,26,75.34,Shipped,Ships,S700_1138,USA
+10306,50,54,Shipped,Ships,S700_1138,UK
+10315,41,62,Shipped,Ships,S700_1138,France
+10326,39,60,Shipped,Ships,S700_1138,Sweden
+10339,22,100,Shipped,Ships,S700_1138,Japan
+10350,46,76.67,Shipped,Ships,S700_1138,Spain
+10373,44,100,Shipped,Ships,S700_1138,Finland
+10385,25,77.34,Shipped,Ships,S700_1138,USA
+10396,39,66.67,Shipped,Ships,S700_1138,USA
+10414,37,71.34,On Hold,Ships,S700_1138,USA
+10106,31,100,Shipped,Planes,S700_1691,Italy
+10120,47,82.21,Shipped,Planes,S700_1691,Australia
+10133,24,77.64,Shipped,Planes,S700_1691,Spain
+10143,36,100,Shipped,Planes,S700_1691,USA
+10156,48,100,Shipped,Planes,S700_1691,Spain
+10168,28,98.65,Shipped,Planes,S700_1691,USA
+10199,48,83.12,Shipped,Planes,S700_1691,USA
+10210,21,78.55,Shipped,Planes,S700_1691,Japan
+10223,25,100,Shipped,Planes,S700_1691,Australia
+10235,25,100,Shipped,Planes,S700_1691,Canada
+10250,31,91.34,Shipped,Planes,S700_1691,USA
+10262,40,84.03,Cancelled,Planes,S700_1691,Spain
+10275,32,89.51,Shipped,Planes,S700_1691,France
+10284,24,83.12,Shipped,Planes,S700_1691,Norway
+10296,42,100,Shipped,Planes,S700_1691,Germany
+10308,21,100,Shipped,Planes,S700_1691,USA
+10316,34,82.21,Shipped,Planes,S700_1691,UK
+10328,27,100,Shipped,Planes,S700_1691,Italy
+10340,30,88.6,Shipped,Planes,S700_1691,Spain
+10353,39,100,Shipped,Planes,S700_1691,USA
+10361,20,60.54,Shipped,Planes,S700_1691,Australia
+10375,37,81.87,Shipped,Planes,S700_1691,France
+10388,46,100,Shipped,Planes,S700_1691,USA
+10398,47,87.69,Shipped,Planes,S700_1691,France
+10401,11,100,On Hold,Planes,S700_1691,USA
+10416,23,91.34,Shipped,Planes,S700_1691,Italy
+10105,29,70.15,Shipped,Ships,S700_1938,Denmark
+10117,38,79.68,Shipped,Ships,S700_1938,Singapore
+10128,32,97,Shipped,Ships,S700_1938,Spain
+10142,43,84.01,Shipped,Ships,S700_1938,USA
+10153,31,87.48,Shipped,Ships,S700_1938,Spain
+10166,29,100,Shipped,Ships,S700_1938,USA
+10177,31,88.34,Shipped,Ships,S700_1938,Spain
+10185,30,94.4,Shipped,Ships,S700_1938,USA
+10196,50,94.4,Shipped,Ships,S700_1938,USA
+10208,40,80.55,Shipped,Ships,S700_1938,France
+10221,23,97,Shipped,Ships,S700_1938,Belgium
+10232,26,88.34,Shipped,Ships,S700_1938,UK
+10248,40,100,Cancelled,Ships,S700_1938,USA
+10273,21,100,Shipped,Ships,S700_1938,Belgium
+10282,43,86.61,Shipped,Ships,S700_1938,USA
+10293,29,71.89,Shipped,Ships,S700_1938,Italy
+10306,38,91.81,Shipped,Ships,S700_1938,UK
+10314,23,76.22,Shipped,Ships,S700_1938,Denmark
+10327,20,100,Resolved,Ships,S700_1938,Denmark
+10337,36,70.3,Shipped,Ships,S700_1938,USA
+10350,28,100,Shipped,Ships,S700_1938,Spain
+10372,44,100,Shipped,Ships,S700_1938,Japan
+10384,49,100,Shipped,Ships,S700_1938,USA
+10397,32,80.55,Shipped,Ships,S700_1938,France
+10414,34,100,On Hold,Ships,S700_1938,USA
+10106,30,100,Shipped,Ships,S700_2047,Italy
+10119,29,94.14,Shipped,Ships,S700_2047,Austria
+10131,22,85.99,Shipped,Ships,S700_2047,USA
+10143,26,100,Shipped,Ships,S700_2047,USA
+10155,32,91.43,Shipped,Ships,S700_2047,Finland
+10167,29,100,Cancelled,Ships,S700_2047,Sweden
+10178,34,96.86,Shipped,Ships,S700_2047,France
+10186,24,99.57,Shipped,Ships,S700_2047,UK
+10197,24,90.52,Shipped,Ships,S700_2047,Spain
+10209,33,88.71,Shipped,Ships,S700_2047,USA
+10222,26,100,Shipped,Ships,S700_2047,USA
+10249,40,95.95,Shipped,Ships,S700_2047,USA
+10262,44,94.14,Cancelled,Ships,S700_2047,Spain
+10274,24,90.52,Shipped,Ships,S700_2047,USA
+10283,20,94.14,Shipped,Ships,S700_2047,Canada
+10296,34,100,Shipped,Ships,S700_2047,Germany
+10307,34,97.76,Shipped,Ships,S700_2047,USA
+10316,45,93.24,Shipped,Ships,S700_2047,UK
+10328,41,100,Shipped,Ships,S700_2047,Italy
+10339,55,71.25,Shipped,Ships,S700_2047,Japan
+10352,23,100,Shipped,Ships,S700_2047,USA
+10361,24,45.39,Shipped,Ships,S700_2047,Australia
+10373,32,84.41,Shipped,Ships,S700_2047,Finland
+10386,29,85.76,Resolved,Ships,S700_2047,Spain
+10398,36,100,Shipped,Ships,S700_2047,France
+10400,46,87.8,Shipped,Ships,S700_2047,USA
+10415,32,95.95,Disputed,Ships,S700_2047,Australia
+10106,34,100,Shipped,Planes,S700_2466,Italy
+10120,24,100,Shipped,Planes,S700_2466,Australia
+10131,40,100,Shipped,Planes,S700_2466,USA
+10143,26,82.77,Shipped,Planes,S700_2466,USA
+10155,20,100,Shipped,Planes,S700_2466,Finland
+10168,31,100,Shipped,Planes,S700_2466,USA
+10178,22,87.75,Shipped,Planes,S700_2466,France
+10198,42,100,Shipped,Planes,S700_2466,Philippines
+10210,26,99.72,Shipped,Planes,S700_2466,Japan
+10222,37,87.75,Shipped,Planes,S700_2466,USA
+10235,38,88.75,Shipped,Planes,S700_2466,Canada
+10250,35,100,Shipped,Planes,S700_2466,USA
+10262,33,90.75,Cancelled,Planes,S700_2466,Spain
+10275,39,100,Shipped,Planes,S700_2466,France
+10284,45,100,Shipped,Planes,S700_2466,Norway
+10296,24,100,Shipped,Planes,S700_2466,Germany
+10308,35,88.75,Shipped,Planes,S700_2466,USA
+10316,23,100,Shipped,Planes,S700_2466,UK
+10328,37,100,Shipped,Planes,S700_2466,Italy
+10340,55,87.75,Shipped,Planes,S700_2466,Spain
+10352,49,100,Shipped,Planes,S700_2466,USA
+10361,26,100,Shipped,Planes,S700_2466,Australia
+10375,33,100,Shipped,Planes,S700_2466,France
+10386,37,83.84,Resolved,Planes,S700_2466,Spain
+10398,22,86.76,Shipped,Planes,S700_2466,France
+10401,85,88.75,On Hold,Planes,S700_2466,USA
+10416,22,100,Shipped,Planes,S700_2466,Italy
+10105,31,65.77,Shipped,Ships,S700_2610,Denmark
+10119,38,65.77,Shipped,Ships,S700_2610,Austria
+10129,45,85.29,Shipped,Ships,S700_2610,UK
+10143,31,85.29,Shipped,Ships,S700_2610,USA
+10154,36,64.33,Shipped,Ships,S700_2610,USA
+10167,46,70.11,Cancelled,Ships,S700_2610,Sweden
+10177,32,76.62,Shipped,Ships,S700_2610,Spain
+10185,39,57.82,Shipped,Ships,S700_2610,USA
+10197,50,78.79,Shipped,Ships,S700_2610,Spain
+10208,46,74.45,Shipped,Ships,S700_2610,France
+10222,36,80.95,Shipped,Ships,S700_2610,USA
+10233,29,82.4,Shipped,Ships,S700_2610,USA
+10248,32,75.89,Cancelled,Ships,S700_2610,USA
+10261,44,68.67,Shipped,Ships,S700_2610,Canada
+10273,42,62.16,Shipped,Ships,S700_2610,Belgium
+10283,47,65.77,Shipped,Ships,S700_2610,Canada
+10295,44,58.55,Shipped,Ships,S700_2610,USA
+10306,43,75.17,Shipped,Ships,S700_2610,UK
+10316,48,74.45,Shipped,Ships,S700_2610,UK
+10327,21,96.31,Resolved,Ships,S700_2610,Denmark
+10339,50,74.35,Shipped,Ships,S700_2610,Japan
+10350,29,75.35,Shipped,Ships,S700_2610,Spain
+10373,41,70.33,Shipped,Ships,S700_2610,Finland
+10386,37,100,Resolved,Ships,S700_2610,Spain
+10397,22,66.5,Shipped,Ships,S700_2610,France
+10414,31,75.89,On Hold,Ships,S700_2610,USA
+10103,42,100,Shipped,Classic Cars,S700_2824,Norway
+10114,42,100,Shipped,Classic Cars,S700_2824,France
+10126,45,100,Shipped,Classic Cars,S700_2824,Spain
+10140,36,100,Shipped,Classic Cars,S700_2824,USA
+10150,20,100,Shipped,Classic Cars,S700_2824,Singapore
+10164,39,81.93,Resolved,Classic Cars,S700_2824,Austria
+10175,42,85.98,Shipped,Classic Cars,S700_2824,UK
+10183,23,86.99,Shipped,Classic Cars,S700_2824,USA
+10194,26,89.01,Shipped,Classic Cars,S700_2824,France
+10206,33,100,Shipped,Classic Cars,S700_2824,Canada
+10217,31,88,Shipped,Classic Cars,S700_2824,Singapore
+10229,50,100,Shipped,Classic Cars,S700_2824,USA
+10245,44,100,Shipped,Classic Cars,S700_2824,USA
+10258,45,80.92,Shipped,Classic Cars,S700_2824,Japan
+10270,46,88,Shipped,Classic Cars,S700_2824,Australia
+10281,27,85.98,Shipped,Classic Cars,S700_2824,USA
+10291,28,100,Shipped,Classic Cars,S700_2824,Sweden
+10304,40,100,Shipped,Classic Cars,S700_2824,France
+10313,30,99.13,Shipped,Classic Cars,S700_2824,Canada
+10324,34,100,Shipped,Classic Cars,S700_2824,USA
+10336,46,100,Shipped,Classic Cars,S700_2824,France
+10348,32,82.83,Shipped,Classic Cars,S700_2824,Spain
+10358,27,100,Shipped,Classic Cars,S700_2824,Spain
+10371,34,100,Shipped,Classic Cars,S700_2824,USA
+10382,34,54.84,Shipped,Classic Cars,S700_2824,USA
+10411,34,100,Shipped,Classic Cars,S700_2824,Canada
+10424,46,80.92,In Process,Classic Cars,S700_2824,Spain
+10106,32,100,Shipped,Planes,S700_2834,Italy
+10120,24,100,Shipped,Planes,S700_2834,Australia
+10133,27,99.67,Shipped,Planes,S700_2834,Spain
+10145,20,100,Shipped,Planes,S700_2834,USA
+10168,36,100,Shipped,Planes,S700_2834,USA
+10188,29,100,Shipped,Planes,S700_2834,Norway
+10210,25,100,Shipped,Planes,S700_2834,Japan
+10223,29,100,Shipped,Planes,S700_2834,Australia
+10235,25,96.11,Shipped,Planes,S700_2834,Canada
+10250,44,100,Shipped,Planes,S700_2834,USA
+10263,47,100,Shipped,Planes,S700_2834,USA
+10275,48,100,Shipped,Planes,S700_2834,France
+10285,45,100,Shipped,Planes,S700_2834,USA
+10297,35,100,Shipped,Planes,S700_2834,Ireland
+10308,31,100,Shipped,Planes,S700_2834,USA
+10318,50,100,Shipped,Planes,S700_2834,USA
+10328,33,100,Shipped,Planes,S700_2834,Italy
+10340,29,100,Shipped,Planes,S700_2834,Spain
+10353,48,68.8,Shipped,Planes,S700_2834,USA
+10361,44,72.42,Shipped,Planes,S700_2834,Australia
+10375,25,66.73,Shipped,Planes,S700_2834,France
+10388,50,100,Shipped,Planes,S700_2834,USA
+10398,23,100,Shipped,Planes,S700_2834,France
+10401,21,96.11,On Hold,Planes,S700_2834,USA
+10416,41,100,Shipped,Planes,S700_2834,Italy
+10106,44,74.4,Shipped,Planes,S700_3167,Italy
+10120,43,76,Shipped,Planes,S700_3167,Australia
+10143,28,96,Shipped,Planes,S700_3167,USA
+10155,43,86.4,Shipped,Planes,S700_3167,Finland
+10168,48,96,Shipped,Planes,S700_3167,USA
+10199,38,82.4,Shipped,Planes,S700_3167,USA
+10210,31,86.4,Shipped,Planes,S700_3167,Japan
+10223,26,67.2,Shipped,Planes,S700_3167,Australia
+10235,32,92,Shipped,Planes,S700_3167,Canada
+10250,44,67.2,Shipped,Planes,S700_3167,USA
+10262,27,76,Cancelled,Planes,S700_3167,Spain
+10275,43,73.6,Shipped,Planes,S700_3167,France
+10284,25,69.6,Shipped,Planes,S700_3167,Norway
+10296,22,80.8,Shipped,Planes,S700_3167,Germany
+10308,21,87.2,Shipped,Planes,S700_3167,USA
+10316,48,75.2,Shipped,Planes,S700_3167,UK
+10328,33,64,Shipped,Planes,S700_3167,Italy
+10341,34,100,Shipped,Planes,S700_3167,Austria
+10353,43,81.95,Shipped,Planes,S700_3167,USA
+10361,44,100,Shipped,Planes,S700_3167,Australia
+10375,44,100,Shipped,Planes,S700_3167,France
+10386,32,94.34,Resolved,Planes,S700_3167,Spain
+10398,29,65.6,Shipped,Planes,S700_3167,France
+10401,77,92,On Hold,Planes,S700_3167,USA
+10416,39,67.2,Shipped,Planes,S700_3167,Italy
+10105,39,81.14,Shipped,Ships,S700_3505,Denmark
+10118,36,100,Shipped,Ships,S700_3505,Spain
+10129,42,91.15,Shipped,Ships,S700_3505,UK
+10142,21,100,Shipped,Ships,S700_3505,USA
+10153,50,88.15,Shipped,Ships,S700_3505,Spain
+10167,24,100,Cancelled,Ships,S700_3505,Sweden
+10177,44,92.16,Shipped,Ships,S700_3505,Spain
+10185,37,100,Shipped,Ships,S700_3505,USA
+10197,27,92.16,Shipped,Ships,S700_3505,Spain
+10208,37,100,Shipped,Ships,S700_3505,France
+10222,38,100,Shipped,Ships,S700_3505,USA
+10232,48,96.16,Shipped,Ships,S700_3505,UK
+10248,30,100,Cancelled,Ships,S700_3505,USA
+10261,25,88.15,Shipped,Ships,S700_3505,Canada
+10273,40,86.15,Shipped,Ships,S700_3505,Belgium
+10283,22,88.15,Shipped,Ships,S700_3505,Canada
+10295,34,100,Shipped,Ships,S700_3505,USA
+10306,32,90.15,Shipped,Ships,S700_3505,UK
+10315,31,86.15,Shipped,Ships,S700_3505,France
+10327,43,80,Resolved,Ships,S700_3505,Denmark
+10337,31,89.38,Shipped,Ships,S700_3505,USA
+10350,31,77.34,Shipped,Ships,S700_3505,Spain
+10373,34,96.34,Shipped,Ships,S700_3505,Finland
+10386,45,92.08,Resolved,Ships,S700_3505,Spain
+10397,48,100,Shipped,Ships,S700_3505,France
+10414,28,100,On Hold,Ships,S700_3505,USA
+10105,22,100,Shipped,Ships,S700_3962,Denmark
+10117,45,83.42,Shipped,Ships,S700_3962,Singapore
+10129,30,85.41,Shipped,Ships,S700_3962,UK
+10142,38,85.41,Shipped,Ships,S700_3962,USA
+10153,20,100,Shipped,Ships,S700_3962,Spain
+10167,28,100,Cancelled,Ships,S700_3962,Sweden
+10177,24,100,Shipped,Ships,S700_3962,Spain
+10185,22,79.45,Shipped,Ships,S700_3962,USA
+10197,35,93.35,Shipped,Ships,S700_3962,Spain
+10208,33,85.41,Shipped,Ships,S700_3962,France
+10222,31,95.34,Shipped,Ships,S700_3962,USA
+10232,35,82.43,Shipped,Ships,S700_3962,UK
+10248,35,90.37,Cancelled,Ships,S700_3962,USA
+10261,50,81.43,Shipped,Ships,S700_3962,Canada
+10273,26,100,Shipped,Ships,S700_3962,Belgium
+10283,38,89.38,Shipped,Ships,S700_3962,Canada
+10294,45,100,Shipped,Ships,S700_3962,USA
+10306,30,100,Shipped,Ships,S700_3962,UK
+10315,37,91.37,Shipped,Ships,S700_3962,France
+10327,37,86.61,Resolved,Ships,S700_3962,Denmark
+10337,36,71.89,Shipped,Ships,S700_3962,USA
+10350,25,100,Shipped,Ships,S700_3962,Spain
+10373,37,100,Shipped,Ships,S700_3962,Finland
+10386,30,95.48,Resolved,Ships,S700_3962,Spain
+10397,36,100,Shipped,Ships,S700_3962,France
+10414,27,90.37,On Hold,Ships,S700_3962,USA
+10106,48,61.44,Shipped,Planes,S700_4002,Italy
+10119,26,59.22,Shipped,Planes,S700_4002,Austria
+10131,26,85.13,Shipped,Planes,S700_4002,USA
+10143,34,85.87,Shipped,Planes,S700_4002,USA
+10155,44,85.87,Shipped,Planes,S700_4002,Finland
+10168,39,82.91,Shipped,Planes,S700_4002,USA
+10178,45,76.25,Shipped,Planes,S700_4002,France
+10198,40,63.67,Shipped,Planes,S700_4002,Philippines
+10210,42,70.33,Shipped,Planes,S700_4002,Japan
+10222,43,74.03,Shipped,Planes,S700_4002,USA
+10235,34,72.55,Shipped,Planes,S700_4002,Canada
+10250,38,62.19,Shipped,Planes,S700_4002,USA
+10262,35,71.07,Cancelled,Planes,S700_4002,Spain
+10275,31,72.55,Shipped,Planes,S700_4002,France
+10284,32,64.41,Shipped,Planes,S700_4002,Norway
+10296,47,86.62,Shipped,Planes,S700_4002,Germany
+10308,39,68.11,Shipped,Planes,S700_4002,USA
+10316,44,62.19,Shipped,Planes,S700_4002,UK
+10328,39,85.87,Shipped,Planes,S700_4002,Italy
+10339,50,57.86,Shipped,Planes,S700_4002,Japan
+10352,22,75.51,Shipped,Planes,S700_4002,USA
+10361,35,100,Shipped,Planes,S700_4002,Australia
+10373,45,55.62,Shipped,Planes,S700_4002,Finland
+10386,44,86.4,Resolved,Planes,S700_4002,Spain
+10398,36,87.36,Shipped,Planes,S700_4002,France
+10401,28,72.55,On Hold,Planes,S700_4002,USA
+10416,43,62.19,Shipped,Planes,S700_4002,Italy
+10106,48,52.64,Shipped,Planes,S72_1253,Italy
+10119,28,48.17,Shipped,Planes,S72_1253,Austria
+10131,21,41.71,Shipped,Planes,S72_1253,USA
+10143,37,50.65,Shipped,Planes,S72_1253,USA
+10155,34,49.16,Shipped,Planes,S72_1253,Finland
+10167,40,41.71,Cancelled,Planes,S72_1253,Sweden
+10178,45,51.15,Shipped,Planes,S72_1253,France
+10186,28,52.14,Shipped,Planes,S72_1253,UK
+10197,29,41.71,Shipped,Planes,S72_1253,Spain
+10209,48,44.69,Shipped,Planes,S72_1253,USA
+10222,31,45.69,Shipped,Planes,S72_1253,USA
+10249,32,57.61,Shipped,Planes,S72_1253,USA
+10262,21,57.11,Cancelled,Planes,S72_1253,Spain
+10274,32,58.6,Shipped,Planes,S72_1253,USA
+10283,43,57.61,Shipped,Planes,S72_1253,Canada
+10296,21,45.19,Shipped,Planes,S72_1253,Germany
+10307,34,53.63,Shipped,Planes,S72_1253,USA
+10316,34,43.7,Shipped,Planes,S72_1253,UK
+10329,44,86.13,Shipped,Planes,S72_1253,USA
+10339,27,76.31,Shipped,Planes,S72_1253,Japan
+10352,49,52.64,Shipped,Planes,S72_1253,USA
+10361,23,95.2,Shipped,Planes,S72_1253,Australia
+10373,25,64.97,Shipped,Planes,S72_1253,Finland
+10386,50,87.15,Resolved,Planes,S72_1253,Spain
+10398,34,40.22,Shipped,Planes,S72_1253,France
+10400,20,56.12,Shipped,Planes,S72_1253,USA
+10415,42,57.61,Disputed,Planes,S72_1253,Australia
+10105,25,56.78,Shipped,Ships,S72_3212,Denmark
+10117,50,43.68,Shipped,Ships,S72_3212,Singapore
+10129,32,64.97,Shipped,Ships,S72_3212,UK
+10142,39,44.23,Shipped,Ships,S72_3212,USA
+10153,50,60.06,Shipped,Ships,S72_3212,Spain
+10167,38,48.59,Cancelled,Ships,S72_3212,Sweden
+10177,40,50.23,Shipped,Ships,S72_3212,Spain
+10185,28,64.43,Shipped,Ships,S72_3212,USA
+10197,42,50.23,Shipped,Ships,S72_3212,Spain
+10208,42,63.88,Shipped,Ships,S72_3212,France
+10222,36,63.34,Shipped,Ships,S72_3212,USA
+10232,24,49.69,Shipped,Ships,S72_3212,UK
+10248,23,65.52,Cancelled,Ships,S72_3212,USA
+10261,29,50.78,Shipped,Ships,S72_3212,Canada
+10273,37,45.86,Shipped,Ships,S72_3212,Belgium
+10283,33,51.32,Shipped,Ships,S72_3212,Canada
+10293,32,60.06,Shipped,Ships,S72_3212,Italy
+10306,35,59.51,Shipped,Ships,S72_3212,UK
+10315,40,55.69,Shipped,Ships,S72_3212,France
+10327,37,86.74,Resolved,Ships,S72_3212,Denmark
+10337,42,97.16,Shipped,Ships,S72_3212,USA
+10350,20,100,Shipped,Ships,S72_3212,Spain
+10373,29,100,Shipped,Ships,S72_3212,Finland
+10386,43,100,Resolved,Ships,S72_3212,Spain
+10397,34,62.24,Shipped,Ships,S72_3212,France
+10414,47,65.52,On Hold,Ships,S72_3212,USA
