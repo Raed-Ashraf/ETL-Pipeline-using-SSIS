@@ -43,7 +43,7 @@ Once you have the prerequisites in place, you can proceed with the following ste
 2. Execute the data flow within the solution to run the ETL process.
 
 ## Important Note on Data Loading
-In SSIS, when attempting to load data into a specific destination, such as a SQL Server database, it's crucial to ensure that the code page of the input data matches the code page of the destination. Failure to do so may result in errors. The solution to this issue is to align the source and destination with the same code page.
+In SSIS, when attempting to load data into a specific destination, such as a SQL Server database, it's crucial to ensure that the code page of the input data matches the code page of the destination. Failure to do so may result in errors such as below. The solution to this issue is to align the source and destination with the same code page.
 
 ![Code Page Error](Images/Code_Page_Error.png)
 
