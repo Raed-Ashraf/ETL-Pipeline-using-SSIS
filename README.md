@@ -18,7 +18,7 @@ The goal of this project is to extract sales data from a CSV file and perform th
 ### Destination
 - The destination is a SQL Server database table named "sales" with the following columns: ORDERNUMBER, SALES, STATUS, PRODUCTLINE, PRODUCTCODE, COUNTRY.
 
-### SSIS Pipeline Overview
+### SSIS Pipeline
 
 The image below provides an overview of the SSIS pipeline created for the ETL process in this project. This pipeline is responsible for extracting sales data, performing data transformations, and loading it into the SQL Server database for further analysis.
 
