@@ -32,7 +32,7 @@ In order to run the code of this project, ensure that the following prerequisite
 
 2. **Download the Solution File**: Download the solution file "Sales ETL Pipeline.sln".
 
-3. **Unzip the Solution**: Unzip the folder "Sales ETL Pipeline.7z".
+3. **Download and Unzip the Solution**: Download and Unzip the folder "Sales ETL Pipeline.7z".
 
 4. **SQL Server**: SQL Server should be installed on your machine to act as the destination database.
 
