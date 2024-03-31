@@ -48,4 +48,15 @@ In SSIS, when attempting to load data into a specific destination, such as a SQL
 ![Code Page Error](Images/Code_Page_Error.png)
 
 ## Error Resolution
-In this project, the source (a flat file) can be modified to match the destination (an OLE DB Destination step connecting to a SQL Server database) to avoid code page mismatch errors.
+In this project, the source (a flat file) can be modified to match the destination (an OLE DB Destination step connecting to a SQL Server database) to avoid code page mismatch errors as follows:
+1. Right click on the source in the connection manager’s window.
+
+![Code Page Error](Images/code_page_error_sol_1.png)
+   
+2. Choose Edit.
+3. Select the suitable code page for the destination.
+
+![Code Page Error](Images/code_page_error_sol_1.png)
+
+4. Press OK.
+5. If it doesn’t work immediately, you need to save it and restart SSIS Solution.
