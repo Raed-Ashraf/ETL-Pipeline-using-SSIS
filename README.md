@@ -18,6 +18,8 @@ The goal of this project is to extract sales data from a CSV file and perform th
 ### Destination
 - The destination is a SQL Server database table named "sales" with the following columns: ORDERNUMBER, SALES, STATUS, PRODUCTLINE, PRODUCTCODE, COUNTRY.
 
+### Pipeline 
+
 ## Important Note on Data Loading
 In SSIS, when attempting to load data into a specific destination, such as a SQL Server database, it's crucial to ensure that the code page of the input data matches the code page of the destination. Failure to do so may result in errors. The solution to this issue is to align the source and destination with the same code page.
 
