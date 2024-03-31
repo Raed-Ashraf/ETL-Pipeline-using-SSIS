@@ -56,7 +56,7 @@ In this project, the source (a flat file) can be modified to match the destinati
 2. Choose Edit.
 3. Select the suitable code page for the destination.
 
-![Code Page Error](Images/code_page_error_sol_1.png)
+![Code Page Error](Images/code_page_error_sol_2.png)
 
 4. Press OK.
 5. If it doesn’t work immediately, you need to save it and restart SSIS Solution.
