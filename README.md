@@ -45,5 +45,7 @@ Once you have the prerequisites in place, you can proceed with the following ste
 ## Important Note on Data Loading
 In SSIS, when attempting to load data into a specific destination, such as a SQL Server database, it's crucial to ensure that the code page of the input data matches the code page of the destination. Failure to do so may result in errors. The solution to this issue is to align the source and destination with the same code page.
 
+![Code Page Error](Images/Code_Page_Error.png)
+
 ## Error Resolution
 In this project, the source (a flat file) can be modified to match the destination (an OLE DB Destination step connecting to a SQL Server database) to avoid code page mismatch errors.
