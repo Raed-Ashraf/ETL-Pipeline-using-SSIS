@@ -24,6 +24,24 @@ The image below provides an overview of the SSIS pipeline created for the ETL pr
 
 ![SSIS Pipeline](Images/ETL_Pipeline.png)
 
+## Running the Project
+
+In order to run the code of this project, ensure that the following prerequisites are met:
+
+1. **Visual Studio 2019**: Ensure that Visual Studio 2019 is installed on your machine.
+
+2. **Download the Solution File**: Download the solution file "Sales ETL Pipeline.sln".
+
+3. **Unzip the Solution**: Unzip the folder "Sales ETL Pipeline.7z".
+
+4. **SQL Server**: SQL Server should be installed on your machine to act as the destination database.
+
+Once you have the prerequisites in place, you can proceed with the following steps:
+
+1. Open the file "Sales ETL Pipeline.sln" using Visual Studio 2019.
+
+2. Execute the data flow within the solution to run the ETL process.
+
 ## Important Note on Data Loading
 In SSIS, when attempting to load data into a specific destination, such as a SQL Server database, it's crucial to ensure that the code page of the input data matches the code page of the destination. Failure to do so may result in errors. The solution to this issue is to align the source and destination with the same code page.
 
